@@ -1,0 +1,16 @@
+site,N0_type,outcome,n,prop
+Green Rock Wall,max_observed_density,intermediate,1200,0.25
+Green Rock Wall,max_observed_density,outbreak_domain,3600,0.75
+Green Rock Wall,mean_observed_density,intermediate,2400,0.5
+Green Rock Wall,mean_observed_density,outbreak_domain,1200,0.25
+Green Rock Wall,mean_observed_density,returns_to_low_density,1200,0.25
+Red Rock Wall,max_observed_density,intermediate,2400,0.42857142857142855
+Red Rock Wall,max_observed_density,outbreak_domain,3200,0.5714285714285714
+Red Rock Wall,mean_observed_density,intermediate,1200,0.21428571428571427
+Red Rock Wall,mean_observed_density,outbreak_domain,2000,0.35714285714285715
+Red Rock Wall,mean_observed_density,returns_to_low_density,2400,0.42857142857142855
+Twins Wall,max_observed_density,intermediate,1200,0.25
+Twins Wall,max_observed_density,outbreak_domain,3600,0.75
+Twins Wall,mean_observed_density,intermediate,2400,0.5
+Twins Wall,mean_observed_density,outbreak_domain,1200,0.25
+Twins Wall,mean_observed_density,returns_to_low_density,1200,0.25
