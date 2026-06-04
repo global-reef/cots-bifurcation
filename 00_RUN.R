@@ -3,7 +3,7 @@
 
 ######### 0. Set Analysis Date & Create Project Folders #######
 
-analysis_date <- "2026_06_04"  # Update for each analysis run
+analysis_date <- "2026.06.04"  # Update for each analysis run
 
 output_dir <- file.path(getwd(), paste0("Analysis_", analysis_date))
 
@@ -70,7 +70,7 @@ site_cols <- c(
   "Outbreak" = "#007A87"
 )
 
-
+'''
 ######### 3. Source Helper Functions #######
 
 source(here("R", "functions_cleaning.R"))
@@ -100,4 +100,4 @@ source(here("04_SIMULATION_MODEL.R"))
 source(here("05_SENSITIVITY.R"))
 
 # 06 final plots and tables
-source(here("06_PLOTS.R"))
+source(here("06_PLOTS.R"))'''
