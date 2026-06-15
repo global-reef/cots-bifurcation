@@ -16,8 +16,11 @@
 
 library(tidyverse)
 library(lubridate)
+library(terra)
 
 analysis_date <-"2026.06.04" # update each run 
+
+
 
 # ---- Folder paths ----
 
@@ -34,7 +37,7 @@ dir.create(tables_dir, recursive = TRUE, showWarnings = FALSE)
 # ---- Input paths ----
 
 cots_path <- file.path(data_raw_dir, paste0(analysis_date, "_COTS.csv"))
-
+cpce_path <- file.path(data_raw_dir, paste0(analysis_date, "_cpce.csv"))
 # This is where the real substrate file will eventually go:
 # real_substrate_path <- file.path(data_raw_dir, "mario_substrate_raw.csv")
 
@@ -109,6 +112,30 @@ calc_r_T <- function(SST, r_max = 0.005, T_opt = 28.7, thermal_width = 3) {
   r_max * exp(-((SST - T_opt)^2) / (2 * thermal_width^2))
 }
 
+calc_r_T_ashna <- function(SST) {
+  
+  case_when(
+    is.na(SST) ~ NA_real_,
+    
+    # negligible growth below 26°C
+    SST < 26 ~ 0,
+    
+    # rising from 26 to 27°C
+    SST >= 26 & SST < 27 ~ scales::rescale(SST, to = c(0, 0.1), from = c(26, 27)),
+    
+    # rising from 27 to 28°C
+    SST >= 27 & SST < 28 ~ scales::rescale(SST, to = c(0.1, 0.25), from = c(27, 28)),
+    
+    # optimum plateau from 28 to 30°C
+    SST >= 28 & SST <= 30 ~ 0.25,
+    
+    # decline from 30 to 32°C
+    SST > 30 & SST <= 32 ~ scales::rescale(SST, to = c(0.25, 0.05), from = c(30, 32)),
+    
+    # negligible/low growth above 32°C
+    SST > 32 ~ 0.05
+  )
+}
 
 classify_threshold_position <- function(N0, K_t, buffer = 0.10) {
   case_when(
@@ -213,6 +240,12 @@ cots_raw <- read_csv(cots_path, show_col_types = FALSE) %>%
   select(!starts_with("_")) %>%
   select(!starts_with("..."))        # removes ...17/...18/...19 if they remain
 
+target_sites <- c(
+  "Green Rock Wall",
+  "Red Rock Wall",
+  "Twins Wall"
+)
+
 cots_clean <- cots_raw %>%
   mutate(
     site = standardise_site_names(site),
@@ -225,6 +258,7 @@ cots_clean <- cots_raw %>%
     size_cm = readr::parse_number(as.character(size_cm)),
     depth_m = readr::parse_number(as.character(depth_m))
   ) %>%
+  filter(site %in% target_sites) %>%
   select(!starts_with("_"))
 
 
@@ -249,11 +283,56 @@ write_csv(
   file.path(data_processed_dir, paste0(analysis_date, "_cots_clean.csv"))
 )
 
+
+
+
+# extracting SST from copernicus marine service information ### 
+sst_nc <- rast("data/raw/copernicus_sst.nc")
+## reference: DOI (product): https://doi.org/10.48670/moi-00052
+
+# References:
+#   
+#   Guinehut S., A.-L. Dhomps, G. Larnicol and P.-Y. Le Traon, 2012: High resolution 3D temperature and salinity fields derived from in situ and satellite observations. Ocean Sci., 8(5):845–857.
+# Mulet, S., M.-H. Rio, A. Mignot, S. Guinehut and R. Morrow, 2012: A new estimate of the global 3D geostrophic ocean circulation based on satellite data and in-situ measurements. Deep Sea Research Part II : Topical Studies in Oceanography, 77–80(0):70–81.
+#  We recommend this convention to cite a specific product:
+# "Product Title. E.U. Copernicus Marine Service Information (CMEMS). Marine Data Store (MDS). DOI: 10.48670/moi-xxxxx (Accessed on DD MMM YYYY)"
+sst_nc
+
+kny_lat <- 10 + 7/60 + 2.42/3600
+kny_lon <- 99 + 48/60 + 51.84/3600
+
+kny_point <- terra::vect(
+  data.frame(lon = kny_lon, lat = kny_lat),
+  geom = c("lon", "lat"),
+  crs = "EPSG:4326"
+)
+sst_dates <- as.Date(terra::time(sst_nc))
+sst_dates[1:10]
+
+terra::depth(sst_nc)
+sst_surface <- sst_nc[[terra::depth(sst_nc) == 0]]
+sst_dates <- as.Date(terra::time(sst_surface))
+
+extract_sst_by_date <- function(survey_date) {
+  
+  nearest_layer <- which.min(abs(sst_dates - survey_date))
+  
+  sst_value <- terra::extract(
+    sst_surface[[nearest_layer]],
+    kny_point
+  )
+  
+  as.numeric(sst_value[1, 2])
+}
+# add sst to cots 
+cots_summary <- cots_summary %>%
+  mutate(
+    SST = purrr::map_dbl(date, extract_sst_by_date)
+  )
 write_csv(
   cots_summary,
   file.path(data_processed_dir, paste0(analysis_date, "_cots_summary.csv"))
 )
-
 
 # ============================================================
 # 4. Read and clean substrate data
@@ -317,28 +396,62 @@ write_csv(
 # For the first version, use site-level maximum and mean observed density.
 # Max density is useful as a stress-test starting condition.
 # Mean density is useful as a typical observed condition.
-
 site_cots_inputs <- cots_summary %>%
   group_by(site) %>%
   summarise(
-    mean_cots_density_ha = mean(cots_density_ha, na.rm = TRUE),
-    max_cots_density_ha = max(cots_density_ha, na.rm = TRUE),
-    n_surveys = n(),
+    median_density = median(cots_density_ha, na.rm = TRUE),
+    mean_density   = mean(cots_density_ha, na.rm = TRUE),
+    q75_density    = quantile(cots_density_ha, 0.75, na.rm = TRUE),
+    q90_density    = quantile(cots_density_ha, 0.90, na.rm = TRUE),
+    max_density    = max(cots_density_ha, na.rm = TRUE),
+    n_surveys      = n(),
     .groups = "drop"
   ) %>%
   pivot_longer(
-    cols = c(mean_cots_density_ha, max_cots_density_ha),
+    cols = c(
+      median_density,
+      mean_density,
+      q75_density,
+      q90_density,
+      max_density
+    ),
     names_to = "N0_type",
     values_to = "N0"
   ) %>%
   mutate(
     N0_type = recode(
       N0_type,
-      mean_cots_density_ha = "mean_observed_density",
-      max_cots_density_ha = "max_observed_density"
+      median_density = "median_observed_density",
+      mean_density   = "mean_observed_density",
+      q75_density    = "q75_observed_density",
+      q90_density    = "q90_observed_density",
+      max_density    = "max_observed_density"
     )
   )
+site_n0_sst <- site_cots_inputs %>%
+  left_join(
+    cots_summary %>%
+      select(site, date, survey_id, cots_density_ha, SST),
+    by = "site"
+  ) %>%
+  group_by(site, N0_type, N0) %>%
+  slice_min(
+    order_by = abs(cots_density_ha - N0),
+    n = 1,
+    with_ties = FALSE
+  ) %>%
+  ungroup() %>%
+  transmute(
+    site,
+    N0_type,
+    N0,
+    representative_survey_id = survey_id,
+    representative_date = date,
+    SST,
+    r_T = calc_r_T_ashna(SST)
+  )
 
+site_cots_inputs <- site_n0_sst
 
 # ============================================================
 # 6. Build parameter grid
@@ -367,17 +480,6 @@ kc_scenarios <- tibble(
   K_c = c(25, 50, 100, 20, 75)
 )
 
-# ---- SST scenarios ----
-# r_T is currently a simple unimodal thermal performance modifier.
-# This can be replaced later with a literature-derived function.
-
-sst_scenarios <- tibble(
-  sst_scenario = c("cool", "current_mean", "warm", "extreme_warm"),
-  SST = c(27, 29, 31, 32)
-) %>%
-  mutate(
-    r_T = calc_r_T(SST)
-  )
 
 # ---- Use latest live coral value per site for first plug-and-play version ----
 # Later this can be changed to site-date matching or nearest-date matching.
@@ -390,17 +492,24 @@ live_coral_site <- live_coral_summary %>%
   select(site, substrate_date = date, live_coral_prop, live_coral_percent)
 
 # ---- Full parameter grid ----
-
 parameter_grid <- site_cots_inputs %>%
   left_join(live_coral_site, by = "site") %>%
-  crossing(state1_scenarios, kc_scenarios, sst_scenarios) %>%
+  crossing(state1_scenarios, kc_scenarios) %>%
   mutate(
     K_t = K_c * live_coral_prop,
+    
     valid_state_order = State_1 < K_t & K_t < K_c,
-    observed_threshold_position = classify_threshold_position(N0, K_t),
+    
+    observed_threshold_position = case_when(
+      N0 < State_1 ~ "below_endemic_state",
+      N0 >= State_1 & N0 < K_t ~ "allee_basin",
+      N0 >= K_t & N0 < K_c ~ "above_tipping_threshold",
+      N0 >= K_c ~ "outbreak_overshoot",
+      TRUE ~ NA_character_
+    ),
+    
     sim_id = row_number()
   )
-
 # Keep invalid scenarios in the table for transparency,
 # but only valid scenarios will be simulated.
 
@@ -423,6 +532,10 @@ sim_results <- parameter_grid_valid %>%
     site,
     N0_type,
     N0,
+    representative_survey_id,
+    representative_date,
+    SST,
+    r_T,
     substrate_date,
     live_coral_prop,
     live_coral_percent,
@@ -431,16 +544,15 @@ sim_results <- parameter_grid_valid %>%
     kc_scenario,
     K_c,
     K_t,
-    sst_scenario,
-    SST,
-    r_T,
     observed_threshold_position
   ) %>%
-  pmap_dfr(function(sim_id, site, N0_type, N0, substrate_date,
+  pmap_dfr(function(sim_id, site, N0_type, N0,
+                    representative_survey_id, representative_date,
+                    SST, r_T,
+                    substrate_date,
                     live_coral_prop, live_coral_percent,
                     state1_scenario, State_1,
                     kc_scenario, K_c, K_t,
-                    sst_scenario, SST, r_T,
                     observed_threshold_position) {
     
     simulate_cots(
@@ -457,6 +569,10 @@ sim_results <- parameter_grid_valid %>%
         site = site,
         N0_type = N0_type,
         N0 = N0,
+        representative_survey_id = representative_survey_id,
+        representative_date = representative_date,
+        SST = SST,
+        r_T = r_T,
         substrate_date = substrate_date,
         live_coral_prop = live_coral_prop,
         live_coral_percent = live_coral_percent,
@@ -465,9 +581,6 @@ sim_results <- parameter_grid_valid %>%
         kc_scenario = kc_scenario,
         K_c = K_c,
         K_t = K_t,
-        sst_scenario = sst_scenario,
-        SST = SST,
-        r_T = r_T,
         observed_threshold_position = observed_threshold_position
       )
   })
@@ -495,7 +608,6 @@ sim_summary <- sim_results %>%
     kc_scenario,
     K_c,
     K_t,
-    sst_scenario,
     SST,
     r_T,
     observed_threshold_position
@@ -604,6 +716,10 @@ ggsave(
 )
 
 p_outcomes
+
+# check parameter grid # 
+parameter_grid %>%
+  count(site, observed_threshold_position)
 # ============================================================
 # 10. Quick console summaries
 # ============================================================

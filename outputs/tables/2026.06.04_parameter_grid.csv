@@ -1,841 +1,226 @@
-site,n_surveys,N0_type,N0,substrate_date,live_coral_prop,live_coral_percent,state1_scenario,State_1,kc_scenario,K_c,sst_scenario,SST,r_T,K_t,valid_state_order,observed_threshold_position,sim_id
-Aow Leuk,20,max_observed_density,15,NA,NA,NA,base_endemic,8,disturbed_reef_reduced_K,20,cool,27,0.004258352536147206,NA,NA,NA,1
-Aow Leuk,20,max_observed_density,15,NA,NA,NA,base_endemic,8,disturbed_reef_reduced_K,20,current_mean,29,0.004975062395963412,NA,NA,NA,2
-Aow Leuk,20,max_observed_density,15,NA,NA,NA,base_endemic,8,disturbed_reef_reduced_K,20,extreme_warm,32,0.0027303721331985464,NA,NA,NA,3
-Aow Leuk,20,max_observed_density,15,NA,NA,NA,base_endemic,8,disturbed_reef_reduced_K,20,warm,31,0.0037267965227149014,NA,NA,NA,4
-Aow Leuk,20,max_observed_density,15,NA,NA,NA,base_endemic,8,high_coral_high_K,100,cool,27,0.004258352536147206,NA,NA,NA,5
-Aow Leuk,20,max_observed_density,15,NA,NA,NA,base_endemic,8,high_coral_high_K,100,current_mean,29,0.004975062395963412,NA,NA,NA,6
-Aow Leuk,20,max_observed_density,15,NA,NA,NA,base_endemic,8,high_coral_high_K,100,extreme_warm,32,0.0027303721331985464,NA,NA,NA,7
-Aow Leuk,20,max_observed_density,15,NA,NA,NA,base_endemic,8,high_coral_high_K,100,warm,31,0.0037267965227149014,NA,NA,NA,8
-Aow Leuk,20,max_observed_density,15,NA,NA,NA,base_endemic,8,low_coral_low_K,25,cool,27,0.004258352536147206,NA,NA,NA,9
-Aow Leuk,20,max_observed_density,15,NA,NA,NA,base_endemic,8,low_coral_low_K,25,current_mean,29,0.004975062395963412,NA,NA,NA,10
-Aow Leuk,20,max_observed_density,15,NA,NA,NA,base_endemic,8,low_coral_low_K,25,extreme_warm,32,0.0027303721331985464,NA,NA,NA,11
-Aow Leuk,20,max_observed_density,15,NA,NA,NA,base_endemic,8,low_coral_low_K,25,warm,31,0.0037267965227149014,NA,NA,NA,12
-Aow Leuk,20,max_observed_density,15,NA,NA,NA,base_endemic,8,moderate_coral_moderate_K,50,cool,27,0.004258352536147206,NA,NA,NA,13
-Aow Leuk,20,max_observed_density,15,NA,NA,NA,base_endemic,8,moderate_coral_moderate_K,50,current_mean,29,0.004975062395963412,NA,NA,NA,14
-Aow Leuk,20,max_observed_density,15,NA,NA,NA,base_endemic,8,moderate_coral_moderate_K,50,extreme_warm,32,0.0027303721331985464,NA,NA,NA,15
-Aow Leuk,20,max_observed_density,15,NA,NA,NA,base_endemic,8,moderate_coral_moderate_K,50,warm,31,0.0037267965227149014,NA,NA,NA,16
-Aow Leuk,20,max_observed_density,15,NA,NA,NA,base_endemic,8,recovery_reef_increasing_K,75,cool,27,0.004258352536147206,NA,NA,NA,17
-Aow Leuk,20,max_observed_density,15,NA,NA,NA,base_endemic,8,recovery_reef_increasing_K,75,current_mean,29,0.004975062395963412,NA,NA,NA,18
-Aow Leuk,20,max_observed_density,15,NA,NA,NA,base_endemic,8,recovery_reef_increasing_K,75,extreme_warm,32,0.0027303721331985464,NA,NA,NA,19
-Aow Leuk,20,max_observed_density,15,NA,NA,NA,base_endemic,8,recovery_reef_increasing_K,75,warm,31,0.0037267965227149014,NA,NA,NA,20
-Aow Leuk,20,max_observed_density,15,NA,NA,NA,high_endemic,10,disturbed_reef_reduced_K,20,cool,27,0.004258352536147206,NA,NA,NA,21
-Aow Leuk,20,max_observed_density,15,NA,NA,NA,high_endemic,10,disturbed_reef_reduced_K,20,current_mean,29,0.004975062395963412,NA,NA,NA,22
-Aow Leuk,20,max_observed_density,15,NA,NA,NA,high_endemic,10,disturbed_reef_reduced_K,20,extreme_warm,32,0.0027303721331985464,NA,NA,NA,23
-Aow Leuk,20,max_observed_density,15,NA,NA,NA,high_endemic,10,disturbed_reef_reduced_K,20,warm,31,0.0037267965227149014,NA,NA,NA,24
-Aow Leuk,20,max_observed_density,15,NA,NA,NA,high_endemic,10,high_coral_high_K,100,cool,27,0.004258352536147206,NA,NA,NA,25
-Aow Leuk,20,max_observed_density,15,NA,NA,NA,high_endemic,10,high_coral_high_K,100,current_mean,29,0.004975062395963412,NA,NA,NA,26
-Aow Leuk,20,max_observed_density,15,NA,NA,NA,high_endemic,10,high_coral_high_K,100,extreme_warm,32,0.0027303721331985464,NA,NA,NA,27
-Aow Leuk,20,max_observed_density,15,NA,NA,NA,high_endemic,10,high_coral_high_K,100,warm,31,0.0037267965227149014,NA,NA,NA,28
-Aow Leuk,20,max_observed_density,15,NA,NA,NA,high_endemic,10,low_coral_low_K,25,cool,27,0.004258352536147206,NA,NA,NA,29
-Aow Leuk,20,max_observed_density,15,NA,NA,NA,high_endemic,10,low_coral_low_K,25,current_mean,29,0.004975062395963412,NA,NA,NA,30
-Aow Leuk,20,max_observed_density,15,NA,NA,NA,high_endemic,10,low_coral_low_K,25,extreme_warm,32,0.0027303721331985464,NA,NA,NA,31
-Aow Leuk,20,max_observed_density,15,NA,NA,NA,high_endemic,10,low_coral_low_K,25,warm,31,0.0037267965227149014,NA,NA,NA,32
-Aow Leuk,20,max_observed_density,15,NA,NA,NA,high_endemic,10,moderate_coral_moderate_K,50,cool,27,0.004258352536147206,NA,NA,NA,33
-Aow Leuk,20,max_observed_density,15,NA,NA,NA,high_endemic,10,moderate_coral_moderate_K,50,current_mean,29,0.004975062395963412,NA,NA,NA,34
-Aow Leuk,20,max_observed_density,15,NA,NA,NA,high_endemic,10,moderate_coral_moderate_K,50,extreme_warm,32,0.0027303721331985464,NA,NA,NA,35
-Aow Leuk,20,max_observed_density,15,NA,NA,NA,high_endemic,10,moderate_coral_moderate_K,50,warm,31,0.0037267965227149014,NA,NA,NA,36
-Aow Leuk,20,max_observed_density,15,NA,NA,NA,high_endemic,10,recovery_reef_increasing_K,75,cool,27,0.004258352536147206,NA,NA,NA,37
-Aow Leuk,20,max_observed_density,15,NA,NA,NA,high_endemic,10,recovery_reef_increasing_K,75,current_mean,29,0.004975062395963412,NA,NA,NA,38
-Aow Leuk,20,max_observed_density,15,NA,NA,NA,high_endemic,10,recovery_reef_increasing_K,75,extreme_warm,32,0.0027303721331985464,NA,NA,NA,39
-Aow Leuk,20,max_observed_density,15,NA,NA,NA,high_endemic,10,recovery_reef_increasing_K,75,warm,31,0.0037267965227149014,NA,NA,NA,40
-Aow Leuk,20,max_observed_density,15,NA,NA,NA,low_endemic,3,disturbed_reef_reduced_K,20,cool,27,0.004258352536147206,NA,NA,NA,41
-Aow Leuk,20,max_observed_density,15,NA,NA,NA,low_endemic,3,disturbed_reef_reduced_K,20,current_mean,29,0.004975062395963412,NA,NA,NA,42
-Aow Leuk,20,max_observed_density,15,NA,NA,NA,low_endemic,3,disturbed_reef_reduced_K,20,extreme_warm,32,0.0027303721331985464,NA,NA,NA,43
-Aow Leuk,20,max_observed_density,15,NA,NA,NA,low_endemic,3,disturbed_reef_reduced_K,20,warm,31,0.0037267965227149014,NA,NA,NA,44
-Aow Leuk,20,max_observed_density,15,NA,NA,NA,low_endemic,3,high_coral_high_K,100,cool,27,0.004258352536147206,NA,NA,NA,45
-Aow Leuk,20,max_observed_density,15,NA,NA,NA,low_endemic,3,high_coral_high_K,100,current_mean,29,0.004975062395963412,NA,NA,NA,46
-Aow Leuk,20,max_observed_density,15,NA,NA,NA,low_endemic,3,high_coral_high_K,100,extreme_warm,32,0.0027303721331985464,NA,NA,NA,47
-Aow Leuk,20,max_observed_density,15,NA,NA,NA,low_endemic,3,high_coral_high_K,100,warm,31,0.0037267965227149014,NA,NA,NA,48
-Aow Leuk,20,max_observed_density,15,NA,NA,NA,low_endemic,3,low_coral_low_K,25,cool,27,0.004258352536147206,NA,NA,NA,49
-Aow Leuk,20,max_observed_density,15,NA,NA,NA,low_endemic,3,low_coral_low_K,25,current_mean,29,0.004975062395963412,NA,NA,NA,50
-Aow Leuk,20,max_observed_density,15,NA,NA,NA,low_endemic,3,low_coral_low_K,25,extreme_warm,32,0.0027303721331985464,NA,NA,NA,51
-Aow Leuk,20,max_observed_density,15,NA,NA,NA,low_endemic,3,low_coral_low_K,25,warm,31,0.0037267965227149014,NA,NA,NA,52
-Aow Leuk,20,max_observed_density,15,NA,NA,NA,low_endemic,3,moderate_coral_moderate_K,50,cool,27,0.004258352536147206,NA,NA,NA,53
-Aow Leuk,20,max_observed_density,15,NA,NA,NA,low_endemic,3,moderate_coral_moderate_K,50,current_mean,29,0.004975062395963412,NA,NA,NA,54
-Aow Leuk,20,max_observed_density,15,NA,NA,NA,low_endemic,3,moderate_coral_moderate_K,50,extreme_warm,32,0.0027303721331985464,NA,NA,NA,55
-Aow Leuk,20,max_observed_density,15,NA,NA,NA,low_endemic,3,moderate_coral_moderate_K,50,warm,31,0.0037267965227149014,NA,NA,NA,56
-Aow Leuk,20,max_observed_density,15,NA,NA,NA,low_endemic,3,recovery_reef_increasing_K,75,cool,27,0.004258352536147206,NA,NA,NA,57
-Aow Leuk,20,max_observed_density,15,NA,NA,NA,low_endemic,3,recovery_reef_increasing_K,75,current_mean,29,0.004975062395963412,NA,NA,NA,58
-Aow Leuk,20,max_observed_density,15,NA,NA,NA,low_endemic,3,recovery_reef_increasing_K,75,extreme_warm,32,0.0027303721331985464,NA,NA,NA,59
-Aow Leuk,20,max_observed_density,15,NA,NA,NA,low_endemic,3,recovery_reef_increasing_K,75,warm,31,0.0037267965227149014,NA,NA,NA,60
-Aow Leuk,20,mean_observed_density,8.75,NA,NA,NA,base_endemic,8,disturbed_reef_reduced_K,20,cool,27,0.004258352536147206,NA,NA,NA,61
-Aow Leuk,20,mean_observed_density,8.75,NA,NA,NA,base_endemic,8,disturbed_reef_reduced_K,20,current_mean,29,0.004975062395963412,NA,NA,NA,62
-Aow Leuk,20,mean_observed_density,8.75,NA,NA,NA,base_endemic,8,disturbed_reef_reduced_K,20,extreme_warm,32,0.0027303721331985464,NA,NA,NA,63
-Aow Leuk,20,mean_observed_density,8.75,NA,NA,NA,base_endemic,8,disturbed_reef_reduced_K,20,warm,31,0.0037267965227149014,NA,NA,NA,64
-Aow Leuk,20,mean_observed_density,8.75,NA,NA,NA,base_endemic,8,high_coral_high_K,100,cool,27,0.004258352536147206,NA,NA,NA,65
-Aow Leuk,20,mean_observed_density,8.75,NA,NA,NA,base_endemic,8,high_coral_high_K,100,current_mean,29,0.004975062395963412,NA,NA,NA,66
-Aow Leuk,20,mean_observed_density,8.75,NA,NA,NA,base_endemic,8,high_coral_high_K,100,extreme_warm,32,0.0027303721331985464,NA,NA,NA,67
-Aow Leuk,20,mean_observed_density,8.75,NA,NA,NA,base_endemic,8,high_coral_high_K,100,warm,31,0.0037267965227149014,NA,NA,NA,68
-Aow Leuk,20,mean_observed_density,8.75,NA,NA,NA,base_endemic,8,low_coral_low_K,25,cool,27,0.004258352536147206,NA,NA,NA,69
-Aow Leuk,20,mean_observed_density,8.75,NA,NA,NA,base_endemic,8,low_coral_low_K,25,current_mean,29,0.004975062395963412,NA,NA,NA,70
-Aow Leuk,20,mean_observed_density,8.75,NA,NA,NA,base_endemic,8,low_coral_low_K,25,extreme_warm,32,0.0027303721331985464,NA,NA,NA,71
-Aow Leuk,20,mean_observed_density,8.75,NA,NA,NA,base_endemic,8,low_coral_low_K,25,warm,31,0.0037267965227149014,NA,NA,NA,72
-Aow Leuk,20,mean_observed_density,8.75,NA,NA,NA,base_endemic,8,moderate_coral_moderate_K,50,cool,27,0.004258352536147206,NA,NA,NA,73
-Aow Leuk,20,mean_observed_density,8.75,NA,NA,NA,base_endemic,8,moderate_coral_moderate_K,50,current_mean,29,0.004975062395963412,NA,NA,NA,74
-Aow Leuk,20,mean_observed_density,8.75,NA,NA,NA,base_endemic,8,moderate_coral_moderate_K,50,extreme_warm,32,0.0027303721331985464,NA,NA,NA,75
-Aow Leuk,20,mean_observed_density,8.75,NA,NA,NA,base_endemic,8,moderate_coral_moderate_K,50,warm,31,0.0037267965227149014,NA,NA,NA,76
-Aow Leuk,20,mean_observed_density,8.75,NA,NA,NA,base_endemic,8,recovery_reef_increasing_K,75,cool,27,0.004258352536147206,NA,NA,NA,77
-Aow Leuk,20,mean_observed_density,8.75,NA,NA,NA,base_endemic,8,recovery_reef_increasing_K,75,current_mean,29,0.004975062395963412,NA,NA,NA,78
-Aow Leuk,20,mean_observed_density,8.75,NA,NA,NA,base_endemic,8,recovery_reef_increasing_K,75,extreme_warm,32,0.0027303721331985464,NA,NA,NA,79
-Aow Leuk,20,mean_observed_density,8.75,NA,NA,NA,base_endemic,8,recovery_reef_increasing_K,75,warm,31,0.0037267965227149014,NA,NA,NA,80
-Aow Leuk,20,mean_observed_density,8.75,NA,NA,NA,high_endemic,10,disturbed_reef_reduced_K,20,cool,27,0.004258352536147206,NA,NA,NA,81
-Aow Leuk,20,mean_observed_density,8.75,NA,NA,NA,high_endemic,10,disturbed_reef_reduced_K,20,current_mean,29,0.004975062395963412,NA,NA,NA,82
-Aow Leuk,20,mean_observed_density,8.75,NA,NA,NA,high_endemic,10,disturbed_reef_reduced_K,20,extreme_warm,32,0.0027303721331985464,NA,NA,NA,83
-Aow Leuk,20,mean_observed_density,8.75,NA,NA,NA,high_endemic,10,disturbed_reef_reduced_K,20,warm,31,0.0037267965227149014,NA,NA,NA,84
-Aow Leuk,20,mean_observed_density,8.75,NA,NA,NA,high_endemic,10,high_coral_high_K,100,cool,27,0.004258352536147206,NA,NA,NA,85
-Aow Leuk,20,mean_observed_density,8.75,NA,NA,NA,high_endemic,10,high_coral_high_K,100,current_mean,29,0.004975062395963412,NA,NA,NA,86
-Aow Leuk,20,mean_observed_density,8.75,NA,NA,NA,high_endemic,10,high_coral_high_K,100,extreme_warm,32,0.0027303721331985464,NA,NA,NA,87
-Aow Leuk,20,mean_observed_density,8.75,NA,NA,NA,high_endemic,10,high_coral_high_K,100,warm,31,0.0037267965227149014,NA,NA,NA,88
-Aow Leuk,20,mean_observed_density,8.75,NA,NA,NA,high_endemic,10,low_coral_low_K,25,cool,27,0.004258352536147206,NA,NA,NA,89
-Aow Leuk,20,mean_observed_density,8.75,NA,NA,NA,high_endemic,10,low_coral_low_K,25,current_mean,29,0.004975062395963412,NA,NA,NA,90
-Aow Leuk,20,mean_observed_density,8.75,NA,NA,NA,high_endemic,10,low_coral_low_K,25,extreme_warm,32,0.0027303721331985464,NA,NA,NA,91
-Aow Leuk,20,mean_observed_density,8.75,NA,NA,NA,high_endemic,10,low_coral_low_K,25,warm,31,0.0037267965227149014,NA,NA,NA,92
-Aow Leuk,20,mean_observed_density,8.75,NA,NA,NA,high_endemic,10,moderate_coral_moderate_K,50,cool,27,0.004258352536147206,NA,NA,NA,93
-Aow Leuk,20,mean_observed_density,8.75,NA,NA,NA,high_endemic,10,moderate_coral_moderate_K,50,current_mean,29,0.004975062395963412,NA,NA,NA,94
-Aow Leuk,20,mean_observed_density,8.75,NA,NA,NA,high_endemic,10,moderate_coral_moderate_K,50,extreme_warm,32,0.0027303721331985464,NA,NA,NA,95
-Aow Leuk,20,mean_observed_density,8.75,NA,NA,NA,high_endemic,10,moderate_coral_moderate_K,50,warm,31,0.0037267965227149014,NA,NA,NA,96
-Aow Leuk,20,mean_observed_density,8.75,NA,NA,NA,high_endemic,10,recovery_reef_increasing_K,75,cool,27,0.004258352536147206,NA,NA,NA,97
-Aow Leuk,20,mean_observed_density,8.75,NA,NA,NA,high_endemic,10,recovery_reef_increasing_K,75,current_mean,29,0.004975062395963412,NA,NA,NA,98
-Aow Leuk,20,mean_observed_density,8.75,NA,NA,NA,high_endemic,10,recovery_reef_increasing_K,75,extreme_warm,32,0.0027303721331985464,NA,NA,NA,99
-Aow Leuk,20,mean_observed_density,8.75,NA,NA,NA,high_endemic,10,recovery_reef_increasing_K,75,warm,31,0.0037267965227149014,NA,NA,NA,100
-Aow Leuk,20,mean_observed_density,8.75,NA,NA,NA,low_endemic,3,disturbed_reef_reduced_K,20,cool,27,0.004258352536147206,NA,NA,NA,101
-Aow Leuk,20,mean_observed_density,8.75,NA,NA,NA,low_endemic,3,disturbed_reef_reduced_K,20,current_mean,29,0.004975062395963412,NA,NA,NA,102
-Aow Leuk,20,mean_observed_density,8.75,NA,NA,NA,low_endemic,3,disturbed_reef_reduced_K,20,extreme_warm,32,0.0027303721331985464,NA,NA,NA,103
-Aow Leuk,20,mean_observed_density,8.75,NA,NA,NA,low_endemic,3,disturbed_reef_reduced_K,20,warm,31,0.0037267965227149014,NA,NA,NA,104
-Aow Leuk,20,mean_observed_density,8.75,NA,NA,NA,low_endemic,3,high_coral_high_K,100,cool,27,0.004258352536147206,NA,NA,NA,105
-Aow Leuk,20,mean_observed_density,8.75,NA,NA,NA,low_endemic,3,high_coral_high_K,100,current_mean,29,0.004975062395963412,NA,NA,NA,106
-Aow Leuk,20,mean_observed_density,8.75,NA,NA,NA,low_endemic,3,high_coral_high_K,100,extreme_warm,32,0.0027303721331985464,NA,NA,NA,107
-Aow Leuk,20,mean_observed_density,8.75,NA,NA,NA,low_endemic,3,high_coral_high_K,100,warm,31,0.0037267965227149014,NA,NA,NA,108
-Aow Leuk,20,mean_observed_density,8.75,NA,NA,NA,low_endemic,3,low_coral_low_K,25,cool,27,0.004258352536147206,NA,NA,NA,109
-Aow Leuk,20,mean_observed_density,8.75,NA,NA,NA,low_endemic,3,low_coral_low_K,25,current_mean,29,0.004975062395963412,NA,NA,NA,110
-Aow Leuk,20,mean_observed_density,8.75,NA,NA,NA,low_endemic,3,low_coral_low_K,25,extreme_warm,32,0.0027303721331985464,NA,NA,NA,111
-Aow Leuk,20,mean_observed_density,8.75,NA,NA,NA,low_endemic,3,low_coral_low_K,25,warm,31,0.0037267965227149014,NA,NA,NA,112
-Aow Leuk,20,mean_observed_density,8.75,NA,NA,NA,low_endemic,3,moderate_coral_moderate_K,50,cool,27,0.004258352536147206,NA,NA,NA,113
-Aow Leuk,20,mean_observed_density,8.75,NA,NA,NA,low_endemic,3,moderate_coral_moderate_K,50,current_mean,29,0.004975062395963412,NA,NA,NA,114
-Aow Leuk,20,mean_observed_density,8.75,NA,NA,NA,low_endemic,3,moderate_coral_moderate_K,50,extreme_warm,32,0.0027303721331985464,NA,NA,NA,115
-Aow Leuk,20,mean_observed_density,8.75,NA,NA,NA,low_endemic,3,moderate_coral_moderate_K,50,warm,31,0.0037267965227149014,NA,NA,NA,116
-Aow Leuk,20,mean_observed_density,8.75,NA,NA,NA,low_endemic,3,recovery_reef_increasing_K,75,cool,27,0.004258352536147206,NA,NA,NA,117
-Aow Leuk,20,mean_observed_density,8.75,NA,NA,NA,low_endemic,3,recovery_reef_increasing_K,75,current_mean,29,0.004975062395963412,NA,NA,NA,118
-Aow Leuk,20,mean_observed_density,8.75,NA,NA,NA,low_endemic,3,recovery_reef_increasing_K,75,extreme_warm,32,0.0027303721331985464,NA,NA,NA,119
-Aow Leuk,20,mean_observed_density,8.75,NA,NA,NA,low_endemic,3,recovery_reef_increasing_K,75,warm,31,0.0037267965227149014,NA,NA,NA,120
-Green Rock Wall,44,max_observed_density,80,2024-11-01,0.395,39.5,base_endemic,8,disturbed_reef_reduced_K,20,cool,27,0.004258352536147206,7.9,FALSE,above_threshold,121
-Green Rock Wall,44,max_observed_density,80,2024-11-01,0.395,39.5,base_endemic,8,disturbed_reef_reduced_K,20,current_mean,29,0.004975062395963412,7.9,FALSE,above_threshold,122
-Green Rock Wall,44,max_observed_density,80,2024-11-01,0.395,39.5,base_endemic,8,disturbed_reef_reduced_K,20,extreme_warm,32,0.0027303721331985464,7.9,FALSE,above_threshold,123
-Green Rock Wall,44,max_observed_density,80,2024-11-01,0.395,39.5,base_endemic,8,disturbed_reef_reduced_K,20,warm,31,0.0037267965227149014,7.9,FALSE,above_threshold,124
-Green Rock Wall,44,max_observed_density,80,2024-11-01,0.395,39.5,base_endemic,8,high_coral_high_K,100,cool,27,0.004258352536147206,39.5,TRUE,above_threshold,125
-Green Rock Wall,44,max_observed_density,80,2024-11-01,0.395,39.5,base_endemic,8,high_coral_high_K,100,current_mean,29,0.004975062395963412,39.5,TRUE,above_threshold,126
-Green Rock Wall,44,max_observed_density,80,2024-11-01,0.395,39.5,base_endemic,8,high_coral_high_K,100,extreme_warm,32,0.0027303721331985464,39.5,TRUE,above_threshold,127
-Green Rock Wall,44,max_observed_density,80,2024-11-01,0.395,39.5,base_endemic,8,high_coral_high_K,100,warm,31,0.0037267965227149014,39.5,TRUE,above_threshold,128
-Green Rock Wall,44,max_observed_density,80,2024-11-01,0.395,39.5,base_endemic,8,low_coral_low_K,25,cool,27,0.004258352536147206,9.875,TRUE,above_threshold,129
-Green Rock Wall,44,max_observed_density,80,2024-11-01,0.395,39.5,base_endemic,8,low_coral_low_K,25,current_mean,29,0.004975062395963412,9.875,TRUE,above_threshold,130
-Green Rock Wall,44,max_observed_density,80,2024-11-01,0.395,39.5,base_endemic,8,low_coral_low_K,25,extreme_warm,32,0.0027303721331985464,9.875,TRUE,above_threshold,131
-Green Rock Wall,44,max_observed_density,80,2024-11-01,0.395,39.5,base_endemic,8,low_coral_low_K,25,warm,31,0.0037267965227149014,9.875,TRUE,above_threshold,132
-Green Rock Wall,44,max_observed_density,80,2024-11-01,0.395,39.5,base_endemic,8,moderate_coral_moderate_K,50,cool,27,0.004258352536147206,19.75,TRUE,above_threshold,133
-Green Rock Wall,44,max_observed_density,80,2024-11-01,0.395,39.5,base_endemic,8,moderate_coral_moderate_K,50,current_mean,29,0.004975062395963412,19.75,TRUE,above_threshold,134
-Green Rock Wall,44,max_observed_density,80,2024-11-01,0.395,39.5,base_endemic,8,moderate_coral_moderate_K,50,extreme_warm,32,0.0027303721331985464,19.75,TRUE,above_threshold,135
-Green Rock Wall,44,max_observed_density,80,2024-11-01,0.395,39.5,base_endemic,8,moderate_coral_moderate_K,50,warm,31,0.0037267965227149014,19.75,TRUE,above_threshold,136
-Green Rock Wall,44,max_observed_density,80,2024-11-01,0.395,39.5,base_endemic,8,recovery_reef_increasing_K,75,cool,27,0.004258352536147206,29.625,TRUE,above_threshold,137
-Green Rock Wall,44,max_observed_density,80,2024-11-01,0.395,39.5,base_endemic,8,recovery_reef_increasing_K,75,current_mean,29,0.004975062395963412,29.625,TRUE,above_threshold,138
-Green Rock Wall,44,max_observed_density,80,2024-11-01,0.395,39.5,base_endemic,8,recovery_reef_increasing_K,75,extreme_warm,32,0.0027303721331985464,29.625,TRUE,above_threshold,139
-Green Rock Wall,44,max_observed_density,80,2024-11-01,0.395,39.5,base_endemic,8,recovery_reef_increasing_K,75,warm,31,0.0037267965227149014,29.625,TRUE,above_threshold,140
-Green Rock Wall,44,max_observed_density,80,2024-11-01,0.395,39.5,high_endemic,10,disturbed_reef_reduced_K,20,cool,27,0.004258352536147206,7.9,FALSE,above_threshold,141
-Green Rock Wall,44,max_observed_density,80,2024-11-01,0.395,39.5,high_endemic,10,disturbed_reef_reduced_K,20,current_mean,29,0.004975062395963412,7.9,FALSE,above_threshold,142
-Green Rock Wall,44,max_observed_density,80,2024-11-01,0.395,39.5,high_endemic,10,disturbed_reef_reduced_K,20,extreme_warm,32,0.0027303721331985464,7.9,FALSE,above_threshold,143
-Green Rock Wall,44,max_observed_density,80,2024-11-01,0.395,39.5,high_endemic,10,disturbed_reef_reduced_K,20,warm,31,0.0037267965227149014,7.9,FALSE,above_threshold,144
-Green Rock Wall,44,max_observed_density,80,2024-11-01,0.395,39.5,high_endemic,10,high_coral_high_K,100,cool,27,0.004258352536147206,39.5,TRUE,above_threshold,145
-Green Rock Wall,44,max_observed_density,80,2024-11-01,0.395,39.5,high_endemic,10,high_coral_high_K,100,current_mean,29,0.004975062395963412,39.5,TRUE,above_threshold,146
-Green Rock Wall,44,max_observed_density,80,2024-11-01,0.395,39.5,high_endemic,10,high_coral_high_K,100,extreme_warm,32,0.0027303721331985464,39.5,TRUE,above_threshold,147
-Green Rock Wall,44,max_observed_density,80,2024-11-01,0.395,39.5,high_endemic,10,high_coral_high_K,100,warm,31,0.0037267965227149014,39.5,TRUE,above_threshold,148
-Green Rock Wall,44,max_observed_density,80,2024-11-01,0.395,39.5,high_endemic,10,low_coral_low_K,25,cool,27,0.004258352536147206,9.875,FALSE,above_threshold,149
-Green Rock Wall,44,max_observed_density,80,2024-11-01,0.395,39.5,high_endemic,10,low_coral_low_K,25,current_mean,29,0.004975062395963412,9.875,FALSE,above_threshold,150
-Green Rock Wall,44,max_observed_density,80,2024-11-01,0.395,39.5,high_endemic,10,low_coral_low_K,25,extreme_warm,32,0.0027303721331985464,9.875,FALSE,above_threshold,151
-Green Rock Wall,44,max_observed_density,80,2024-11-01,0.395,39.5,high_endemic,10,low_coral_low_K,25,warm,31,0.0037267965227149014,9.875,FALSE,above_threshold,152
-Green Rock Wall,44,max_observed_density,80,2024-11-01,0.395,39.5,high_endemic,10,moderate_coral_moderate_K,50,cool,27,0.004258352536147206,19.75,TRUE,above_threshold,153
-Green Rock Wall,44,max_observed_density,80,2024-11-01,0.395,39.5,high_endemic,10,moderate_coral_moderate_K,50,current_mean,29,0.004975062395963412,19.75,TRUE,above_threshold,154
-Green Rock Wall,44,max_observed_density,80,2024-11-01,0.395,39.5,high_endemic,10,moderate_coral_moderate_K,50,extreme_warm,32,0.0027303721331985464,19.75,TRUE,above_threshold,155
-Green Rock Wall,44,max_observed_density,80,2024-11-01,0.395,39.5,high_endemic,10,moderate_coral_moderate_K,50,warm,31,0.0037267965227149014,19.75,TRUE,above_threshold,156
-Green Rock Wall,44,max_observed_density,80,2024-11-01,0.395,39.5,high_endemic,10,recovery_reef_increasing_K,75,cool,27,0.004258352536147206,29.625,TRUE,above_threshold,157
-Green Rock Wall,44,max_observed_density,80,2024-11-01,0.395,39.5,high_endemic,10,recovery_reef_increasing_K,75,current_mean,29,0.004975062395963412,29.625,TRUE,above_threshold,158
-Green Rock Wall,44,max_observed_density,80,2024-11-01,0.395,39.5,high_endemic,10,recovery_reef_increasing_K,75,extreme_warm,32,0.0027303721331985464,29.625,TRUE,above_threshold,159
-Green Rock Wall,44,max_observed_density,80,2024-11-01,0.395,39.5,high_endemic,10,recovery_reef_increasing_K,75,warm,31,0.0037267965227149014,29.625,TRUE,above_threshold,160
-Green Rock Wall,44,max_observed_density,80,2024-11-01,0.395,39.5,low_endemic,3,disturbed_reef_reduced_K,20,cool,27,0.004258352536147206,7.9,TRUE,above_threshold,161
-Green Rock Wall,44,max_observed_density,80,2024-11-01,0.395,39.5,low_endemic,3,disturbed_reef_reduced_K,20,current_mean,29,0.004975062395963412,7.9,TRUE,above_threshold,162
-Green Rock Wall,44,max_observed_density,80,2024-11-01,0.395,39.5,low_endemic,3,disturbed_reef_reduced_K,20,extreme_warm,32,0.0027303721331985464,7.9,TRUE,above_threshold,163
-Green Rock Wall,44,max_observed_density,80,2024-11-01,0.395,39.5,low_endemic,3,disturbed_reef_reduced_K,20,warm,31,0.0037267965227149014,7.9,TRUE,above_threshold,164
-Green Rock Wall,44,max_observed_density,80,2024-11-01,0.395,39.5,low_endemic,3,high_coral_high_K,100,cool,27,0.004258352536147206,39.5,TRUE,above_threshold,165
-Green Rock Wall,44,max_observed_density,80,2024-11-01,0.395,39.5,low_endemic,3,high_coral_high_K,100,current_mean,29,0.004975062395963412,39.5,TRUE,above_threshold,166
-Green Rock Wall,44,max_observed_density,80,2024-11-01,0.395,39.5,low_endemic,3,high_coral_high_K,100,extreme_warm,32,0.0027303721331985464,39.5,TRUE,above_threshold,167
-Green Rock Wall,44,max_observed_density,80,2024-11-01,0.395,39.5,low_endemic,3,high_coral_high_K,100,warm,31,0.0037267965227149014,39.5,TRUE,above_threshold,168
-Green Rock Wall,44,max_observed_density,80,2024-11-01,0.395,39.5,low_endemic,3,low_coral_low_K,25,cool,27,0.004258352536147206,9.875,TRUE,above_threshold,169
-Green Rock Wall,44,max_observed_density,80,2024-11-01,0.395,39.5,low_endemic,3,low_coral_low_K,25,current_mean,29,0.004975062395963412,9.875,TRUE,above_threshold,170
-Green Rock Wall,44,max_observed_density,80,2024-11-01,0.395,39.5,low_endemic,3,low_coral_low_K,25,extreme_warm,32,0.0027303721331985464,9.875,TRUE,above_threshold,171
-Green Rock Wall,44,max_observed_density,80,2024-11-01,0.395,39.5,low_endemic,3,low_coral_low_K,25,warm,31,0.0037267965227149014,9.875,TRUE,above_threshold,172
-Green Rock Wall,44,max_observed_density,80,2024-11-01,0.395,39.5,low_endemic,3,moderate_coral_moderate_K,50,cool,27,0.004258352536147206,19.75,TRUE,above_threshold,173
-Green Rock Wall,44,max_observed_density,80,2024-11-01,0.395,39.5,low_endemic,3,moderate_coral_moderate_K,50,current_mean,29,0.004975062395963412,19.75,TRUE,above_threshold,174
-Green Rock Wall,44,max_observed_density,80,2024-11-01,0.395,39.5,low_endemic,3,moderate_coral_moderate_K,50,extreme_warm,32,0.0027303721331985464,19.75,TRUE,above_threshold,175
-Green Rock Wall,44,max_observed_density,80,2024-11-01,0.395,39.5,low_endemic,3,moderate_coral_moderate_K,50,warm,31,0.0037267965227149014,19.75,TRUE,above_threshold,176
-Green Rock Wall,44,max_observed_density,80,2024-11-01,0.395,39.5,low_endemic,3,recovery_reef_increasing_K,75,cool,27,0.004258352536147206,29.625,TRUE,above_threshold,177
-Green Rock Wall,44,max_observed_density,80,2024-11-01,0.395,39.5,low_endemic,3,recovery_reef_increasing_K,75,current_mean,29,0.004975062395963412,29.625,TRUE,above_threshold,178
-Green Rock Wall,44,max_observed_density,80,2024-11-01,0.395,39.5,low_endemic,3,recovery_reef_increasing_K,75,extreme_warm,32,0.0027303721331985464,29.625,TRUE,above_threshold,179
-Green Rock Wall,44,max_observed_density,80,2024-11-01,0.395,39.5,low_endemic,3,recovery_reef_increasing_K,75,warm,31,0.0037267965227149014,29.625,TRUE,above_threshold,180
-Green Rock Wall,44,mean_observed_density,36.25,2024-11-01,0.395,39.5,base_endemic,8,disturbed_reef_reduced_K,20,cool,27,0.004258352536147206,7.9,FALSE,above_threshold,181
-Green Rock Wall,44,mean_observed_density,36.25,2024-11-01,0.395,39.5,base_endemic,8,disturbed_reef_reduced_K,20,current_mean,29,0.004975062395963412,7.9,FALSE,above_threshold,182
-Green Rock Wall,44,mean_observed_density,36.25,2024-11-01,0.395,39.5,base_endemic,8,disturbed_reef_reduced_K,20,extreme_warm,32,0.0027303721331985464,7.9,FALSE,above_threshold,183
-Green Rock Wall,44,mean_observed_density,36.25,2024-11-01,0.395,39.5,base_endemic,8,disturbed_reef_reduced_K,20,warm,31,0.0037267965227149014,7.9,FALSE,above_threshold,184
-Green Rock Wall,44,mean_observed_density,36.25,2024-11-01,0.395,39.5,base_endemic,8,high_coral_high_K,100,cool,27,0.004258352536147206,39.5,TRUE,near_threshold,185
-Green Rock Wall,44,mean_observed_density,36.25,2024-11-01,0.395,39.5,base_endemic,8,high_coral_high_K,100,current_mean,29,0.004975062395963412,39.5,TRUE,near_threshold,186
-Green Rock Wall,44,mean_observed_density,36.25,2024-11-01,0.395,39.5,base_endemic,8,high_coral_high_K,100,extreme_warm,32,0.0027303721331985464,39.5,TRUE,near_threshold,187
-Green Rock Wall,44,mean_observed_density,36.25,2024-11-01,0.395,39.5,base_endemic,8,high_coral_high_K,100,warm,31,0.0037267965227149014,39.5,TRUE,near_threshold,188
-Green Rock Wall,44,mean_observed_density,36.25,2024-11-01,0.395,39.5,base_endemic,8,low_coral_low_K,25,cool,27,0.004258352536147206,9.875,TRUE,above_threshold,189
-Green Rock Wall,44,mean_observed_density,36.25,2024-11-01,0.395,39.5,base_endemic,8,low_coral_low_K,25,current_mean,29,0.004975062395963412,9.875,TRUE,above_threshold,190
-Green Rock Wall,44,mean_observed_density,36.25,2024-11-01,0.395,39.5,base_endemic,8,low_coral_low_K,25,extreme_warm,32,0.0027303721331985464,9.875,TRUE,above_threshold,191
-Green Rock Wall,44,mean_observed_density,36.25,2024-11-01,0.395,39.5,base_endemic,8,low_coral_low_K,25,warm,31,0.0037267965227149014,9.875,TRUE,above_threshold,192
-Green Rock Wall,44,mean_observed_density,36.25,2024-11-01,0.395,39.5,base_endemic,8,moderate_coral_moderate_K,50,cool,27,0.004258352536147206,19.75,TRUE,above_threshold,193
-Green Rock Wall,44,mean_observed_density,36.25,2024-11-01,0.395,39.5,base_endemic,8,moderate_coral_moderate_K,50,current_mean,29,0.004975062395963412,19.75,TRUE,above_threshold,194
-Green Rock Wall,44,mean_observed_density,36.25,2024-11-01,0.395,39.5,base_endemic,8,moderate_coral_moderate_K,50,extreme_warm,32,0.0027303721331985464,19.75,TRUE,above_threshold,195
-Green Rock Wall,44,mean_observed_density,36.25,2024-11-01,0.395,39.5,base_endemic,8,moderate_coral_moderate_K,50,warm,31,0.0037267965227149014,19.75,TRUE,above_threshold,196
-Green Rock Wall,44,mean_observed_density,36.25,2024-11-01,0.395,39.5,base_endemic,8,recovery_reef_increasing_K,75,cool,27,0.004258352536147206,29.625,TRUE,above_threshold,197
-Green Rock Wall,44,mean_observed_density,36.25,2024-11-01,0.395,39.5,base_endemic,8,recovery_reef_increasing_K,75,current_mean,29,0.004975062395963412,29.625,TRUE,above_threshold,198
-Green Rock Wall,44,mean_observed_density,36.25,2024-11-01,0.395,39.5,base_endemic,8,recovery_reef_increasing_K,75,extreme_warm,32,0.0027303721331985464,29.625,TRUE,above_threshold,199
-Green Rock Wall,44,mean_observed_density,36.25,2024-11-01,0.395,39.5,base_endemic,8,recovery_reef_increasing_K,75,warm,31,0.0037267965227149014,29.625,TRUE,above_threshold,200
-Green Rock Wall,44,mean_observed_density,36.25,2024-11-01,0.395,39.5,high_endemic,10,disturbed_reef_reduced_K,20,cool,27,0.004258352536147206,7.9,FALSE,above_threshold,201
-Green Rock Wall,44,mean_observed_density,36.25,2024-11-01,0.395,39.5,high_endemic,10,disturbed_reef_reduced_K,20,current_mean,29,0.004975062395963412,7.9,FALSE,above_threshold,202
-Green Rock Wall,44,mean_observed_density,36.25,2024-11-01,0.395,39.5,high_endemic,10,disturbed_reef_reduced_K,20,extreme_warm,32,0.0027303721331985464,7.9,FALSE,above_threshold,203
-Green Rock Wall,44,mean_observed_density,36.25,2024-11-01,0.395,39.5,high_endemic,10,disturbed_reef_reduced_K,20,warm,31,0.0037267965227149014,7.9,FALSE,above_threshold,204
-Green Rock Wall,44,mean_observed_density,36.25,2024-11-01,0.395,39.5,high_endemic,10,high_coral_high_K,100,cool,27,0.004258352536147206,39.5,TRUE,near_threshold,205
-Green Rock Wall,44,mean_observed_density,36.25,2024-11-01,0.395,39.5,high_endemic,10,high_coral_high_K,100,current_mean,29,0.004975062395963412,39.5,TRUE,near_threshold,206
-Green Rock Wall,44,mean_observed_density,36.25,2024-11-01,0.395,39.5,high_endemic,10,high_coral_high_K,100,extreme_warm,32,0.0027303721331985464,39.5,TRUE,near_threshold,207
-Green Rock Wall,44,mean_observed_density,36.25,2024-11-01,0.395,39.5,high_endemic,10,high_coral_high_K,100,warm,31,0.0037267965227149014,39.5,TRUE,near_threshold,208
-Green Rock Wall,44,mean_observed_density,36.25,2024-11-01,0.395,39.5,high_endemic,10,low_coral_low_K,25,cool,27,0.004258352536147206,9.875,FALSE,above_threshold,209
-Green Rock Wall,44,mean_observed_density,36.25,2024-11-01,0.395,39.5,high_endemic,10,low_coral_low_K,25,current_mean,29,0.004975062395963412,9.875,FALSE,above_threshold,210
-Green Rock Wall,44,mean_observed_density,36.25,2024-11-01,0.395,39.5,high_endemic,10,low_coral_low_K,25,extreme_warm,32,0.0027303721331985464,9.875,FALSE,above_threshold,211
-Green Rock Wall,44,mean_observed_density,36.25,2024-11-01,0.395,39.5,high_endemic,10,low_coral_low_K,25,warm,31,0.0037267965227149014,9.875,FALSE,above_threshold,212
-Green Rock Wall,44,mean_observed_density,36.25,2024-11-01,0.395,39.5,high_endemic,10,moderate_coral_moderate_K,50,cool,27,0.004258352536147206,19.75,TRUE,above_threshold,213
-Green Rock Wall,44,mean_observed_density,36.25,2024-11-01,0.395,39.5,high_endemic,10,moderate_coral_moderate_K,50,current_mean,29,0.004975062395963412,19.75,TRUE,above_threshold,214
-Green Rock Wall,44,mean_observed_density,36.25,2024-11-01,0.395,39.5,high_endemic,10,moderate_coral_moderate_K,50,extreme_warm,32,0.0027303721331985464,19.75,TRUE,above_threshold,215
-Green Rock Wall,44,mean_observed_density,36.25,2024-11-01,0.395,39.5,high_endemic,10,moderate_coral_moderate_K,50,warm,31,0.0037267965227149014,19.75,TRUE,above_threshold,216
-Green Rock Wall,44,mean_observed_density,36.25,2024-11-01,0.395,39.5,high_endemic,10,recovery_reef_increasing_K,75,cool,27,0.004258352536147206,29.625,TRUE,above_threshold,217
-Green Rock Wall,44,mean_observed_density,36.25,2024-11-01,0.395,39.5,high_endemic,10,recovery_reef_increasing_K,75,current_mean,29,0.004975062395963412,29.625,TRUE,above_threshold,218
-Green Rock Wall,44,mean_observed_density,36.25,2024-11-01,0.395,39.5,high_endemic,10,recovery_reef_increasing_K,75,extreme_warm,32,0.0027303721331985464,29.625,TRUE,above_threshold,219
-Green Rock Wall,44,mean_observed_density,36.25,2024-11-01,0.395,39.5,high_endemic,10,recovery_reef_increasing_K,75,warm,31,0.0037267965227149014,29.625,TRUE,above_threshold,220
-Green Rock Wall,44,mean_observed_density,36.25,2024-11-01,0.395,39.5,low_endemic,3,disturbed_reef_reduced_K,20,cool,27,0.004258352536147206,7.9,TRUE,above_threshold,221
-Green Rock Wall,44,mean_observed_density,36.25,2024-11-01,0.395,39.5,low_endemic,3,disturbed_reef_reduced_K,20,current_mean,29,0.004975062395963412,7.9,TRUE,above_threshold,222
-Green Rock Wall,44,mean_observed_density,36.25,2024-11-01,0.395,39.5,low_endemic,3,disturbed_reef_reduced_K,20,extreme_warm,32,0.0027303721331985464,7.9,TRUE,above_threshold,223
-Green Rock Wall,44,mean_observed_density,36.25,2024-11-01,0.395,39.5,low_endemic,3,disturbed_reef_reduced_K,20,warm,31,0.0037267965227149014,7.9,TRUE,above_threshold,224
-Green Rock Wall,44,mean_observed_density,36.25,2024-11-01,0.395,39.5,low_endemic,3,high_coral_high_K,100,cool,27,0.004258352536147206,39.5,TRUE,near_threshold,225
-Green Rock Wall,44,mean_observed_density,36.25,2024-11-01,0.395,39.5,low_endemic,3,high_coral_high_K,100,current_mean,29,0.004975062395963412,39.5,TRUE,near_threshold,226
-Green Rock Wall,44,mean_observed_density,36.25,2024-11-01,0.395,39.5,low_endemic,3,high_coral_high_K,100,extreme_warm,32,0.0027303721331985464,39.5,TRUE,near_threshold,227
-Green Rock Wall,44,mean_observed_density,36.25,2024-11-01,0.395,39.5,low_endemic,3,high_coral_high_K,100,warm,31,0.0037267965227149014,39.5,TRUE,near_threshold,228
-Green Rock Wall,44,mean_observed_density,36.25,2024-11-01,0.395,39.5,low_endemic,3,low_coral_low_K,25,cool,27,0.004258352536147206,9.875,TRUE,above_threshold,229
-Green Rock Wall,44,mean_observed_density,36.25,2024-11-01,0.395,39.5,low_endemic,3,low_coral_low_K,25,current_mean,29,0.004975062395963412,9.875,TRUE,above_threshold,230
-Green Rock Wall,44,mean_observed_density,36.25,2024-11-01,0.395,39.5,low_endemic,3,low_coral_low_K,25,extreme_warm,32,0.0027303721331985464,9.875,TRUE,above_threshold,231
-Green Rock Wall,44,mean_observed_density,36.25,2024-11-01,0.395,39.5,low_endemic,3,low_coral_low_K,25,warm,31,0.0037267965227149014,9.875,TRUE,above_threshold,232
-Green Rock Wall,44,mean_observed_density,36.25,2024-11-01,0.395,39.5,low_endemic,3,moderate_coral_moderate_K,50,cool,27,0.004258352536147206,19.75,TRUE,above_threshold,233
-Green Rock Wall,44,mean_observed_density,36.25,2024-11-01,0.395,39.5,low_endemic,3,moderate_coral_moderate_K,50,current_mean,29,0.004975062395963412,19.75,TRUE,above_threshold,234
-Green Rock Wall,44,mean_observed_density,36.25,2024-11-01,0.395,39.5,low_endemic,3,moderate_coral_moderate_K,50,extreme_warm,32,0.0027303721331985464,19.75,TRUE,above_threshold,235
-Green Rock Wall,44,mean_observed_density,36.25,2024-11-01,0.395,39.5,low_endemic,3,moderate_coral_moderate_K,50,warm,31,0.0037267965227149014,19.75,TRUE,above_threshold,236
-Green Rock Wall,44,mean_observed_density,36.25,2024-11-01,0.395,39.5,low_endemic,3,recovery_reef_increasing_K,75,cool,27,0.004258352536147206,29.625,TRUE,above_threshold,237
-Green Rock Wall,44,mean_observed_density,36.25,2024-11-01,0.395,39.5,low_endemic,3,recovery_reef_increasing_K,75,current_mean,29,0.004975062395963412,29.625,TRUE,above_threshold,238
-Green Rock Wall,44,mean_observed_density,36.25,2024-11-01,0.395,39.5,low_endemic,3,recovery_reef_increasing_K,75,extreme_warm,32,0.0027303721331985464,29.625,TRUE,above_threshold,239
-Green Rock Wall,44,mean_observed_density,36.25,2024-11-01,0.395,39.5,low_endemic,3,recovery_reef_increasing_K,75,warm,31,0.0037267965227149014,29.625,TRUE,above_threshold,240
-Red Rock Wall,32,max_observed_density,55,2024-11-01,0.5,50,base_endemic,8,disturbed_reef_reduced_K,20,cool,27,0.004258352536147206,10,TRUE,above_threshold,241
-Red Rock Wall,32,max_observed_density,55,2024-11-01,0.5,50,base_endemic,8,disturbed_reef_reduced_K,20,current_mean,29,0.004975062395963412,10,TRUE,above_threshold,242
-Red Rock Wall,32,max_observed_density,55,2024-11-01,0.5,50,base_endemic,8,disturbed_reef_reduced_K,20,extreme_warm,32,0.0027303721331985464,10,TRUE,above_threshold,243
-Red Rock Wall,32,max_observed_density,55,2024-11-01,0.5,50,base_endemic,8,disturbed_reef_reduced_K,20,warm,31,0.0037267965227149014,10,TRUE,above_threshold,244
-Red Rock Wall,32,max_observed_density,55,2024-11-01,0.5,50,base_endemic,8,high_coral_high_K,100,cool,27,0.004258352536147206,50,TRUE,near_threshold,245
-Red Rock Wall,32,max_observed_density,55,2024-11-01,0.5,50,base_endemic,8,high_coral_high_K,100,current_mean,29,0.004975062395963412,50,TRUE,near_threshold,246
-Red Rock Wall,32,max_observed_density,55,2024-11-01,0.5,50,base_endemic,8,high_coral_high_K,100,extreme_warm,32,0.0027303721331985464,50,TRUE,near_threshold,247
-Red Rock Wall,32,max_observed_density,55,2024-11-01,0.5,50,base_endemic,8,high_coral_high_K,100,warm,31,0.0037267965227149014,50,TRUE,near_threshold,248
-Red Rock Wall,32,max_observed_density,55,2024-11-01,0.5,50,base_endemic,8,low_coral_low_K,25,cool,27,0.004258352536147206,12.5,TRUE,above_threshold,249
-Red Rock Wall,32,max_observed_density,55,2024-11-01,0.5,50,base_endemic,8,low_coral_low_K,25,current_mean,29,0.004975062395963412,12.5,TRUE,above_threshold,250
-Red Rock Wall,32,max_observed_density,55,2024-11-01,0.5,50,base_endemic,8,low_coral_low_K,25,extreme_warm,32,0.0027303721331985464,12.5,TRUE,above_threshold,251
-Red Rock Wall,32,max_observed_density,55,2024-11-01,0.5,50,base_endemic,8,low_coral_low_K,25,warm,31,0.0037267965227149014,12.5,TRUE,above_threshold,252
-Red Rock Wall,32,max_observed_density,55,2024-11-01,0.5,50,base_endemic,8,moderate_coral_moderate_K,50,cool,27,0.004258352536147206,25,TRUE,above_threshold,253
-Red Rock Wall,32,max_observed_density,55,2024-11-01,0.5,50,base_endemic,8,moderate_coral_moderate_K,50,current_mean,29,0.004975062395963412,25,TRUE,above_threshold,254
-Red Rock Wall,32,max_observed_density,55,2024-11-01,0.5,50,base_endemic,8,moderate_coral_moderate_K,50,extreme_warm,32,0.0027303721331985464,25,TRUE,above_threshold,255
-Red Rock Wall,32,max_observed_density,55,2024-11-01,0.5,50,base_endemic,8,moderate_coral_moderate_K,50,warm,31,0.0037267965227149014,25,TRUE,above_threshold,256
-Red Rock Wall,32,max_observed_density,55,2024-11-01,0.5,50,base_endemic,8,recovery_reef_increasing_K,75,cool,27,0.004258352536147206,37.5,TRUE,above_threshold,257
-Red Rock Wall,32,max_observed_density,55,2024-11-01,0.5,50,base_endemic,8,recovery_reef_increasing_K,75,current_mean,29,0.004975062395963412,37.5,TRUE,above_threshold,258
-Red Rock Wall,32,max_observed_density,55,2024-11-01,0.5,50,base_endemic,8,recovery_reef_increasing_K,75,extreme_warm,32,0.0027303721331985464,37.5,TRUE,above_threshold,259
-Red Rock Wall,32,max_observed_density,55,2024-11-01,0.5,50,base_endemic,8,recovery_reef_increasing_K,75,warm,31,0.0037267965227149014,37.5,TRUE,above_threshold,260
-Red Rock Wall,32,max_observed_density,55,2024-11-01,0.5,50,high_endemic,10,disturbed_reef_reduced_K,20,cool,27,0.004258352536147206,10,FALSE,above_threshold,261
-Red Rock Wall,32,max_observed_density,55,2024-11-01,0.5,50,high_endemic,10,disturbed_reef_reduced_K,20,current_mean,29,0.004975062395963412,10,FALSE,above_threshold,262
-Red Rock Wall,32,max_observed_density,55,2024-11-01,0.5,50,high_endemic,10,disturbed_reef_reduced_K,20,extreme_warm,32,0.0027303721331985464,10,FALSE,above_threshold,263
-Red Rock Wall,32,max_observed_density,55,2024-11-01,0.5,50,high_endemic,10,disturbed_reef_reduced_K,20,warm,31,0.0037267965227149014,10,FALSE,above_threshold,264
-Red Rock Wall,32,max_observed_density,55,2024-11-01,0.5,50,high_endemic,10,high_coral_high_K,100,cool,27,0.004258352536147206,50,TRUE,near_threshold,265
-Red Rock Wall,32,max_observed_density,55,2024-11-01,0.5,50,high_endemic,10,high_coral_high_K,100,current_mean,29,0.004975062395963412,50,TRUE,near_threshold,266
-Red Rock Wall,32,max_observed_density,55,2024-11-01,0.5,50,high_endemic,10,high_coral_high_K,100,extreme_warm,32,0.0027303721331985464,50,TRUE,near_threshold,267
-Red Rock Wall,32,max_observed_density,55,2024-11-01,0.5,50,high_endemic,10,high_coral_high_K,100,warm,31,0.0037267965227149014,50,TRUE,near_threshold,268
-Red Rock Wall,32,max_observed_density,55,2024-11-01,0.5,50,high_endemic,10,low_coral_low_K,25,cool,27,0.004258352536147206,12.5,TRUE,above_threshold,269
-Red Rock Wall,32,max_observed_density,55,2024-11-01,0.5,50,high_endemic,10,low_coral_low_K,25,current_mean,29,0.004975062395963412,12.5,TRUE,above_threshold,270
-Red Rock Wall,32,max_observed_density,55,2024-11-01,0.5,50,high_endemic,10,low_coral_low_K,25,extreme_warm,32,0.0027303721331985464,12.5,TRUE,above_threshold,271
-Red Rock Wall,32,max_observed_density,55,2024-11-01,0.5,50,high_endemic,10,low_coral_low_K,25,warm,31,0.0037267965227149014,12.5,TRUE,above_threshold,272
-Red Rock Wall,32,max_observed_density,55,2024-11-01,0.5,50,high_endemic,10,moderate_coral_moderate_K,50,cool,27,0.004258352536147206,25,TRUE,above_threshold,273
-Red Rock Wall,32,max_observed_density,55,2024-11-01,0.5,50,high_endemic,10,moderate_coral_moderate_K,50,current_mean,29,0.004975062395963412,25,TRUE,above_threshold,274
-Red Rock Wall,32,max_observed_density,55,2024-11-01,0.5,50,high_endemic,10,moderate_coral_moderate_K,50,extreme_warm,32,0.0027303721331985464,25,TRUE,above_threshold,275
-Red Rock Wall,32,max_observed_density,55,2024-11-01,0.5,50,high_endemic,10,moderate_coral_moderate_K,50,warm,31,0.0037267965227149014,25,TRUE,above_threshold,276
-Red Rock Wall,32,max_observed_density,55,2024-11-01,0.5,50,high_endemic,10,recovery_reef_increasing_K,75,cool,27,0.004258352536147206,37.5,TRUE,above_threshold,277
-Red Rock Wall,32,max_observed_density,55,2024-11-01,0.5,50,high_endemic,10,recovery_reef_increasing_K,75,current_mean,29,0.004975062395963412,37.5,TRUE,above_threshold,278
-Red Rock Wall,32,max_observed_density,55,2024-11-01,0.5,50,high_endemic,10,recovery_reef_increasing_K,75,extreme_warm,32,0.0027303721331985464,37.5,TRUE,above_threshold,279
-Red Rock Wall,32,max_observed_density,55,2024-11-01,0.5,50,high_endemic,10,recovery_reef_increasing_K,75,warm,31,0.0037267965227149014,37.5,TRUE,above_threshold,280
-Red Rock Wall,32,max_observed_density,55,2024-11-01,0.5,50,low_endemic,3,disturbed_reef_reduced_K,20,cool,27,0.004258352536147206,10,TRUE,above_threshold,281
-Red Rock Wall,32,max_observed_density,55,2024-11-01,0.5,50,low_endemic,3,disturbed_reef_reduced_K,20,current_mean,29,0.004975062395963412,10,TRUE,above_threshold,282
-Red Rock Wall,32,max_observed_density,55,2024-11-01,0.5,50,low_endemic,3,disturbed_reef_reduced_K,20,extreme_warm,32,0.0027303721331985464,10,TRUE,above_threshold,283
-Red Rock Wall,32,max_observed_density,55,2024-11-01,0.5,50,low_endemic,3,disturbed_reef_reduced_K,20,warm,31,0.0037267965227149014,10,TRUE,above_threshold,284
-Red Rock Wall,32,max_observed_density,55,2024-11-01,0.5,50,low_endemic,3,high_coral_high_K,100,cool,27,0.004258352536147206,50,TRUE,near_threshold,285
-Red Rock Wall,32,max_observed_density,55,2024-11-01,0.5,50,low_endemic,3,high_coral_high_K,100,current_mean,29,0.004975062395963412,50,TRUE,near_threshold,286
-Red Rock Wall,32,max_observed_density,55,2024-11-01,0.5,50,low_endemic,3,high_coral_high_K,100,extreme_warm,32,0.0027303721331985464,50,TRUE,near_threshold,287
-Red Rock Wall,32,max_observed_density,55,2024-11-01,0.5,50,low_endemic,3,high_coral_high_K,100,warm,31,0.0037267965227149014,50,TRUE,near_threshold,288
-Red Rock Wall,32,max_observed_density,55,2024-11-01,0.5,50,low_endemic,3,low_coral_low_K,25,cool,27,0.004258352536147206,12.5,TRUE,above_threshold,289
-Red Rock Wall,32,max_observed_density,55,2024-11-01,0.5,50,low_endemic,3,low_coral_low_K,25,current_mean,29,0.004975062395963412,12.5,TRUE,above_threshold,290
-Red Rock Wall,32,max_observed_density,55,2024-11-01,0.5,50,low_endemic,3,low_coral_low_K,25,extreme_warm,32,0.0027303721331985464,12.5,TRUE,above_threshold,291
-Red Rock Wall,32,max_observed_density,55,2024-11-01,0.5,50,low_endemic,3,low_coral_low_K,25,warm,31,0.0037267965227149014,12.5,TRUE,above_threshold,292
-Red Rock Wall,32,max_observed_density,55,2024-11-01,0.5,50,low_endemic,3,moderate_coral_moderate_K,50,cool,27,0.004258352536147206,25,TRUE,above_threshold,293
-Red Rock Wall,32,max_observed_density,55,2024-11-01,0.5,50,low_endemic,3,moderate_coral_moderate_K,50,current_mean,29,0.004975062395963412,25,TRUE,above_threshold,294
-Red Rock Wall,32,max_observed_density,55,2024-11-01,0.5,50,low_endemic,3,moderate_coral_moderate_K,50,extreme_warm,32,0.0027303721331985464,25,TRUE,above_threshold,295
-Red Rock Wall,32,max_observed_density,55,2024-11-01,0.5,50,low_endemic,3,moderate_coral_moderate_K,50,warm,31,0.0037267965227149014,25,TRUE,above_threshold,296
-Red Rock Wall,32,max_observed_density,55,2024-11-01,0.5,50,low_endemic,3,recovery_reef_increasing_K,75,cool,27,0.004258352536147206,37.5,TRUE,above_threshold,297
-Red Rock Wall,32,max_observed_density,55,2024-11-01,0.5,50,low_endemic,3,recovery_reef_increasing_K,75,current_mean,29,0.004975062395963412,37.5,TRUE,above_threshold,298
-Red Rock Wall,32,max_observed_density,55,2024-11-01,0.5,50,low_endemic,3,recovery_reef_increasing_K,75,extreme_warm,32,0.0027303721331985464,37.5,TRUE,above_threshold,299
-Red Rock Wall,32,max_observed_density,55,2024-11-01,0.5,50,low_endemic,3,recovery_reef_increasing_K,75,warm,31,0.0037267965227149014,37.5,TRUE,above_threshold,300
-Red Rock Wall,32,mean_observed_density,29.21875,2024-11-01,0.5,50,base_endemic,8,disturbed_reef_reduced_K,20,cool,27,0.004258352536147206,10,TRUE,above_threshold,301
-Red Rock Wall,32,mean_observed_density,29.21875,2024-11-01,0.5,50,base_endemic,8,disturbed_reef_reduced_K,20,current_mean,29,0.004975062395963412,10,TRUE,above_threshold,302
-Red Rock Wall,32,mean_observed_density,29.21875,2024-11-01,0.5,50,base_endemic,8,disturbed_reef_reduced_K,20,extreme_warm,32,0.0027303721331985464,10,TRUE,above_threshold,303
-Red Rock Wall,32,mean_observed_density,29.21875,2024-11-01,0.5,50,base_endemic,8,disturbed_reef_reduced_K,20,warm,31,0.0037267965227149014,10,TRUE,above_threshold,304
-Red Rock Wall,32,mean_observed_density,29.21875,2024-11-01,0.5,50,base_endemic,8,high_coral_high_K,100,cool,27,0.004258352536147206,50,TRUE,below_threshold,305
-Red Rock Wall,32,mean_observed_density,29.21875,2024-11-01,0.5,50,base_endemic,8,high_coral_high_K,100,current_mean,29,0.004975062395963412,50,TRUE,below_threshold,306
-Red Rock Wall,32,mean_observed_density,29.21875,2024-11-01,0.5,50,base_endemic,8,high_coral_high_K,100,extreme_warm,32,0.0027303721331985464,50,TRUE,below_threshold,307
-Red Rock Wall,32,mean_observed_density,29.21875,2024-11-01,0.5,50,base_endemic,8,high_coral_high_K,100,warm,31,0.0037267965227149014,50,TRUE,below_threshold,308
-Red Rock Wall,32,mean_observed_density,29.21875,2024-11-01,0.5,50,base_endemic,8,low_coral_low_K,25,cool,27,0.004258352536147206,12.5,TRUE,above_threshold,309
-Red Rock Wall,32,mean_observed_density,29.21875,2024-11-01,0.5,50,base_endemic,8,low_coral_low_K,25,current_mean,29,0.004975062395963412,12.5,TRUE,above_threshold,310
-Red Rock Wall,32,mean_observed_density,29.21875,2024-11-01,0.5,50,base_endemic,8,low_coral_low_K,25,extreme_warm,32,0.0027303721331985464,12.5,TRUE,above_threshold,311
-Red Rock Wall,32,mean_observed_density,29.21875,2024-11-01,0.5,50,base_endemic,8,low_coral_low_K,25,warm,31,0.0037267965227149014,12.5,TRUE,above_threshold,312
-Red Rock Wall,32,mean_observed_density,29.21875,2024-11-01,0.5,50,base_endemic,8,moderate_coral_moderate_K,50,cool,27,0.004258352536147206,25,TRUE,above_threshold,313
-Red Rock Wall,32,mean_observed_density,29.21875,2024-11-01,0.5,50,base_endemic,8,moderate_coral_moderate_K,50,current_mean,29,0.004975062395963412,25,TRUE,above_threshold,314
-Red Rock Wall,32,mean_observed_density,29.21875,2024-11-01,0.5,50,base_endemic,8,moderate_coral_moderate_K,50,extreme_warm,32,0.0027303721331985464,25,TRUE,above_threshold,315
-Red Rock Wall,32,mean_observed_density,29.21875,2024-11-01,0.5,50,base_endemic,8,moderate_coral_moderate_K,50,warm,31,0.0037267965227149014,25,TRUE,above_threshold,316
-Red Rock Wall,32,mean_observed_density,29.21875,2024-11-01,0.5,50,base_endemic,8,recovery_reef_increasing_K,75,cool,27,0.004258352536147206,37.5,TRUE,below_threshold,317
-Red Rock Wall,32,mean_observed_density,29.21875,2024-11-01,0.5,50,base_endemic,8,recovery_reef_increasing_K,75,current_mean,29,0.004975062395963412,37.5,TRUE,below_threshold,318
-Red Rock Wall,32,mean_observed_density,29.21875,2024-11-01,0.5,50,base_endemic,8,recovery_reef_increasing_K,75,extreme_warm,32,0.0027303721331985464,37.5,TRUE,below_threshold,319
-Red Rock Wall,32,mean_observed_density,29.21875,2024-11-01,0.5,50,base_endemic,8,recovery_reef_increasing_K,75,warm,31,0.0037267965227149014,37.5,TRUE,below_threshold,320
-Red Rock Wall,32,mean_observed_density,29.21875,2024-11-01,0.5,50,high_endemic,10,disturbed_reef_reduced_K,20,cool,27,0.004258352536147206,10,FALSE,above_threshold,321
-Red Rock Wall,32,mean_observed_density,29.21875,2024-11-01,0.5,50,high_endemic,10,disturbed_reef_reduced_K,20,current_mean,29,0.004975062395963412,10,FALSE,above_threshold,322
-Red Rock Wall,32,mean_observed_density,29.21875,2024-11-01,0.5,50,high_endemic,10,disturbed_reef_reduced_K,20,extreme_warm,32,0.0027303721331985464,10,FALSE,above_threshold,323
-Red Rock Wall,32,mean_observed_density,29.21875,2024-11-01,0.5,50,high_endemic,10,disturbed_reef_reduced_K,20,warm,31,0.0037267965227149014,10,FALSE,above_threshold,324
-Red Rock Wall,32,mean_observed_density,29.21875,2024-11-01,0.5,50,high_endemic,10,high_coral_high_K,100,cool,27,0.004258352536147206,50,TRUE,below_threshold,325
-Red Rock Wall,32,mean_observed_density,29.21875,2024-11-01,0.5,50,high_endemic,10,high_coral_high_K,100,current_mean,29,0.004975062395963412,50,TRUE,below_threshold,326
-Red Rock Wall,32,mean_observed_density,29.21875,2024-11-01,0.5,50,high_endemic,10,high_coral_high_K,100,extreme_warm,32,0.0027303721331985464,50,TRUE,below_threshold,327
-Red Rock Wall,32,mean_observed_density,29.21875,2024-11-01,0.5,50,high_endemic,10,high_coral_high_K,100,warm,31,0.0037267965227149014,50,TRUE,below_threshold,328
-Red Rock Wall,32,mean_observed_density,29.21875,2024-11-01,0.5,50,high_endemic,10,low_coral_low_K,25,cool,27,0.004258352536147206,12.5,TRUE,above_threshold,329
-Red Rock Wall,32,mean_observed_density,29.21875,2024-11-01,0.5,50,high_endemic,10,low_coral_low_K,25,current_mean,29,0.004975062395963412,12.5,TRUE,above_threshold,330
-Red Rock Wall,32,mean_observed_density,29.21875,2024-11-01,0.5,50,high_endemic,10,low_coral_low_K,25,extreme_warm,32,0.0027303721331985464,12.5,TRUE,above_threshold,331
-Red Rock Wall,32,mean_observed_density,29.21875,2024-11-01,0.5,50,high_endemic,10,low_coral_low_K,25,warm,31,0.0037267965227149014,12.5,TRUE,above_threshold,332
-Red Rock Wall,32,mean_observed_density,29.21875,2024-11-01,0.5,50,high_endemic,10,moderate_coral_moderate_K,50,cool,27,0.004258352536147206,25,TRUE,above_threshold,333
-Red Rock Wall,32,mean_observed_density,29.21875,2024-11-01,0.5,50,high_endemic,10,moderate_coral_moderate_K,50,current_mean,29,0.004975062395963412,25,TRUE,above_threshold,334
-Red Rock Wall,32,mean_observed_density,29.21875,2024-11-01,0.5,50,high_endemic,10,moderate_coral_moderate_K,50,extreme_warm,32,0.0027303721331985464,25,TRUE,above_threshold,335
-Red Rock Wall,32,mean_observed_density,29.21875,2024-11-01,0.5,50,high_endemic,10,moderate_coral_moderate_K,50,warm,31,0.0037267965227149014,25,TRUE,above_threshold,336
-Red Rock Wall,32,mean_observed_density,29.21875,2024-11-01,0.5,50,high_endemic,10,recovery_reef_increasing_K,75,cool,27,0.004258352536147206,37.5,TRUE,below_threshold,337
-Red Rock Wall,32,mean_observed_density,29.21875,2024-11-01,0.5,50,high_endemic,10,recovery_reef_increasing_K,75,current_mean,29,0.004975062395963412,37.5,TRUE,below_threshold,338
-Red Rock Wall,32,mean_observed_density,29.21875,2024-11-01,0.5,50,high_endemic,10,recovery_reef_increasing_K,75,extreme_warm,32,0.0027303721331985464,37.5,TRUE,below_threshold,339
-Red Rock Wall,32,mean_observed_density,29.21875,2024-11-01,0.5,50,high_endemic,10,recovery_reef_increasing_K,75,warm,31,0.0037267965227149014,37.5,TRUE,below_threshold,340
-Red Rock Wall,32,mean_observed_density,29.21875,2024-11-01,0.5,50,low_endemic,3,disturbed_reef_reduced_K,20,cool,27,0.004258352536147206,10,TRUE,above_threshold,341
-Red Rock Wall,32,mean_observed_density,29.21875,2024-11-01,0.5,50,low_endemic,3,disturbed_reef_reduced_K,20,current_mean,29,0.004975062395963412,10,TRUE,above_threshold,342
-Red Rock Wall,32,mean_observed_density,29.21875,2024-11-01,0.5,50,low_endemic,3,disturbed_reef_reduced_K,20,extreme_warm,32,0.0027303721331985464,10,TRUE,above_threshold,343
-Red Rock Wall,32,mean_observed_density,29.21875,2024-11-01,0.5,50,low_endemic,3,disturbed_reef_reduced_K,20,warm,31,0.0037267965227149014,10,TRUE,above_threshold,344
-Red Rock Wall,32,mean_observed_density,29.21875,2024-11-01,0.5,50,low_endemic,3,high_coral_high_K,100,cool,27,0.004258352536147206,50,TRUE,below_threshold,345
-Red Rock Wall,32,mean_observed_density,29.21875,2024-11-01,0.5,50,low_endemic,3,high_coral_high_K,100,current_mean,29,0.004975062395963412,50,TRUE,below_threshold,346
-Red Rock Wall,32,mean_observed_density,29.21875,2024-11-01,0.5,50,low_endemic,3,high_coral_high_K,100,extreme_warm,32,0.0027303721331985464,50,TRUE,below_threshold,347
-Red Rock Wall,32,mean_observed_density,29.21875,2024-11-01,0.5,50,low_endemic,3,high_coral_high_K,100,warm,31,0.0037267965227149014,50,TRUE,below_threshold,348
-Red Rock Wall,32,mean_observed_density,29.21875,2024-11-01,0.5,50,low_endemic,3,low_coral_low_K,25,cool,27,0.004258352536147206,12.5,TRUE,above_threshold,349
-Red Rock Wall,32,mean_observed_density,29.21875,2024-11-01,0.5,50,low_endemic,3,low_coral_low_K,25,current_mean,29,0.004975062395963412,12.5,TRUE,above_threshold,350
-Red Rock Wall,32,mean_observed_density,29.21875,2024-11-01,0.5,50,low_endemic,3,low_coral_low_K,25,extreme_warm,32,0.0027303721331985464,12.5,TRUE,above_threshold,351
-Red Rock Wall,32,mean_observed_density,29.21875,2024-11-01,0.5,50,low_endemic,3,low_coral_low_K,25,warm,31,0.0037267965227149014,12.5,TRUE,above_threshold,352
-Red Rock Wall,32,mean_observed_density,29.21875,2024-11-01,0.5,50,low_endemic,3,moderate_coral_moderate_K,50,cool,27,0.004258352536147206,25,TRUE,above_threshold,353
-Red Rock Wall,32,mean_observed_density,29.21875,2024-11-01,0.5,50,low_endemic,3,moderate_coral_moderate_K,50,current_mean,29,0.004975062395963412,25,TRUE,above_threshold,354
-Red Rock Wall,32,mean_observed_density,29.21875,2024-11-01,0.5,50,low_endemic,3,moderate_coral_moderate_K,50,extreme_warm,32,0.0027303721331985464,25,TRUE,above_threshold,355
-Red Rock Wall,32,mean_observed_density,29.21875,2024-11-01,0.5,50,low_endemic,3,moderate_coral_moderate_K,50,warm,31,0.0037267965227149014,25,TRUE,above_threshold,356
-Red Rock Wall,32,mean_observed_density,29.21875,2024-11-01,0.5,50,low_endemic,3,recovery_reef_increasing_K,75,cool,27,0.004258352536147206,37.5,TRUE,below_threshold,357
-Red Rock Wall,32,mean_observed_density,29.21875,2024-11-01,0.5,50,low_endemic,3,recovery_reef_increasing_K,75,current_mean,29,0.004975062395963412,37.5,TRUE,below_threshold,358
-Red Rock Wall,32,mean_observed_density,29.21875,2024-11-01,0.5,50,low_endemic,3,recovery_reef_increasing_K,75,extreme_warm,32,0.0027303721331985464,37.5,TRUE,below_threshold,359
-Red Rock Wall,32,mean_observed_density,29.21875,2024-11-01,0.5,50,low_endemic,3,recovery_reef_increasing_K,75,warm,31,0.0037267965227149014,37.5,TRUE,below_threshold,360
-Shark Island,20,max_observed_density,20,NA,NA,NA,base_endemic,8,disturbed_reef_reduced_K,20,cool,27,0.004258352536147206,NA,NA,NA,361
-Shark Island,20,max_observed_density,20,NA,NA,NA,base_endemic,8,disturbed_reef_reduced_K,20,current_mean,29,0.004975062395963412,NA,NA,NA,362
-Shark Island,20,max_observed_density,20,NA,NA,NA,base_endemic,8,disturbed_reef_reduced_K,20,extreme_warm,32,0.0027303721331985464,NA,NA,NA,363
-Shark Island,20,max_observed_density,20,NA,NA,NA,base_endemic,8,disturbed_reef_reduced_K,20,warm,31,0.0037267965227149014,NA,NA,NA,364
-Shark Island,20,max_observed_density,20,NA,NA,NA,base_endemic,8,high_coral_high_K,100,cool,27,0.004258352536147206,NA,NA,NA,365
-Shark Island,20,max_observed_density,20,NA,NA,NA,base_endemic,8,high_coral_high_K,100,current_mean,29,0.004975062395963412,NA,NA,NA,366
-Shark Island,20,max_observed_density,20,NA,NA,NA,base_endemic,8,high_coral_high_K,100,extreme_warm,32,0.0027303721331985464,NA,NA,NA,367
-Shark Island,20,max_observed_density,20,NA,NA,NA,base_endemic,8,high_coral_high_K,100,warm,31,0.0037267965227149014,NA,NA,NA,368
-Shark Island,20,max_observed_density,20,NA,NA,NA,base_endemic,8,low_coral_low_K,25,cool,27,0.004258352536147206,NA,NA,NA,369
-Shark Island,20,max_observed_density,20,NA,NA,NA,base_endemic,8,low_coral_low_K,25,current_mean,29,0.004975062395963412,NA,NA,NA,370
-Shark Island,20,max_observed_density,20,NA,NA,NA,base_endemic,8,low_coral_low_K,25,extreme_warm,32,0.0027303721331985464,NA,NA,NA,371
-Shark Island,20,max_observed_density,20,NA,NA,NA,base_endemic,8,low_coral_low_K,25,warm,31,0.0037267965227149014,NA,NA,NA,372
-Shark Island,20,max_observed_density,20,NA,NA,NA,base_endemic,8,moderate_coral_moderate_K,50,cool,27,0.004258352536147206,NA,NA,NA,373
-Shark Island,20,max_observed_density,20,NA,NA,NA,base_endemic,8,moderate_coral_moderate_K,50,current_mean,29,0.004975062395963412,NA,NA,NA,374
-Shark Island,20,max_observed_density,20,NA,NA,NA,base_endemic,8,moderate_coral_moderate_K,50,extreme_warm,32,0.0027303721331985464,NA,NA,NA,375
-Shark Island,20,max_observed_density,20,NA,NA,NA,base_endemic,8,moderate_coral_moderate_K,50,warm,31,0.0037267965227149014,NA,NA,NA,376
-Shark Island,20,max_observed_density,20,NA,NA,NA,base_endemic,8,recovery_reef_increasing_K,75,cool,27,0.004258352536147206,NA,NA,NA,377
-Shark Island,20,max_observed_density,20,NA,NA,NA,base_endemic,8,recovery_reef_increasing_K,75,current_mean,29,0.004975062395963412,NA,NA,NA,378
-Shark Island,20,max_observed_density,20,NA,NA,NA,base_endemic,8,recovery_reef_increasing_K,75,extreme_warm,32,0.0027303721331985464,NA,NA,NA,379
-Shark Island,20,max_observed_density,20,NA,NA,NA,base_endemic,8,recovery_reef_increasing_K,75,warm,31,0.0037267965227149014,NA,NA,NA,380
-Shark Island,20,max_observed_density,20,NA,NA,NA,high_endemic,10,disturbed_reef_reduced_K,20,cool,27,0.004258352536147206,NA,NA,NA,381
-Shark Island,20,max_observed_density,20,NA,NA,NA,high_endemic,10,disturbed_reef_reduced_K,20,current_mean,29,0.004975062395963412,NA,NA,NA,382
-Shark Island,20,max_observed_density,20,NA,NA,NA,high_endemic,10,disturbed_reef_reduced_K,20,extreme_warm,32,0.0027303721331985464,NA,NA,NA,383
-Shark Island,20,max_observed_density,20,NA,NA,NA,high_endemic,10,disturbed_reef_reduced_K,20,warm,31,0.0037267965227149014,NA,NA,NA,384
-Shark Island,20,max_observed_density,20,NA,NA,NA,high_endemic,10,high_coral_high_K,100,cool,27,0.004258352536147206,NA,NA,NA,385
-Shark Island,20,max_observed_density,20,NA,NA,NA,high_endemic,10,high_coral_high_K,100,current_mean,29,0.004975062395963412,NA,NA,NA,386
-Shark Island,20,max_observed_density,20,NA,NA,NA,high_endemic,10,high_coral_high_K,100,extreme_warm,32,0.0027303721331985464,NA,NA,NA,387
-Shark Island,20,max_observed_density,20,NA,NA,NA,high_endemic,10,high_coral_high_K,100,warm,31,0.0037267965227149014,NA,NA,NA,388
-Shark Island,20,max_observed_density,20,NA,NA,NA,high_endemic,10,low_coral_low_K,25,cool,27,0.004258352536147206,NA,NA,NA,389
-Shark Island,20,max_observed_density,20,NA,NA,NA,high_endemic,10,low_coral_low_K,25,current_mean,29,0.004975062395963412,NA,NA,NA,390
-Shark Island,20,max_observed_density,20,NA,NA,NA,high_endemic,10,low_coral_low_K,25,extreme_warm,32,0.0027303721331985464,NA,NA,NA,391
-Shark Island,20,max_observed_density,20,NA,NA,NA,high_endemic,10,low_coral_low_K,25,warm,31,0.0037267965227149014,NA,NA,NA,392
-Shark Island,20,max_observed_density,20,NA,NA,NA,high_endemic,10,moderate_coral_moderate_K,50,cool,27,0.004258352536147206,NA,NA,NA,393
-Shark Island,20,max_observed_density,20,NA,NA,NA,high_endemic,10,moderate_coral_moderate_K,50,current_mean,29,0.004975062395963412,NA,NA,NA,394
-Shark Island,20,max_observed_density,20,NA,NA,NA,high_endemic,10,moderate_coral_moderate_K,50,extreme_warm,32,0.0027303721331985464,NA,NA,NA,395
-Shark Island,20,max_observed_density,20,NA,NA,NA,high_endemic,10,moderate_coral_moderate_K,50,warm,31,0.0037267965227149014,NA,NA,NA,396
-Shark Island,20,max_observed_density,20,NA,NA,NA,high_endemic,10,recovery_reef_increasing_K,75,cool,27,0.004258352536147206,NA,NA,NA,397
-Shark Island,20,max_observed_density,20,NA,NA,NA,high_endemic,10,recovery_reef_increasing_K,75,current_mean,29,0.004975062395963412,NA,NA,NA,398
-Shark Island,20,max_observed_density,20,NA,NA,NA,high_endemic,10,recovery_reef_increasing_K,75,extreme_warm,32,0.0027303721331985464,NA,NA,NA,399
-Shark Island,20,max_observed_density,20,NA,NA,NA,high_endemic,10,recovery_reef_increasing_K,75,warm,31,0.0037267965227149014,NA,NA,NA,400
-Shark Island,20,max_observed_density,20,NA,NA,NA,low_endemic,3,disturbed_reef_reduced_K,20,cool,27,0.004258352536147206,NA,NA,NA,401
-Shark Island,20,max_observed_density,20,NA,NA,NA,low_endemic,3,disturbed_reef_reduced_K,20,current_mean,29,0.004975062395963412,NA,NA,NA,402
-Shark Island,20,max_observed_density,20,NA,NA,NA,low_endemic,3,disturbed_reef_reduced_K,20,extreme_warm,32,0.0027303721331985464,NA,NA,NA,403
-Shark Island,20,max_observed_density,20,NA,NA,NA,low_endemic,3,disturbed_reef_reduced_K,20,warm,31,0.0037267965227149014,NA,NA,NA,404
-Shark Island,20,max_observed_density,20,NA,NA,NA,low_endemic,3,high_coral_high_K,100,cool,27,0.004258352536147206,NA,NA,NA,405
-Shark Island,20,max_observed_density,20,NA,NA,NA,low_endemic,3,high_coral_high_K,100,current_mean,29,0.004975062395963412,NA,NA,NA,406
-Shark Island,20,max_observed_density,20,NA,NA,NA,low_endemic,3,high_coral_high_K,100,extreme_warm,32,0.0027303721331985464,NA,NA,NA,407
-Shark Island,20,max_observed_density,20,NA,NA,NA,low_endemic,3,high_coral_high_K,100,warm,31,0.0037267965227149014,NA,NA,NA,408
-Shark Island,20,max_observed_density,20,NA,NA,NA,low_endemic,3,low_coral_low_K,25,cool,27,0.004258352536147206,NA,NA,NA,409
-Shark Island,20,max_observed_density,20,NA,NA,NA,low_endemic,3,low_coral_low_K,25,current_mean,29,0.004975062395963412,NA,NA,NA,410
-Shark Island,20,max_observed_density,20,NA,NA,NA,low_endemic,3,low_coral_low_K,25,extreme_warm,32,0.0027303721331985464,NA,NA,NA,411
-Shark Island,20,max_observed_density,20,NA,NA,NA,low_endemic,3,low_coral_low_K,25,warm,31,0.0037267965227149014,NA,NA,NA,412
-Shark Island,20,max_observed_density,20,NA,NA,NA,low_endemic,3,moderate_coral_moderate_K,50,cool,27,0.004258352536147206,NA,NA,NA,413
-Shark Island,20,max_observed_density,20,NA,NA,NA,low_endemic,3,moderate_coral_moderate_K,50,current_mean,29,0.004975062395963412,NA,NA,NA,414
-Shark Island,20,max_observed_density,20,NA,NA,NA,low_endemic,3,moderate_coral_moderate_K,50,extreme_warm,32,0.0027303721331985464,NA,NA,NA,415
-Shark Island,20,max_observed_density,20,NA,NA,NA,low_endemic,3,moderate_coral_moderate_K,50,warm,31,0.0037267965227149014,NA,NA,NA,416
-Shark Island,20,max_observed_density,20,NA,NA,NA,low_endemic,3,recovery_reef_increasing_K,75,cool,27,0.004258352536147206,NA,NA,NA,417
-Shark Island,20,max_observed_density,20,NA,NA,NA,low_endemic,3,recovery_reef_increasing_K,75,current_mean,29,0.004975062395963412,NA,NA,NA,418
-Shark Island,20,max_observed_density,20,NA,NA,NA,low_endemic,3,recovery_reef_increasing_K,75,extreme_warm,32,0.0027303721331985464,NA,NA,NA,419
-Shark Island,20,max_observed_density,20,NA,NA,NA,low_endemic,3,recovery_reef_increasing_K,75,warm,31,0.0037267965227149014,NA,NA,NA,420
-Shark Island,20,mean_observed_density,7.5,NA,NA,NA,base_endemic,8,disturbed_reef_reduced_K,20,cool,27,0.004258352536147206,NA,NA,NA,421
-Shark Island,20,mean_observed_density,7.5,NA,NA,NA,base_endemic,8,disturbed_reef_reduced_K,20,current_mean,29,0.004975062395963412,NA,NA,NA,422
-Shark Island,20,mean_observed_density,7.5,NA,NA,NA,base_endemic,8,disturbed_reef_reduced_K,20,extreme_warm,32,0.0027303721331985464,NA,NA,NA,423
-Shark Island,20,mean_observed_density,7.5,NA,NA,NA,base_endemic,8,disturbed_reef_reduced_K,20,warm,31,0.0037267965227149014,NA,NA,NA,424
-Shark Island,20,mean_observed_density,7.5,NA,NA,NA,base_endemic,8,high_coral_high_K,100,cool,27,0.004258352536147206,NA,NA,NA,425
-Shark Island,20,mean_observed_density,7.5,NA,NA,NA,base_endemic,8,high_coral_high_K,100,current_mean,29,0.004975062395963412,NA,NA,NA,426
-Shark Island,20,mean_observed_density,7.5,NA,NA,NA,base_endemic,8,high_coral_high_K,100,extreme_warm,32,0.0027303721331985464,NA,NA,NA,427
-Shark Island,20,mean_observed_density,7.5,NA,NA,NA,base_endemic,8,high_coral_high_K,100,warm,31,0.0037267965227149014,NA,NA,NA,428
-Shark Island,20,mean_observed_density,7.5,NA,NA,NA,base_endemic,8,low_coral_low_K,25,cool,27,0.004258352536147206,NA,NA,NA,429
-Shark Island,20,mean_observed_density,7.5,NA,NA,NA,base_endemic,8,low_coral_low_K,25,current_mean,29,0.004975062395963412,NA,NA,NA,430
-Shark Island,20,mean_observed_density,7.5,NA,NA,NA,base_endemic,8,low_coral_low_K,25,extreme_warm,32,0.0027303721331985464,NA,NA,NA,431
-Shark Island,20,mean_observed_density,7.5,NA,NA,NA,base_endemic,8,low_coral_low_K,25,warm,31,0.0037267965227149014,NA,NA,NA,432
-Shark Island,20,mean_observed_density,7.5,NA,NA,NA,base_endemic,8,moderate_coral_moderate_K,50,cool,27,0.004258352536147206,NA,NA,NA,433
-Shark Island,20,mean_observed_density,7.5,NA,NA,NA,base_endemic,8,moderate_coral_moderate_K,50,current_mean,29,0.004975062395963412,NA,NA,NA,434
-Shark Island,20,mean_observed_density,7.5,NA,NA,NA,base_endemic,8,moderate_coral_moderate_K,50,extreme_warm,32,0.0027303721331985464,NA,NA,NA,435
-Shark Island,20,mean_observed_density,7.5,NA,NA,NA,base_endemic,8,moderate_coral_moderate_K,50,warm,31,0.0037267965227149014,NA,NA,NA,436
-Shark Island,20,mean_observed_density,7.5,NA,NA,NA,base_endemic,8,recovery_reef_increasing_K,75,cool,27,0.004258352536147206,NA,NA,NA,437
-Shark Island,20,mean_observed_density,7.5,NA,NA,NA,base_endemic,8,recovery_reef_increasing_K,75,current_mean,29,0.004975062395963412,NA,NA,NA,438
-Shark Island,20,mean_observed_density,7.5,NA,NA,NA,base_endemic,8,recovery_reef_increasing_K,75,extreme_warm,32,0.0027303721331985464,NA,NA,NA,439
-Shark Island,20,mean_observed_density,7.5,NA,NA,NA,base_endemic,8,recovery_reef_increasing_K,75,warm,31,0.0037267965227149014,NA,NA,NA,440
-Shark Island,20,mean_observed_density,7.5,NA,NA,NA,high_endemic,10,disturbed_reef_reduced_K,20,cool,27,0.004258352536147206,NA,NA,NA,441
-Shark Island,20,mean_observed_density,7.5,NA,NA,NA,high_endemic,10,disturbed_reef_reduced_K,20,current_mean,29,0.004975062395963412,NA,NA,NA,442
-Shark Island,20,mean_observed_density,7.5,NA,NA,NA,high_endemic,10,disturbed_reef_reduced_K,20,extreme_warm,32,0.0027303721331985464,NA,NA,NA,443
-Shark Island,20,mean_observed_density,7.5,NA,NA,NA,high_endemic,10,disturbed_reef_reduced_K,20,warm,31,0.0037267965227149014,NA,NA,NA,444
-Shark Island,20,mean_observed_density,7.5,NA,NA,NA,high_endemic,10,high_coral_high_K,100,cool,27,0.004258352536147206,NA,NA,NA,445
-Shark Island,20,mean_observed_density,7.5,NA,NA,NA,high_endemic,10,high_coral_high_K,100,current_mean,29,0.004975062395963412,NA,NA,NA,446
-Shark Island,20,mean_observed_density,7.5,NA,NA,NA,high_endemic,10,high_coral_high_K,100,extreme_warm,32,0.0027303721331985464,NA,NA,NA,447
-Shark Island,20,mean_observed_density,7.5,NA,NA,NA,high_endemic,10,high_coral_high_K,100,warm,31,0.0037267965227149014,NA,NA,NA,448
-Shark Island,20,mean_observed_density,7.5,NA,NA,NA,high_endemic,10,low_coral_low_K,25,cool,27,0.004258352536147206,NA,NA,NA,449
-Shark Island,20,mean_observed_density,7.5,NA,NA,NA,high_endemic,10,low_coral_low_K,25,current_mean,29,0.004975062395963412,NA,NA,NA,450
-Shark Island,20,mean_observed_density,7.5,NA,NA,NA,high_endemic,10,low_coral_low_K,25,extreme_warm,32,0.0027303721331985464,NA,NA,NA,451
-Shark Island,20,mean_observed_density,7.5,NA,NA,NA,high_endemic,10,low_coral_low_K,25,warm,31,0.0037267965227149014,NA,NA,NA,452
-Shark Island,20,mean_observed_density,7.5,NA,NA,NA,high_endemic,10,moderate_coral_moderate_K,50,cool,27,0.004258352536147206,NA,NA,NA,453
-Shark Island,20,mean_observed_density,7.5,NA,NA,NA,high_endemic,10,moderate_coral_moderate_K,50,current_mean,29,0.004975062395963412,NA,NA,NA,454
-Shark Island,20,mean_observed_density,7.5,NA,NA,NA,high_endemic,10,moderate_coral_moderate_K,50,extreme_warm,32,0.0027303721331985464,NA,NA,NA,455
-Shark Island,20,mean_observed_density,7.5,NA,NA,NA,high_endemic,10,moderate_coral_moderate_K,50,warm,31,0.0037267965227149014,NA,NA,NA,456
-Shark Island,20,mean_observed_density,7.5,NA,NA,NA,high_endemic,10,recovery_reef_increasing_K,75,cool,27,0.004258352536147206,NA,NA,NA,457
-Shark Island,20,mean_observed_density,7.5,NA,NA,NA,high_endemic,10,recovery_reef_increasing_K,75,current_mean,29,0.004975062395963412,NA,NA,NA,458
-Shark Island,20,mean_observed_density,7.5,NA,NA,NA,high_endemic,10,recovery_reef_increasing_K,75,extreme_warm,32,0.0027303721331985464,NA,NA,NA,459
-Shark Island,20,mean_observed_density,7.5,NA,NA,NA,high_endemic,10,recovery_reef_increasing_K,75,warm,31,0.0037267965227149014,NA,NA,NA,460
-Shark Island,20,mean_observed_density,7.5,NA,NA,NA,low_endemic,3,disturbed_reef_reduced_K,20,cool,27,0.004258352536147206,NA,NA,NA,461
-Shark Island,20,mean_observed_density,7.5,NA,NA,NA,low_endemic,3,disturbed_reef_reduced_K,20,current_mean,29,0.004975062395963412,NA,NA,NA,462
-Shark Island,20,mean_observed_density,7.5,NA,NA,NA,low_endemic,3,disturbed_reef_reduced_K,20,extreme_warm,32,0.0027303721331985464,NA,NA,NA,463
-Shark Island,20,mean_observed_density,7.5,NA,NA,NA,low_endemic,3,disturbed_reef_reduced_K,20,warm,31,0.0037267965227149014,NA,NA,NA,464
-Shark Island,20,mean_observed_density,7.5,NA,NA,NA,low_endemic,3,high_coral_high_K,100,cool,27,0.004258352536147206,NA,NA,NA,465
-Shark Island,20,mean_observed_density,7.5,NA,NA,NA,low_endemic,3,high_coral_high_K,100,current_mean,29,0.004975062395963412,NA,NA,NA,466
-Shark Island,20,mean_observed_density,7.5,NA,NA,NA,low_endemic,3,high_coral_high_K,100,extreme_warm,32,0.0027303721331985464,NA,NA,NA,467
-Shark Island,20,mean_observed_density,7.5,NA,NA,NA,low_endemic,3,high_coral_high_K,100,warm,31,0.0037267965227149014,NA,NA,NA,468
-Shark Island,20,mean_observed_density,7.5,NA,NA,NA,low_endemic,3,low_coral_low_K,25,cool,27,0.004258352536147206,NA,NA,NA,469
-Shark Island,20,mean_observed_density,7.5,NA,NA,NA,low_endemic,3,low_coral_low_K,25,current_mean,29,0.004975062395963412,NA,NA,NA,470
-Shark Island,20,mean_observed_density,7.5,NA,NA,NA,low_endemic,3,low_coral_low_K,25,extreme_warm,32,0.0027303721331985464,NA,NA,NA,471
-Shark Island,20,mean_observed_density,7.5,NA,NA,NA,low_endemic,3,low_coral_low_K,25,warm,31,0.0037267965227149014,NA,NA,NA,472
-Shark Island,20,mean_observed_density,7.5,NA,NA,NA,low_endemic,3,moderate_coral_moderate_K,50,cool,27,0.004258352536147206,NA,NA,NA,473
-Shark Island,20,mean_observed_density,7.5,NA,NA,NA,low_endemic,3,moderate_coral_moderate_K,50,current_mean,29,0.004975062395963412,NA,NA,NA,474
-Shark Island,20,mean_observed_density,7.5,NA,NA,NA,low_endemic,3,moderate_coral_moderate_K,50,extreme_warm,32,0.0027303721331985464,NA,NA,NA,475
-Shark Island,20,mean_observed_density,7.5,NA,NA,NA,low_endemic,3,moderate_coral_moderate_K,50,warm,31,0.0037267965227149014,NA,NA,NA,476
-Shark Island,20,mean_observed_density,7.5,NA,NA,NA,low_endemic,3,recovery_reef_increasing_K,75,cool,27,0.004258352536147206,NA,NA,NA,477
-Shark Island,20,mean_observed_density,7.5,NA,NA,NA,low_endemic,3,recovery_reef_increasing_K,75,current_mean,29,0.004975062395963412,NA,NA,NA,478
-Shark Island,20,mean_observed_density,7.5,NA,NA,NA,low_endemic,3,recovery_reef_increasing_K,75,extreme_warm,32,0.0027303721331985464,NA,NA,NA,479
-Shark Island,20,mean_observed_density,7.5,NA,NA,NA,low_endemic,3,recovery_reef_increasing_K,75,warm,31,0.0037267965227149014,NA,NA,NA,480
-Tanote Bay,8,max_observed_density,5,NA,NA,NA,base_endemic,8,disturbed_reef_reduced_K,20,cool,27,0.004258352536147206,NA,NA,NA,481
-Tanote Bay,8,max_observed_density,5,NA,NA,NA,base_endemic,8,disturbed_reef_reduced_K,20,current_mean,29,0.004975062395963412,NA,NA,NA,482
-Tanote Bay,8,max_observed_density,5,NA,NA,NA,base_endemic,8,disturbed_reef_reduced_K,20,extreme_warm,32,0.0027303721331985464,NA,NA,NA,483
-Tanote Bay,8,max_observed_density,5,NA,NA,NA,base_endemic,8,disturbed_reef_reduced_K,20,warm,31,0.0037267965227149014,NA,NA,NA,484
-Tanote Bay,8,max_observed_density,5,NA,NA,NA,base_endemic,8,high_coral_high_K,100,cool,27,0.004258352536147206,NA,NA,NA,485
-Tanote Bay,8,max_observed_density,5,NA,NA,NA,base_endemic,8,high_coral_high_K,100,current_mean,29,0.004975062395963412,NA,NA,NA,486
-Tanote Bay,8,max_observed_density,5,NA,NA,NA,base_endemic,8,high_coral_high_K,100,extreme_warm,32,0.0027303721331985464,NA,NA,NA,487
-Tanote Bay,8,max_observed_density,5,NA,NA,NA,base_endemic,8,high_coral_high_K,100,warm,31,0.0037267965227149014,NA,NA,NA,488
-Tanote Bay,8,max_observed_density,5,NA,NA,NA,base_endemic,8,low_coral_low_K,25,cool,27,0.004258352536147206,NA,NA,NA,489
-Tanote Bay,8,max_observed_density,5,NA,NA,NA,base_endemic,8,low_coral_low_K,25,current_mean,29,0.004975062395963412,NA,NA,NA,490
-Tanote Bay,8,max_observed_density,5,NA,NA,NA,base_endemic,8,low_coral_low_K,25,extreme_warm,32,0.0027303721331985464,NA,NA,NA,491
-Tanote Bay,8,max_observed_density,5,NA,NA,NA,base_endemic,8,low_coral_low_K,25,warm,31,0.0037267965227149014,NA,NA,NA,492
-Tanote Bay,8,max_observed_density,5,NA,NA,NA,base_endemic,8,moderate_coral_moderate_K,50,cool,27,0.004258352536147206,NA,NA,NA,493
-Tanote Bay,8,max_observed_density,5,NA,NA,NA,base_endemic,8,moderate_coral_moderate_K,50,current_mean,29,0.004975062395963412,NA,NA,NA,494
-Tanote Bay,8,max_observed_density,5,NA,NA,NA,base_endemic,8,moderate_coral_moderate_K,50,extreme_warm,32,0.0027303721331985464,NA,NA,NA,495
-Tanote Bay,8,max_observed_density,5,NA,NA,NA,base_endemic,8,moderate_coral_moderate_K,50,warm,31,0.0037267965227149014,NA,NA,NA,496
-Tanote Bay,8,max_observed_density,5,NA,NA,NA,base_endemic,8,recovery_reef_increasing_K,75,cool,27,0.004258352536147206,NA,NA,NA,497
-Tanote Bay,8,max_observed_density,5,NA,NA,NA,base_endemic,8,recovery_reef_increasing_K,75,current_mean,29,0.004975062395963412,NA,NA,NA,498
-Tanote Bay,8,max_observed_density,5,NA,NA,NA,base_endemic,8,recovery_reef_increasing_K,75,extreme_warm,32,0.0027303721331985464,NA,NA,NA,499
-Tanote Bay,8,max_observed_density,5,NA,NA,NA,base_endemic,8,recovery_reef_increasing_K,75,warm,31,0.0037267965227149014,NA,NA,NA,500
-Tanote Bay,8,max_observed_density,5,NA,NA,NA,high_endemic,10,disturbed_reef_reduced_K,20,cool,27,0.004258352536147206,NA,NA,NA,501
-Tanote Bay,8,max_observed_density,5,NA,NA,NA,high_endemic,10,disturbed_reef_reduced_K,20,current_mean,29,0.004975062395963412,NA,NA,NA,502
-Tanote Bay,8,max_observed_density,5,NA,NA,NA,high_endemic,10,disturbed_reef_reduced_K,20,extreme_warm,32,0.0027303721331985464,NA,NA,NA,503
-Tanote Bay,8,max_observed_density,5,NA,NA,NA,high_endemic,10,disturbed_reef_reduced_K,20,warm,31,0.0037267965227149014,NA,NA,NA,504
-Tanote Bay,8,max_observed_density,5,NA,NA,NA,high_endemic,10,high_coral_high_K,100,cool,27,0.004258352536147206,NA,NA,NA,505
-Tanote Bay,8,max_observed_density,5,NA,NA,NA,high_endemic,10,high_coral_high_K,100,current_mean,29,0.004975062395963412,NA,NA,NA,506
-Tanote Bay,8,max_observed_density,5,NA,NA,NA,high_endemic,10,high_coral_high_K,100,extreme_warm,32,0.0027303721331985464,NA,NA,NA,507
-Tanote Bay,8,max_observed_density,5,NA,NA,NA,high_endemic,10,high_coral_high_K,100,warm,31,0.0037267965227149014,NA,NA,NA,508
-Tanote Bay,8,max_observed_density,5,NA,NA,NA,high_endemic,10,low_coral_low_K,25,cool,27,0.004258352536147206,NA,NA,NA,509
-Tanote Bay,8,max_observed_density,5,NA,NA,NA,high_endemic,10,low_coral_low_K,25,current_mean,29,0.004975062395963412,NA,NA,NA,510
-Tanote Bay,8,max_observed_density,5,NA,NA,NA,high_endemic,10,low_coral_low_K,25,extreme_warm,32,0.0027303721331985464,NA,NA,NA,511
-Tanote Bay,8,max_observed_density,5,NA,NA,NA,high_endemic,10,low_coral_low_K,25,warm,31,0.0037267965227149014,NA,NA,NA,512
-Tanote Bay,8,max_observed_density,5,NA,NA,NA,high_endemic,10,moderate_coral_moderate_K,50,cool,27,0.004258352536147206,NA,NA,NA,513
-Tanote Bay,8,max_observed_density,5,NA,NA,NA,high_endemic,10,moderate_coral_moderate_K,50,current_mean,29,0.004975062395963412,NA,NA,NA,514
-Tanote Bay,8,max_observed_density,5,NA,NA,NA,high_endemic,10,moderate_coral_moderate_K,50,extreme_warm,32,0.0027303721331985464,NA,NA,NA,515
-Tanote Bay,8,max_observed_density,5,NA,NA,NA,high_endemic,10,moderate_coral_moderate_K,50,warm,31,0.0037267965227149014,NA,NA,NA,516
-Tanote Bay,8,max_observed_density,5,NA,NA,NA,high_endemic,10,recovery_reef_increasing_K,75,cool,27,0.004258352536147206,NA,NA,NA,517
-Tanote Bay,8,max_observed_density,5,NA,NA,NA,high_endemic,10,recovery_reef_increasing_K,75,current_mean,29,0.004975062395963412,NA,NA,NA,518
-Tanote Bay,8,max_observed_density,5,NA,NA,NA,high_endemic,10,recovery_reef_increasing_K,75,extreme_warm,32,0.0027303721331985464,NA,NA,NA,519
-Tanote Bay,8,max_observed_density,5,NA,NA,NA,high_endemic,10,recovery_reef_increasing_K,75,warm,31,0.0037267965227149014,NA,NA,NA,520
-Tanote Bay,8,max_observed_density,5,NA,NA,NA,low_endemic,3,disturbed_reef_reduced_K,20,cool,27,0.004258352536147206,NA,NA,NA,521
-Tanote Bay,8,max_observed_density,5,NA,NA,NA,low_endemic,3,disturbed_reef_reduced_K,20,current_mean,29,0.004975062395963412,NA,NA,NA,522
-Tanote Bay,8,max_observed_density,5,NA,NA,NA,low_endemic,3,disturbed_reef_reduced_K,20,extreme_warm,32,0.0027303721331985464,NA,NA,NA,523
-Tanote Bay,8,max_observed_density,5,NA,NA,NA,low_endemic,3,disturbed_reef_reduced_K,20,warm,31,0.0037267965227149014,NA,NA,NA,524
-Tanote Bay,8,max_observed_density,5,NA,NA,NA,low_endemic,3,high_coral_high_K,100,cool,27,0.004258352536147206,NA,NA,NA,525
-Tanote Bay,8,max_observed_density,5,NA,NA,NA,low_endemic,3,high_coral_high_K,100,current_mean,29,0.004975062395963412,NA,NA,NA,526
-Tanote Bay,8,max_observed_density,5,NA,NA,NA,low_endemic,3,high_coral_high_K,100,extreme_warm,32,0.0027303721331985464,NA,NA,NA,527
-Tanote Bay,8,max_observed_density,5,NA,NA,NA,low_endemic,3,high_coral_high_K,100,warm,31,0.0037267965227149014,NA,NA,NA,528
-Tanote Bay,8,max_observed_density,5,NA,NA,NA,low_endemic,3,low_coral_low_K,25,cool,27,0.004258352536147206,NA,NA,NA,529
-Tanote Bay,8,max_observed_density,5,NA,NA,NA,low_endemic,3,low_coral_low_K,25,current_mean,29,0.004975062395963412,NA,NA,NA,530
-Tanote Bay,8,max_observed_density,5,NA,NA,NA,low_endemic,3,low_coral_low_K,25,extreme_warm,32,0.0027303721331985464,NA,NA,NA,531
-Tanote Bay,8,max_observed_density,5,NA,NA,NA,low_endemic,3,low_coral_low_K,25,warm,31,0.0037267965227149014,NA,NA,NA,532
-Tanote Bay,8,max_observed_density,5,NA,NA,NA,low_endemic,3,moderate_coral_moderate_K,50,cool,27,0.004258352536147206,NA,NA,NA,533
-Tanote Bay,8,max_observed_density,5,NA,NA,NA,low_endemic,3,moderate_coral_moderate_K,50,current_mean,29,0.004975062395963412,NA,NA,NA,534
-Tanote Bay,8,max_observed_density,5,NA,NA,NA,low_endemic,3,moderate_coral_moderate_K,50,extreme_warm,32,0.0027303721331985464,NA,NA,NA,535
-Tanote Bay,8,max_observed_density,5,NA,NA,NA,low_endemic,3,moderate_coral_moderate_K,50,warm,31,0.0037267965227149014,NA,NA,NA,536
-Tanote Bay,8,max_observed_density,5,NA,NA,NA,low_endemic,3,recovery_reef_increasing_K,75,cool,27,0.004258352536147206,NA,NA,NA,537
-Tanote Bay,8,max_observed_density,5,NA,NA,NA,low_endemic,3,recovery_reef_increasing_K,75,current_mean,29,0.004975062395963412,NA,NA,NA,538
-Tanote Bay,8,max_observed_density,5,NA,NA,NA,low_endemic,3,recovery_reef_increasing_K,75,extreme_warm,32,0.0027303721331985464,NA,NA,NA,539
-Tanote Bay,8,max_observed_density,5,NA,NA,NA,low_endemic,3,recovery_reef_increasing_K,75,warm,31,0.0037267965227149014,NA,NA,NA,540
-Tanote Bay,8,mean_observed_density,5,NA,NA,NA,base_endemic,8,disturbed_reef_reduced_K,20,cool,27,0.004258352536147206,NA,NA,NA,541
-Tanote Bay,8,mean_observed_density,5,NA,NA,NA,base_endemic,8,disturbed_reef_reduced_K,20,current_mean,29,0.004975062395963412,NA,NA,NA,542
-Tanote Bay,8,mean_observed_density,5,NA,NA,NA,base_endemic,8,disturbed_reef_reduced_K,20,extreme_warm,32,0.0027303721331985464,NA,NA,NA,543
-Tanote Bay,8,mean_observed_density,5,NA,NA,NA,base_endemic,8,disturbed_reef_reduced_K,20,warm,31,0.0037267965227149014,NA,NA,NA,544
-Tanote Bay,8,mean_observed_density,5,NA,NA,NA,base_endemic,8,high_coral_high_K,100,cool,27,0.004258352536147206,NA,NA,NA,545
-Tanote Bay,8,mean_observed_density,5,NA,NA,NA,base_endemic,8,high_coral_high_K,100,current_mean,29,0.004975062395963412,NA,NA,NA,546
-Tanote Bay,8,mean_observed_density,5,NA,NA,NA,base_endemic,8,high_coral_high_K,100,extreme_warm,32,0.0027303721331985464,NA,NA,NA,547
-Tanote Bay,8,mean_observed_density,5,NA,NA,NA,base_endemic,8,high_coral_high_K,100,warm,31,0.0037267965227149014,NA,NA,NA,548
-Tanote Bay,8,mean_observed_density,5,NA,NA,NA,base_endemic,8,low_coral_low_K,25,cool,27,0.004258352536147206,NA,NA,NA,549
-Tanote Bay,8,mean_observed_density,5,NA,NA,NA,base_endemic,8,low_coral_low_K,25,current_mean,29,0.004975062395963412,NA,NA,NA,550
-Tanote Bay,8,mean_observed_density,5,NA,NA,NA,base_endemic,8,low_coral_low_K,25,extreme_warm,32,0.0027303721331985464,NA,NA,NA,551
-Tanote Bay,8,mean_observed_density,5,NA,NA,NA,base_endemic,8,low_coral_low_K,25,warm,31,0.0037267965227149014,NA,NA,NA,552
-Tanote Bay,8,mean_observed_density,5,NA,NA,NA,base_endemic,8,moderate_coral_moderate_K,50,cool,27,0.004258352536147206,NA,NA,NA,553
-Tanote Bay,8,mean_observed_density,5,NA,NA,NA,base_endemic,8,moderate_coral_moderate_K,50,current_mean,29,0.004975062395963412,NA,NA,NA,554
-Tanote Bay,8,mean_observed_density,5,NA,NA,NA,base_endemic,8,moderate_coral_moderate_K,50,extreme_warm,32,0.0027303721331985464,NA,NA,NA,555
-Tanote Bay,8,mean_observed_density,5,NA,NA,NA,base_endemic,8,moderate_coral_moderate_K,50,warm,31,0.0037267965227149014,NA,NA,NA,556
-Tanote Bay,8,mean_observed_density,5,NA,NA,NA,base_endemic,8,recovery_reef_increasing_K,75,cool,27,0.004258352536147206,NA,NA,NA,557
-Tanote Bay,8,mean_observed_density,5,NA,NA,NA,base_endemic,8,recovery_reef_increasing_K,75,current_mean,29,0.004975062395963412,NA,NA,NA,558
-Tanote Bay,8,mean_observed_density,5,NA,NA,NA,base_endemic,8,recovery_reef_increasing_K,75,extreme_warm,32,0.0027303721331985464,NA,NA,NA,559
-Tanote Bay,8,mean_observed_density,5,NA,NA,NA,base_endemic,8,recovery_reef_increasing_K,75,warm,31,0.0037267965227149014,NA,NA,NA,560
-Tanote Bay,8,mean_observed_density,5,NA,NA,NA,high_endemic,10,disturbed_reef_reduced_K,20,cool,27,0.004258352536147206,NA,NA,NA,561
-Tanote Bay,8,mean_observed_density,5,NA,NA,NA,high_endemic,10,disturbed_reef_reduced_K,20,current_mean,29,0.004975062395963412,NA,NA,NA,562
-Tanote Bay,8,mean_observed_density,5,NA,NA,NA,high_endemic,10,disturbed_reef_reduced_K,20,extreme_warm,32,0.0027303721331985464,NA,NA,NA,563
-Tanote Bay,8,mean_observed_density,5,NA,NA,NA,high_endemic,10,disturbed_reef_reduced_K,20,warm,31,0.0037267965227149014,NA,NA,NA,564
-Tanote Bay,8,mean_observed_density,5,NA,NA,NA,high_endemic,10,high_coral_high_K,100,cool,27,0.004258352536147206,NA,NA,NA,565
-Tanote Bay,8,mean_observed_density,5,NA,NA,NA,high_endemic,10,high_coral_high_K,100,current_mean,29,0.004975062395963412,NA,NA,NA,566
-Tanote Bay,8,mean_observed_density,5,NA,NA,NA,high_endemic,10,high_coral_high_K,100,extreme_warm,32,0.0027303721331985464,NA,NA,NA,567
-Tanote Bay,8,mean_observed_density,5,NA,NA,NA,high_endemic,10,high_coral_high_K,100,warm,31,0.0037267965227149014,NA,NA,NA,568
-Tanote Bay,8,mean_observed_density,5,NA,NA,NA,high_endemic,10,low_coral_low_K,25,cool,27,0.004258352536147206,NA,NA,NA,569
-Tanote Bay,8,mean_observed_density,5,NA,NA,NA,high_endemic,10,low_coral_low_K,25,current_mean,29,0.004975062395963412,NA,NA,NA,570
-Tanote Bay,8,mean_observed_density,5,NA,NA,NA,high_endemic,10,low_coral_low_K,25,extreme_warm,32,0.0027303721331985464,NA,NA,NA,571
-Tanote Bay,8,mean_observed_density,5,NA,NA,NA,high_endemic,10,low_coral_low_K,25,warm,31,0.0037267965227149014,NA,NA,NA,572
-Tanote Bay,8,mean_observed_density,5,NA,NA,NA,high_endemic,10,moderate_coral_moderate_K,50,cool,27,0.004258352536147206,NA,NA,NA,573
-Tanote Bay,8,mean_observed_density,5,NA,NA,NA,high_endemic,10,moderate_coral_moderate_K,50,current_mean,29,0.004975062395963412,NA,NA,NA,574
-Tanote Bay,8,mean_observed_density,5,NA,NA,NA,high_endemic,10,moderate_coral_moderate_K,50,extreme_warm,32,0.0027303721331985464,NA,NA,NA,575
-Tanote Bay,8,mean_observed_density,5,NA,NA,NA,high_endemic,10,moderate_coral_moderate_K,50,warm,31,0.0037267965227149014,NA,NA,NA,576
-Tanote Bay,8,mean_observed_density,5,NA,NA,NA,high_endemic,10,recovery_reef_increasing_K,75,cool,27,0.004258352536147206,NA,NA,NA,577
-Tanote Bay,8,mean_observed_density,5,NA,NA,NA,high_endemic,10,recovery_reef_increasing_K,75,current_mean,29,0.004975062395963412,NA,NA,NA,578
-Tanote Bay,8,mean_observed_density,5,NA,NA,NA,high_endemic,10,recovery_reef_increasing_K,75,extreme_warm,32,0.0027303721331985464,NA,NA,NA,579
-Tanote Bay,8,mean_observed_density,5,NA,NA,NA,high_endemic,10,recovery_reef_increasing_K,75,warm,31,0.0037267965227149014,NA,NA,NA,580
-Tanote Bay,8,mean_observed_density,5,NA,NA,NA,low_endemic,3,disturbed_reef_reduced_K,20,cool,27,0.004258352536147206,NA,NA,NA,581
-Tanote Bay,8,mean_observed_density,5,NA,NA,NA,low_endemic,3,disturbed_reef_reduced_K,20,current_mean,29,0.004975062395963412,NA,NA,NA,582
-Tanote Bay,8,mean_observed_density,5,NA,NA,NA,low_endemic,3,disturbed_reef_reduced_K,20,extreme_warm,32,0.0027303721331985464,NA,NA,NA,583
-Tanote Bay,8,mean_observed_density,5,NA,NA,NA,low_endemic,3,disturbed_reef_reduced_K,20,warm,31,0.0037267965227149014,NA,NA,NA,584
-Tanote Bay,8,mean_observed_density,5,NA,NA,NA,low_endemic,3,high_coral_high_K,100,cool,27,0.004258352536147206,NA,NA,NA,585
-Tanote Bay,8,mean_observed_density,5,NA,NA,NA,low_endemic,3,high_coral_high_K,100,current_mean,29,0.004975062395963412,NA,NA,NA,586
-Tanote Bay,8,mean_observed_density,5,NA,NA,NA,low_endemic,3,high_coral_high_K,100,extreme_warm,32,0.0027303721331985464,NA,NA,NA,587
-Tanote Bay,8,mean_observed_density,5,NA,NA,NA,low_endemic,3,high_coral_high_K,100,warm,31,0.0037267965227149014,NA,NA,NA,588
-Tanote Bay,8,mean_observed_density,5,NA,NA,NA,low_endemic,3,low_coral_low_K,25,cool,27,0.004258352536147206,NA,NA,NA,589
-Tanote Bay,8,mean_observed_density,5,NA,NA,NA,low_endemic,3,low_coral_low_K,25,current_mean,29,0.004975062395963412,NA,NA,NA,590
-Tanote Bay,8,mean_observed_density,5,NA,NA,NA,low_endemic,3,low_coral_low_K,25,extreme_warm,32,0.0027303721331985464,NA,NA,NA,591
-Tanote Bay,8,mean_observed_density,5,NA,NA,NA,low_endemic,3,low_coral_low_K,25,warm,31,0.0037267965227149014,NA,NA,NA,592
-Tanote Bay,8,mean_observed_density,5,NA,NA,NA,low_endemic,3,moderate_coral_moderate_K,50,cool,27,0.004258352536147206,NA,NA,NA,593
-Tanote Bay,8,mean_observed_density,5,NA,NA,NA,low_endemic,3,moderate_coral_moderate_K,50,current_mean,29,0.004975062395963412,NA,NA,NA,594
-Tanote Bay,8,mean_observed_density,5,NA,NA,NA,low_endemic,3,moderate_coral_moderate_K,50,extreme_warm,32,0.0027303721331985464,NA,NA,NA,595
-Tanote Bay,8,mean_observed_density,5,NA,NA,NA,low_endemic,3,moderate_coral_moderate_K,50,warm,31,0.0037267965227149014,NA,NA,NA,596
-Tanote Bay,8,mean_observed_density,5,NA,NA,NA,low_endemic,3,recovery_reef_increasing_K,75,cool,27,0.004258352536147206,NA,NA,NA,597
-Tanote Bay,8,mean_observed_density,5,NA,NA,NA,low_endemic,3,recovery_reef_increasing_K,75,current_mean,29,0.004975062395963412,NA,NA,NA,598
-Tanote Bay,8,mean_observed_density,5,NA,NA,NA,low_endemic,3,recovery_reef_increasing_K,75,extreme_warm,32,0.0027303721331985464,NA,NA,NA,599
-Tanote Bay,8,mean_observed_density,5,NA,NA,NA,low_endemic,3,recovery_reef_increasing_K,75,warm,31,0.0037267965227149014,NA,NA,NA,600
-Twins Wall,22,max_observed_density,75,2024-11-01,0.33,33,base_endemic,8,disturbed_reef_reduced_K,20,cool,27,0.004258352536147206,6.6000000000000005,FALSE,above_threshold,601
-Twins Wall,22,max_observed_density,75,2024-11-01,0.33,33,base_endemic,8,disturbed_reef_reduced_K,20,current_mean,29,0.004975062395963412,6.6000000000000005,FALSE,above_threshold,602
-Twins Wall,22,max_observed_density,75,2024-11-01,0.33,33,base_endemic,8,disturbed_reef_reduced_K,20,extreme_warm,32,0.0027303721331985464,6.6000000000000005,FALSE,above_threshold,603
-Twins Wall,22,max_observed_density,75,2024-11-01,0.33,33,base_endemic,8,disturbed_reef_reduced_K,20,warm,31,0.0037267965227149014,6.6000000000000005,FALSE,above_threshold,604
-Twins Wall,22,max_observed_density,75,2024-11-01,0.33,33,base_endemic,8,high_coral_high_K,100,cool,27,0.004258352536147206,33,TRUE,above_threshold,605
-Twins Wall,22,max_observed_density,75,2024-11-01,0.33,33,base_endemic,8,high_coral_high_K,100,current_mean,29,0.004975062395963412,33,TRUE,above_threshold,606
-Twins Wall,22,max_observed_density,75,2024-11-01,0.33,33,base_endemic,8,high_coral_high_K,100,extreme_warm,32,0.0027303721331985464,33,TRUE,above_threshold,607
-Twins Wall,22,max_observed_density,75,2024-11-01,0.33,33,base_endemic,8,high_coral_high_K,100,warm,31,0.0037267965227149014,33,TRUE,above_threshold,608
-Twins Wall,22,max_observed_density,75,2024-11-01,0.33,33,base_endemic,8,low_coral_low_K,25,cool,27,0.004258352536147206,8.25,TRUE,above_threshold,609
-Twins Wall,22,max_observed_density,75,2024-11-01,0.33,33,base_endemic,8,low_coral_low_K,25,current_mean,29,0.004975062395963412,8.25,TRUE,above_threshold,610
-Twins Wall,22,max_observed_density,75,2024-11-01,0.33,33,base_endemic,8,low_coral_low_K,25,extreme_warm,32,0.0027303721331985464,8.25,TRUE,above_threshold,611
-Twins Wall,22,max_observed_density,75,2024-11-01,0.33,33,base_endemic,8,low_coral_low_K,25,warm,31,0.0037267965227149014,8.25,TRUE,above_threshold,612
-Twins Wall,22,max_observed_density,75,2024-11-01,0.33,33,base_endemic,8,moderate_coral_moderate_K,50,cool,27,0.004258352536147206,16.5,TRUE,above_threshold,613
-Twins Wall,22,max_observed_density,75,2024-11-01,0.33,33,base_endemic,8,moderate_coral_moderate_K,50,current_mean,29,0.004975062395963412,16.5,TRUE,above_threshold,614
-Twins Wall,22,max_observed_density,75,2024-11-01,0.33,33,base_endemic,8,moderate_coral_moderate_K,50,extreme_warm,32,0.0027303721331985464,16.5,TRUE,above_threshold,615
-Twins Wall,22,max_observed_density,75,2024-11-01,0.33,33,base_endemic,8,moderate_coral_moderate_K,50,warm,31,0.0037267965227149014,16.5,TRUE,above_threshold,616
-Twins Wall,22,max_observed_density,75,2024-11-01,0.33,33,base_endemic,8,recovery_reef_increasing_K,75,cool,27,0.004258352536147206,24.75,TRUE,above_threshold,617
-Twins Wall,22,max_observed_density,75,2024-11-01,0.33,33,base_endemic,8,recovery_reef_increasing_K,75,current_mean,29,0.004975062395963412,24.75,TRUE,above_threshold,618
-Twins Wall,22,max_observed_density,75,2024-11-01,0.33,33,base_endemic,8,recovery_reef_increasing_K,75,extreme_warm,32,0.0027303721331985464,24.75,TRUE,above_threshold,619
-Twins Wall,22,max_observed_density,75,2024-11-01,0.33,33,base_endemic,8,recovery_reef_increasing_K,75,warm,31,0.0037267965227149014,24.75,TRUE,above_threshold,620
-Twins Wall,22,max_observed_density,75,2024-11-01,0.33,33,high_endemic,10,disturbed_reef_reduced_K,20,cool,27,0.004258352536147206,6.6000000000000005,FALSE,above_threshold,621
-Twins Wall,22,max_observed_density,75,2024-11-01,0.33,33,high_endemic,10,disturbed_reef_reduced_K,20,current_mean,29,0.004975062395963412,6.6000000000000005,FALSE,above_threshold,622
-Twins Wall,22,max_observed_density,75,2024-11-01,0.33,33,high_endemic,10,disturbed_reef_reduced_K,20,extreme_warm,32,0.0027303721331985464,6.6000000000000005,FALSE,above_threshold,623
-Twins Wall,22,max_observed_density,75,2024-11-01,0.33,33,high_endemic,10,disturbed_reef_reduced_K,20,warm,31,0.0037267965227149014,6.6000000000000005,FALSE,above_threshold,624
-Twins Wall,22,max_observed_density,75,2024-11-01,0.33,33,high_endemic,10,high_coral_high_K,100,cool,27,0.004258352536147206,33,TRUE,above_threshold,625
-Twins Wall,22,max_observed_density,75,2024-11-01,0.33,33,high_endemic,10,high_coral_high_K,100,current_mean,29,0.004975062395963412,33,TRUE,above_threshold,626
-Twins Wall,22,max_observed_density,75,2024-11-01,0.33,33,high_endemic,10,high_coral_high_K,100,extreme_warm,32,0.0027303721331985464,33,TRUE,above_threshold,627
-Twins Wall,22,max_observed_density,75,2024-11-01,0.33,33,high_endemic,10,high_coral_high_K,100,warm,31,0.0037267965227149014,33,TRUE,above_threshold,628
-Twins Wall,22,max_observed_density,75,2024-11-01,0.33,33,high_endemic,10,low_coral_low_K,25,cool,27,0.004258352536147206,8.25,FALSE,above_threshold,629
-Twins Wall,22,max_observed_density,75,2024-11-01,0.33,33,high_endemic,10,low_coral_low_K,25,current_mean,29,0.004975062395963412,8.25,FALSE,above_threshold,630
-Twins Wall,22,max_observed_density,75,2024-11-01,0.33,33,high_endemic,10,low_coral_low_K,25,extreme_warm,32,0.0027303721331985464,8.25,FALSE,above_threshold,631
-Twins Wall,22,max_observed_density,75,2024-11-01,0.33,33,high_endemic,10,low_coral_low_K,25,warm,31,0.0037267965227149014,8.25,FALSE,above_threshold,632
-Twins Wall,22,max_observed_density,75,2024-11-01,0.33,33,high_endemic,10,moderate_coral_moderate_K,50,cool,27,0.004258352536147206,16.5,TRUE,above_threshold,633
-Twins Wall,22,max_observed_density,75,2024-11-01,0.33,33,high_endemic,10,moderate_coral_moderate_K,50,current_mean,29,0.004975062395963412,16.5,TRUE,above_threshold,634
-Twins Wall,22,max_observed_density,75,2024-11-01,0.33,33,high_endemic,10,moderate_coral_moderate_K,50,extreme_warm,32,0.0027303721331985464,16.5,TRUE,above_threshold,635
-Twins Wall,22,max_observed_density,75,2024-11-01,0.33,33,high_endemic,10,moderate_coral_moderate_K,50,warm,31,0.0037267965227149014,16.5,TRUE,above_threshold,636
-Twins Wall,22,max_observed_density,75,2024-11-01,0.33,33,high_endemic,10,recovery_reef_increasing_K,75,cool,27,0.004258352536147206,24.75,TRUE,above_threshold,637
-Twins Wall,22,max_observed_density,75,2024-11-01,0.33,33,high_endemic,10,recovery_reef_increasing_K,75,current_mean,29,0.004975062395963412,24.75,TRUE,above_threshold,638
-Twins Wall,22,max_observed_density,75,2024-11-01,0.33,33,high_endemic,10,recovery_reef_increasing_K,75,extreme_warm,32,0.0027303721331985464,24.75,TRUE,above_threshold,639
-Twins Wall,22,max_observed_density,75,2024-11-01,0.33,33,high_endemic,10,recovery_reef_increasing_K,75,warm,31,0.0037267965227149014,24.75,TRUE,above_threshold,640
-Twins Wall,22,max_observed_density,75,2024-11-01,0.33,33,low_endemic,3,disturbed_reef_reduced_K,20,cool,27,0.004258352536147206,6.6000000000000005,TRUE,above_threshold,641
-Twins Wall,22,max_observed_density,75,2024-11-01,0.33,33,low_endemic,3,disturbed_reef_reduced_K,20,current_mean,29,0.004975062395963412,6.6000000000000005,TRUE,above_threshold,642
-Twins Wall,22,max_observed_density,75,2024-11-01,0.33,33,low_endemic,3,disturbed_reef_reduced_K,20,extreme_warm,32,0.0027303721331985464,6.6000000000000005,TRUE,above_threshold,643
-Twins Wall,22,max_observed_density,75,2024-11-01,0.33,33,low_endemic,3,disturbed_reef_reduced_K,20,warm,31,0.0037267965227149014,6.6000000000000005,TRUE,above_threshold,644
-Twins Wall,22,max_observed_density,75,2024-11-01,0.33,33,low_endemic,3,high_coral_high_K,100,cool,27,0.004258352536147206,33,TRUE,above_threshold,645
-Twins Wall,22,max_observed_density,75,2024-11-01,0.33,33,low_endemic,3,high_coral_high_K,100,current_mean,29,0.004975062395963412,33,TRUE,above_threshold,646
-Twins Wall,22,max_observed_density,75,2024-11-01,0.33,33,low_endemic,3,high_coral_high_K,100,extreme_warm,32,0.0027303721331985464,33,TRUE,above_threshold,647
-Twins Wall,22,max_observed_density,75,2024-11-01,0.33,33,low_endemic,3,high_coral_high_K,100,warm,31,0.0037267965227149014,33,TRUE,above_threshold,648
-Twins Wall,22,max_observed_density,75,2024-11-01,0.33,33,low_endemic,3,low_coral_low_K,25,cool,27,0.004258352536147206,8.25,TRUE,above_threshold,649
-Twins Wall,22,max_observed_density,75,2024-11-01,0.33,33,low_endemic,3,low_coral_low_K,25,current_mean,29,0.004975062395963412,8.25,TRUE,above_threshold,650
-Twins Wall,22,max_observed_density,75,2024-11-01,0.33,33,low_endemic,3,low_coral_low_K,25,extreme_warm,32,0.0027303721331985464,8.25,TRUE,above_threshold,651
-Twins Wall,22,max_observed_density,75,2024-11-01,0.33,33,low_endemic,3,low_coral_low_K,25,warm,31,0.0037267965227149014,8.25,TRUE,above_threshold,652
-Twins Wall,22,max_observed_density,75,2024-11-01,0.33,33,low_endemic,3,moderate_coral_moderate_K,50,cool,27,0.004258352536147206,16.5,TRUE,above_threshold,653
-Twins Wall,22,max_observed_density,75,2024-11-01,0.33,33,low_endemic,3,moderate_coral_moderate_K,50,current_mean,29,0.004975062395963412,16.5,TRUE,above_threshold,654
-Twins Wall,22,max_observed_density,75,2024-11-01,0.33,33,low_endemic,3,moderate_coral_moderate_K,50,extreme_warm,32,0.0027303721331985464,16.5,TRUE,above_threshold,655
-Twins Wall,22,max_observed_density,75,2024-11-01,0.33,33,low_endemic,3,moderate_coral_moderate_K,50,warm,31,0.0037267965227149014,16.5,TRUE,above_threshold,656
-Twins Wall,22,max_observed_density,75,2024-11-01,0.33,33,low_endemic,3,recovery_reef_increasing_K,75,cool,27,0.004258352536147206,24.75,TRUE,above_threshold,657
-Twins Wall,22,max_observed_density,75,2024-11-01,0.33,33,low_endemic,3,recovery_reef_increasing_K,75,current_mean,29,0.004975062395963412,24.75,TRUE,above_threshold,658
-Twins Wall,22,max_observed_density,75,2024-11-01,0.33,33,low_endemic,3,recovery_reef_increasing_K,75,extreme_warm,32,0.0027303721331985464,24.75,TRUE,above_threshold,659
-Twins Wall,22,max_observed_density,75,2024-11-01,0.33,33,low_endemic,3,recovery_reef_increasing_K,75,warm,31,0.0037267965227149014,24.75,TRUE,above_threshold,660
-Twins Wall,22,mean_observed_density,27.045454545454547,2024-11-01,0.33,33,base_endemic,8,disturbed_reef_reduced_K,20,cool,27,0.004258352536147206,6.6000000000000005,FALSE,above_threshold,661
-Twins Wall,22,mean_observed_density,27.045454545454547,2024-11-01,0.33,33,base_endemic,8,disturbed_reef_reduced_K,20,current_mean,29,0.004975062395963412,6.6000000000000005,FALSE,above_threshold,662
-Twins Wall,22,mean_observed_density,27.045454545454547,2024-11-01,0.33,33,base_endemic,8,disturbed_reef_reduced_K,20,extreme_warm,32,0.0027303721331985464,6.6000000000000005,FALSE,above_threshold,663
-Twins Wall,22,mean_observed_density,27.045454545454547,2024-11-01,0.33,33,base_endemic,8,disturbed_reef_reduced_K,20,warm,31,0.0037267965227149014,6.6000000000000005,FALSE,above_threshold,664
-Twins Wall,22,mean_observed_density,27.045454545454547,2024-11-01,0.33,33,base_endemic,8,high_coral_high_K,100,cool,27,0.004258352536147206,33,TRUE,below_threshold,665
-Twins Wall,22,mean_observed_density,27.045454545454547,2024-11-01,0.33,33,base_endemic,8,high_coral_high_K,100,current_mean,29,0.004975062395963412,33,TRUE,below_threshold,666
-Twins Wall,22,mean_observed_density,27.045454545454547,2024-11-01,0.33,33,base_endemic,8,high_coral_high_K,100,extreme_warm,32,0.0027303721331985464,33,TRUE,below_threshold,667
-Twins Wall,22,mean_observed_density,27.045454545454547,2024-11-01,0.33,33,base_endemic,8,high_coral_high_K,100,warm,31,0.0037267965227149014,33,TRUE,below_threshold,668
-Twins Wall,22,mean_observed_density,27.045454545454547,2024-11-01,0.33,33,base_endemic,8,low_coral_low_K,25,cool,27,0.004258352536147206,8.25,TRUE,above_threshold,669
-Twins Wall,22,mean_observed_density,27.045454545454547,2024-11-01,0.33,33,base_endemic,8,low_coral_low_K,25,current_mean,29,0.004975062395963412,8.25,TRUE,above_threshold,670
-Twins Wall,22,mean_observed_density,27.045454545454547,2024-11-01,0.33,33,base_endemic,8,low_coral_low_K,25,extreme_warm,32,0.0027303721331985464,8.25,TRUE,above_threshold,671
-Twins Wall,22,mean_observed_density,27.045454545454547,2024-11-01,0.33,33,base_endemic,8,low_coral_low_K,25,warm,31,0.0037267965227149014,8.25,TRUE,above_threshold,672
-Twins Wall,22,mean_observed_density,27.045454545454547,2024-11-01,0.33,33,base_endemic,8,moderate_coral_moderate_K,50,cool,27,0.004258352536147206,16.5,TRUE,above_threshold,673
-Twins Wall,22,mean_observed_density,27.045454545454547,2024-11-01,0.33,33,base_endemic,8,moderate_coral_moderate_K,50,current_mean,29,0.004975062395963412,16.5,TRUE,above_threshold,674
-Twins Wall,22,mean_observed_density,27.045454545454547,2024-11-01,0.33,33,base_endemic,8,moderate_coral_moderate_K,50,extreme_warm,32,0.0027303721331985464,16.5,TRUE,above_threshold,675
-Twins Wall,22,mean_observed_density,27.045454545454547,2024-11-01,0.33,33,base_endemic,8,moderate_coral_moderate_K,50,warm,31,0.0037267965227149014,16.5,TRUE,above_threshold,676
-Twins Wall,22,mean_observed_density,27.045454545454547,2024-11-01,0.33,33,base_endemic,8,recovery_reef_increasing_K,75,cool,27,0.004258352536147206,24.75,TRUE,near_threshold,677
-Twins Wall,22,mean_observed_density,27.045454545454547,2024-11-01,0.33,33,base_endemic,8,recovery_reef_increasing_K,75,current_mean,29,0.004975062395963412,24.75,TRUE,near_threshold,678
-Twins Wall,22,mean_observed_density,27.045454545454547,2024-11-01,0.33,33,base_endemic,8,recovery_reef_increasing_K,75,extreme_warm,32,0.0027303721331985464,24.75,TRUE,near_threshold,679
-Twins Wall,22,mean_observed_density,27.045454545454547,2024-11-01,0.33,33,base_endemic,8,recovery_reef_increasing_K,75,warm,31,0.0037267965227149014,24.75,TRUE,near_threshold,680
-Twins Wall,22,mean_observed_density,27.045454545454547,2024-11-01,0.33,33,high_endemic,10,disturbed_reef_reduced_K,20,cool,27,0.004258352536147206,6.6000000000000005,FALSE,above_threshold,681
-Twins Wall,22,mean_observed_density,27.045454545454547,2024-11-01,0.33,33,high_endemic,10,disturbed_reef_reduced_K,20,current_mean,29,0.004975062395963412,6.6000000000000005,FALSE,above_threshold,682
-Twins Wall,22,mean_observed_density,27.045454545454547,2024-11-01,0.33,33,high_endemic,10,disturbed_reef_reduced_K,20,extreme_warm,32,0.0027303721331985464,6.6000000000000005,FALSE,above_threshold,683
-Twins Wall,22,mean_observed_density,27.045454545454547,2024-11-01,0.33,33,high_endemic,10,disturbed_reef_reduced_K,20,warm,31,0.0037267965227149014,6.6000000000000005,FALSE,above_threshold,684
-Twins Wall,22,mean_observed_density,27.045454545454547,2024-11-01,0.33,33,high_endemic,10,high_coral_high_K,100,cool,27,0.004258352536147206,33,TRUE,below_threshold,685
-Twins Wall,22,mean_observed_density,27.045454545454547,2024-11-01,0.33,33,high_endemic,10,high_coral_high_K,100,current_mean,29,0.004975062395963412,33,TRUE,below_threshold,686
-Twins Wall,22,mean_observed_density,27.045454545454547,2024-11-01,0.33,33,high_endemic,10,high_coral_high_K,100,extreme_warm,32,0.0027303721331985464,33,TRUE,below_threshold,687
-Twins Wall,22,mean_observed_density,27.045454545454547,2024-11-01,0.33,33,high_endemic,10,high_coral_high_K,100,warm,31,0.0037267965227149014,33,TRUE,below_threshold,688
-Twins Wall,22,mean_observed_density,27.045454545454547,2024-11-01,0.33,33,high_endemic,10,low_coral_low_K,25,cool,27,0.004258352536147206,8.25,FALSE,above_threshold,689
-Twins Wall,22,mean_observed_density,27.045454545454547,2024-11-01,0.33,33,high_endemic,10,low_coral_low_K,25,current_mean,29,0.004975062395963412,8.25,FALSE,above_threshold,690
-Twins Wall,22,mean_observed_density,27.045454545454547,2024-11-01,0.33,33,high_endemic,10,low_coral_low_K,25,extreme_warm,32,0.0027303721331985464,8.25,FALSE,above_threshold,691
-Twins Wall,22,mean_observed_density,27.045454545454547,2024-11-01,0.33,33,high_endemic,10,low_coral_low_K,25,warm,31,0.0037267965227149014,8.25,FALSE,above_threshold,692
-Twins Wall,22,mean_observed_density,27.045454545454547,2024-11-01,0.33,33,high_endemic,10,moderate_coral_moderate_K,50,cool,27,0.004258352536147206,16.5,TRUE,above_threshold,693
-Twins Wall,22,mean_observed_density,27.045454545454547,2024-11-01,0.33,33,high_endemic,10,moderate_coral_moderate_K,50,current_mean,29,0.004975062395963412,16.5,TRUE,above_threshold,694
-Twins Wall,22,mean_observed_density,27.045454545454547,2024-11-01,0.33,33,high_endemic,10,moderate_coral_moderate_K,50,extreme_warm,32,0.0027303721331985464,16.5,TRUE,above_threshold,695
-Twins Wall,22,mean_observed_density,27.045454545454547,2024-11-01,0.33,33,high_endemic,10,moderate_coral_moderate_K,50,warm,31,0.0037267965227149014,16.5,TRUE,above_threshold,696
-Twins Wall,22,mean_observed_density,27.045454545454547,2024-11-01,0.33,33,high_endemic,10,recovery_reef_increasing_K,75,cool,27,0.004258352536147206,24.75,TRUE,near_threshold,697
-Twins Wall,22,mean_observed_density,27.045454545454547,2024-11-01,0.33,33,high_endemic,10,recovery_reef_increasing_K,75,current_mean,29,0.004975062395963412,24.75,TRUE,near_threshold,698
-Twins Wall,22,mean_observed_density,27.045454545454547,2024-11-01,0.33,33,high_endemic,10,recovery_reef_increasing_K,75,extreme_warm,32,0.0027303721331985464,24.75,TRUE,near_threshold,699
-Twins Wall,22,mean_observed_density,27.045454545454547,2024-11-01,0.33,33,high_endemic,10,recovery_reef_increasing_K,75,warm,31,0.0037267965227149014,24.75,TRUE,near_threshold,700
-Twins Wall,22,mean_observed_density,27.045454545454547,2024-11-01,0.33,33,low_endemic,3,disturbed_reef_reduced_K,20,cool,27,0.004258352536147206,6.6000000000000005,TRUE,above_threshold,701
-Twins Wall,22,mean_observed_density,27.045454545454547,2024-11-01,0.33,33,low_endemic,3,disturbed_reef_reduced_K,20,current_mean,29,0.004975062395963412,6.6000000000000005,TRUE,above_threshold,702
-Twins Wall,22,mean_observed_density,27.045454545454547,2024-11-01,0.33,33,low_endemic,3,disturbed_reef_reduced_K,20,extreme_warm,32,0.0027303721331985464,6.6000000000000005,TRUE,above_threshold,703
-Twins Wall,22,mean_observed_density,27.045454545454547,2024-11-01,0.33,33,low_endemic,3,disturbed_reef_reduced_K,20,warm,31,0.0037267965227149014,6.6000000000000005,TRUE,above_threshold,704
-Twins Wall,22,mean_observed_density,27.045454545454547,2024-11-01,0.33,33,low_endemic,3,high_coral_high_K,100,cool,27,0.004258352536147206,33,TRUE,below_threshold,705
-Twins Wall,22,mean_observed_density,27.045454545454547,2024-11-01,0.33,33,low_endemic,3,high_coral_high_K,100,current_mean,29,0.004975062395963412,33,TRUE,below_threshold,706
-Twins Wall,22,mean_observed_density,27.045454545454547,2024-11-01,0.33,33,low_endemic,3,high_coral_high_K,100,extreme_warm,32,0.0027303721331985464,33,TRUE,below_threshold,707
-Twins Wall,22,mean_observed_density,27.045454545454547,2024-11-01,0.33,33,low_endemic,3,high_coral_high_K,100,warm,31,0.0037267965227149014,33,TRUE,below_threshold,708
-Twins Wall,22,mean_observed_density,27.045454545454547,2024-11-01,0.33,33,low_endemic,3,low_coral_low_K,25,cool,27,0.004258352536147206,8.25,TRUE,above_threshold,709
-Twins Wall,22,mean_observed_density,27.045454545454547,2024-11-01,0.33,33,low_endemic,3,low_coral_low_K,25,current_mean,29,0.004975062395963412,8.25,TRUE,above_threshold,710
-Twins Wall,22,mean_observed_density,27.045454545454547,2024-11-01,0.33,33,low_endemic,3,low_coral_low_K,25,extreme_warm,32,0.0027303721331985464,8.25,TRUE,above_threshold,711
-Twins Wall,22,mean_observed_density,27.045454545454547,2024-11-01,0.33,33,low_endemic,3,low_coral_low_K,25,warm,31,0.0037267965227149014,8.25,TRUE,above_threshold,712
-Twins Wall,22,mean_observed_density,27.045454545454547,2024-11-01,0.33,33,low_endemic,3,moderate_coral_moderate_K,50,cool,27,0.004258352536147206,16.5,TRUE,above_threshold,713
-Twins Wall,22,mean_observed_density,27.045454545454547,2024-11-01,0.33,33,low_endemic,3,moderate_coral_moderate_K,50,current_mean,29,0.004975062395963412,16.5,TRUE,above_threshold,714
-Twins Wall,22,mean_observed_density,27.045454545454547,2024-11-01,0.33,33,low_endemic,3,moderate_coral_moderate_K,50,extreme_warm,32,0.0027303721331985464,16.5,TRUE,above_threshold,715
-Twins Wall,22,mean_observed_density,27.045454545454547,2024-11-01,0.33,33,low_endemic,3,moderate_coral_moderate_K,50,warm,31,0.0037267965227149014,16.5,TRUE,above_threshold,716
-Twins Wall,22,mean_observed_density,27.045454545454547,2024-11-01,0.33,33,low_endemic,3,recovery_reef_increasing_K,75,cool,27,0.004258352536147206,24.75,TRUE,near_threshold,717
-Twins Wall,22,mean_observed_density,27.045454545454547,2024-11-01,0.33,33,low_endemic,3,recovery_reef_increasing_K,75,current_mean,29,0.004975062395963412,24.75,TRUE,near_threshold,718
-Twins Wall,22,mean_observed_density,27.045454545454547,2024-11-01,0.33,33,low_endemic,3,recovery_reef_increasing_K,75,extreme_warm,32,0.0027303721331985464,24.75,TRUE,near_threshold,719
-Twins Wall,22,mean_observed_density,27.045454545454547,2024-11-01,0.33,33,low_endemic,3,recovery_reef_increasing_K,75,warm,31,0.0037267965227149014,24.75,TRUE,near_threshold,720
-NA,1,max_observed_density,1505,NA,NA,NA,base_endemic,8,disturbed_reef_reduced_K,20,cool,27,0.004258352536147206,NA,NA,NA,721
-NA,1,max_observed_density,1505,NA,NA,NA,base_endemic,8,disturbed_reef_reduced_K,20,current_mean,29,0.004975062395963412,NA,NA,NA,722
-NA,1,max_observed_density,1505,NA,NA,NA,base_endemic,8,disturbed_reef_reduced_K,20,extreme_warm,32,0.0027303721331985464,NA,NA,NA,723
-NA,1,max_observed_density,1505,NA,NA,NA,base_endemic,8,disturbed_reef_reduced_K,20,warm,31,0.0037267965227149014,NA,NA,NA,724
-NA,1,max_observed_density,1505,NA,NA,NA,base_endemic,8,high_coral_high_K,100,cool,27,0.004258352536147206,NA,NA,NA,725
-NA,1,max_observed_density,1505,NA,NA,NA,base_endemic,8,high_coral_high_K,100,current_mean,29,0.004975062395963412,NA,NA,NA,726
-NA,1,max_observed_density,1505,NA,NA,NA,base_endemic,8,high_coral_high_K,100,extreme_warm,32,0.0027303721331985464,NA,NA,NA,727
-NA,1,max_observed_density,1505,NA,NA,NA,base_endemic,8,high_coral_high_K,100,warm,31,0.0037267965227149014,NA,NA,NA,728
-NA,1,max_observed_density,1505,NA,NA,NA,base_endemic,8,low_coral_low_K,25,cool,27,0.004258352536147206,NA,NA,NA,729
-NA,1,max_observed_density,1505,NA,NA,NA,base_endemic,8,low_coral_low_K,25,current_mean,29,0.004975062395963412,NA,NA,NA,730
-NA,1,max_observed_density,1505,NA,NA,NA,base_endemic,8,low_coral_low_K,25,extreme_warm,32,0.0027303721331985464,NA,NA,NA,731
-NA,1,max_observed_density,1505,NA,NA,NA,base_endemic,8,low_coral_low_K,25,warm,31,0.0037267965227149014,NA,NA,NA,732
-NA,1,max_observed_density,1505,NA,NA,NA,base_endemic,8,moderate_coral_moderate_K,50,cool,27,0.004258352536147206,NA,NA,NA,733
-NA,1,max_observed_density,1505,NA,NA,NA,base_endemic,8,moderate_coral_moderate_K,50,current_mean,29,0.004975062395963412,NA,NA,NA,734
-NA,1,max_observed_density,1505,NA,NA,NA,base_endemic,8,moderate_coral_moderate_K,50,extreme_warm,32,0.0027303721331985464,NA,NA,NA,735
-NA,1,max_observed_density,1505,NA,NA,NA,base_endemic,8,moderate_coral_moderate_K,50,warm,31,0.0037267965227149014,NA,NA,NA,736
-NA,1,max_observed_density,1505,NA,NA,NA,base_endemic,8,recovery_reef_increasing_K,75,cool,27,0.004258352536147206,NA,NA,NA,737
-NA,1,max_observed_density,1505,NA,NA,NA,base_endemic,8,recovery_reef_increasing_K,75,current_mean,29,0.004975062395963412,NA,NA,NA,738
-NA,1,max_observed_density,1505,NA,NA,NA,base_endemic,8,recovery_reef_increasing_K,75,extreme_warm,32,0.0027303721331985464,NA,NA,NA,739
-NA,1,max_observed_density,1505,NA,NA,NA,base_endemic,8,recovery_reef_increasing_K,75,warm,31,0.0037267965227149014,NA,NA,NA,740
-NA,1,max_observed_density,1505,NA,NA,NA,high_endemic,10,disturbed_reef_reduced_K,20,cool,27,0.004258352536147206,NA,NA,NA,741
-NA,1,max_observed_density,1505,NA,NA,NA,high_endemic,10,disturbed_reef_reduced_K,20,current_mean,29,0.004975062395963412,NA,NA,NA,742
-NA,1,max_observed_density,1505,NA,NA,NA,high_endemic,10,disturbed_reef_reduced_K,20,extreme_warm,32,0.0027303721331985464,NA,NA,NA,743
-NA,1,max_observed_density,1505,NA,NA,NA,high_endemic,10,disturbed_reef_reduced_K,20,warm,31,0.0037267965227149014,NA,NA,NA,744
-NA,1,max_observed_density,1505,NA,NA,NA,high_endemic,10,high_coral_high_K,100,cool,27,0.004258352536147206,NA,NA,NA,745
-NA,1,max_observed_density,1505,NA,NA,NA,high_endemic,10,high_coral_high_K,100,current_mean,29,0.004975062395963412,NA,NA,NA,746
-NA,1,max_observed_density,1505,NA,NA,NA,high_endemic,10,high_coral_high_K,100,extreme_warm,32,0.0027303721331985464,NA,NA,NA,747
-NA,1,max_observed_density,1505,NA,NA,NA,high_endemic,10,high_coral_high_K,100,warm,31,0.0037267965227149014,NA,NA,NA,748
-NA,1,max_observed_density,1505,NA,NA,NA,high_endemic,10,low_coral_low_K,25,cool,27,0.004258352536147206,NA,NA,NA,749
-NA,1,max_observed_density,1505,NA,NA,NA,high_endemic,10,low_coral_low_K,25,current_mean,29,0.004975062395963412,NA,NA,NA,750
-NA,1,max_observed_density,1505,NA,NA,NA,high_endemic,10,low_coral_low_K,25,extreme_warm,32,0.0027303721331985464,NA,NA,NA,751
-NA,1,max_observed_density,1505,NA,NA,NA,high_endemic,10,low_coral_low_K,25,warm,31,0.0037267965227149014,NA,NA,NA,752
-NA,1,max_observed_density,1505,NA,NA,NA,high_endemic,10,moderate_coral_moderate_K,50,cool,27,0.004258352536147206,NA,NA,NA,753
-NA,1,max_observed_density,1505,NA,NA,NA,high_endemic,10,moderate_coral_moderate_K,50,current_mean,29,0.004975062395963412,NA,NA,NA,754
-NA,1,max_observed_density,1505,NA,NA,NA,high_endemic,10,moderate_coral_moderate_K,50,extreme_warm,32,0.0027303721331985464,NA,NA,NA,755
-NA,1,max_observed_density,1505,NA,NA,NA,high_endemic,10,moderate_coral_moderate_K,50,warm,31,0.0037267965227149014,NA,NA,NA,756
-NA,1,max_observed_density,1505,NA,NA,NA,high_endemic,10,recovery_reef_increasing_K,75,cool,27,0.004258352536147206,NA,NA,NA,757
-NA,1,max_observed_density,1505,NA,NA,NA,high_endemic,10,recovery_reef_increasing_K,75,current_mean,29,0.004975062395963412,NA,NA,NA,758
-NA,1,max_observed_density,1505,NA,NA,NA,high_endemic,10,recovery_reef_increasing_K,75,extreme_warm,32,0.0027303721331985464,NA,NA,NA,759
-NA,1,max_observed_density,1505,NA,NA,NA,high_endemic,10,recovery_reef_increasing_K,75,warm,31,0.0037267965227149014,NA,NA,NA,760
-NA,1,max_observed_density,1505,NA,NA,NA,low_endemic,3,disturbed_reef_reduced_K,20,cool,27,0.004258352536147206,NA,NA,NA,761
-NA,1,max_observed_density,1505,NA,NA,NA,low_endemic,3,disturbed_reef_reduced_K,20,current_mean,29,0.004975062395963412,NA,NA,NA,762
-NA,1,max_observed_density,1505,NA,NA,NA,low_endemic,3,disturbed_reef_reduced_K,20,extreme_warm,32,0.0027303721331985464,NA,NA,NA,763
-NA,1,max_observed_density,1505,NA,NA,NA,low_endemic,3,disturbed_reef_reduced_K,20,warm,31,0.0037267965227149014,NA,NA,NA,764
-NA,1,max_observed_density,1505,NA,NA,NA,low_endemic,3,high_coral_high_K,100,cool,27,0.004258352536147206,NA,NA,NA,765
-NA,1,max_observed_density,1505,NA,NA,NA,low_endemic,3,high_coral_high_K,100,current_mean,29,0.004975062395963412,NA,NA,NA,766
-NA,1,max_observed_density,1505,NA,NA,NA,low_endemic,3,high_coral_high_K,100,extreme_warm,32,0.0027303721331985464,NA,NA,NA,767
-NA,1,max_observed_density,1505,NA,NA,NA,low_endemic,3,high_coral_high_K,100,warm,31,0.0037267965227149014,NA,NA,NA,768
-NA,1,max_observed_density,1505,NA,NA,NA,low_endemic,3,low_coral_low_K,25,cool,27,0.004258352536147206,NA,NA,NA,769
-NA,1,max_observed_density,1505,NA,NA,NA,low_endemic,3,low_coral_low_K,25,current_mean,29,0.004975062395963412,NA,NA,NA,770
-NA,1,max_observed_density,1505,NA,NA,NA,low_endemic,3,low_coral_low_K,25,extreme_warm,32,0.0027303721331985464,NA,NA,NA,771
-NA,1,max_observed_density,1505,NA,NA,NA,low_endemic,3,low_coral_low_K,25,warm,31,0.0037267965227149014,NA,NA,NA,772
-NA,1,max_observed_density,1505,NA,NA,NA,low_endemic,3,moderate_coral_moderate_K,50,cool,27,0.004258352536147206,NA,NA,NA,773
-NA,1,max_observed_density,1505,NA,NA,NA,low_endemic,3,moderate_coral_moderate_K,50,current_mean,29,0.004975062395963412,NA,NA,NA,774
-NA,1,max_observed_density,1505,NA,NA,NA,low_endemic,3,moderate_coral_moderate_K,50,extreme_warm,32,0.0027303721331985464,NA,NA,NA,775
-NA,1,max_observed_density,1505,NA,NA,NA,low_endemic,3,moderate_coral_moderate_K,50,warm,31,0.0037267965227149014,NA,NA,NA,776
-NA,1,max_observed_density,1505,NA,NA,NA,low_endemic,3,recovery_reef_increasing_K,75,cool,27,0.004258352536147206,NA,NA,NA,777
-NA,1,max_observed_density,1505,NA,NA,NA,low_endemic,3,recovery_reef_increasing_K,75,current_mean,29,0.004975062395963412,NA,NA,NA,778
-NA,1,max_observed_density,1505,NA,NA,NA,low_endemic,3,recovery_reef_increasing_K,75,extreme_warm,32,0.0027303721331985464,NA,NA,NA,779
-NA,1,max_observed_density,1505,NA,NA,NA,low_endemic,3,recovery_reef_increasing_K,75,warm,31,0.0037267965227149014,NA,NA,NA,780
-NA,1,mean_observed_density,1505,NA,NA,NA,base_endemic,8,disturbed_reef_reduced_K,20,cool,27,0.004258352536147206,NA,NA,NA,781
-NA,1,mean_observed_density,1505,NA,NA,NA,base_endemic,8,disturbed_reef_reduced_K,20,current_mean,29,0.004975062395963412,NA,NA,NA,782
-NA,1,mean_observed_density,1505,NA,NA,NA,base_endemic,8,disturbed_reef_reduced_K,20,extreme_warm,32,0.0027303721331985464,NA,NA,NA,783
-NA,1,mean_observed_density,1505,NA,NA,NA,base_endemic,8,disturbed_reef_reduced_K,20,warm,31,0.0037267965227149014,NA,NA,NA,784
-NA,1,mean_observed_density,1505,NA,NA,NA,base_endemic,8,high_coral_high_K,100,cool,27,0.004258352536147206,NA,NA,NA,785
-NA,1,mean_observed_density,1505,NA,NA,NA,base_endemic,8,high_coral_high_K,100,current_mean,29,0.004975062395963412,NA,NA,NA,786
-NA,1,mean_observed_density,1505,NA,NA,NA,base_endemic,8,high_coral_high_K,100,extreme_warm,32,0.0027303721331985464,NA,NA,NA,787
-NA,1,mean_observed_density,1505,NA,NA,NA,base_endemic,8,high_coral_high_K,100,warm,31,0.0037267965227149014,NA,NA,NA,788
-NA,1,mean_observed_density,1505,NA,NA,NA,base_endemic,8,low_coral_low_K,25,cool,27,0.004258352536147206,NA,NA,NA,789
-NA,1,mean_observed_density,1505,NA,NA,NA,base_endemic,8,low_coral_low_K,25,current_mean,29,0.004975062395963412,NA,NA,NA,790
-NA,1,mean_observed_density,1505,NA,NA,NA,base_endemic,8,low_coral_low_K,25,extreme_warm,32,0.0027303721331985464,NA,NA,NA,791
-NA,1,mean_observed_density,1505,NA,NA,NA,base_endemic,8,low_coral_low_K,25,warm,31,0.0037267965227149014,NA,NA,NA,792
-NA,1,mean_observed_density,1505,NA,NA,NA,base_endemic,8,moderate_coral_moderate_K,50,cool,27,0.004258352536147206,NA,NA,NA,793
-NA,1,mean_observed_density,1505,NA,NA,NA,base_endemic,8,moderate_coral_moderate_K,50,current_mean,29,0.004975062395963412,NA,NA,NA,794
-NA,1,mean_observed_density,1505,NA,NA,NA,base_endemic,8,moderate_coral_moderate_K,50,extreme_warm,32,0.0027303721331985464,NA,NA,NA,795
-NA,1,mean_observed_density,1505,NA,NA,NA,base_endemic,8,moderate_coral_moderate_K,50,warm,31,0.0037267965227149014,NA,NA,NA,796
-NA,1,mean_observed_density,1505,NA,NA,NA,base_endemic,8,recovery_reef_increasing_K,75,cool,27,0.004258352536147206,NA,NA,NA,797
-NA,1,mean_observed_density,1505,NA,NA,NA,base_endemic,8,recovery_reef_increasing_K,75,current_mean,29,0.004975062395963412,NA,NA,NA,798
-NA,1,mean_observed_density,1505,NA,NA,NA,base_endemic,8,recovery_reef_increasing_K,75,extreme_warm,32,0.0027303721331985464,NA,NA,NA,799
-NA,1,mean_observed_density,1505,NA,NA,NA,base_endemic,8,recovery_reef_increasing_K,75,warm,31,0.0037267965227149014,NA,NA,NA,800
-NA,1,mean_observed_density,1505,NA,NA,NA,high_endemic,10,disturbed_reef_reduced_K,20,cool,27,0.004258352536147206,NA,NA,NA,801
-NA,1,mean_observed_density,1505,NA,NA,NA,high_endemic,10,disturbed_reef_reduced_K,20,current_mean,29,0.004975062395963412,NA,NA,NA,802
-NA,1,mean_observed_density,1505,NA,NA,NA,high_endemic,10,disturbed_reef_reduced_K,20,extreme_warm,32,0.0027303721331985464,NA,NA,NA,803
-NA,1,mean_observed_density,1505,NA,NA,NA,high_endemic,10,disturbed_reef_reduced_K,20,warm,31,0.0037267965227149014,NA,NA,NA,804
-NA,1,mean_observed_density,1505,NA,NA,NA,high_endemic,10,high_coral_high_K,100,cool,27,0.004258352536147206,NA,NA,NA,805
-NA,1,mean_observed_density,1505,NA,NA,NA,high_endemic,10,high_coral_high_K,100,current_mean,29,0.004975062395963412,NA,NA,NA,806
-NA,1,mean_observed_density,1505,NA,NA,NA,high_endemic,10,high_coral_high_K,100,extreme_warm,32,0.0027303721331985464,NA,NA,NA,807
-NA,1,mean_observed_density,1505,NA,NA,NA,high_endemic,10,high_coral_high_K,100,warm,31,0.0037267965227149014,NA,NA,NA,808
-NA,1,mean_observed_density,1505,NA,NA,NA,high_endemic,10,low_coral_low_K,25,cool,27,0.004258352536147206,NA,NA,NA,809
-NA,1,mean_observed_density,1505,NA,NA,NA,high_endemic,10,low_coral_low_K,25,current_mean,29,0.004975062395963412,NA,NA,NA,810
-NA,1,mean_observed_density,1505,NA,NA,NA,high_endemic,10,low_coral_low_K,25,extreme_warm,32,0.0027303721331985464,NA,NA,NA,811
-NA,1,mean_observed_density,1505,NA,NA,NA,high_endemic,10,low_coral_low_K,25,warm,31,0.0037267965227149014,NA,NA,NA,812
-NA,1,mean_observed_density,1505,NA,NA,NA,high_endemic,10,moderate_coral_moderate_K,50,cool,27,0.004258352536147206,NA,NA,NA,813
-NA,1,mean_observed_density,1505,NA,NA,NA,high_endemic,10,moderate_coral_moderate_K,50,current_mean,29,0.004975062395963412,NA,NA,NA,814
-NA,1,mean_observed_density,1505,NA,NA,NA,high_endemic,10,moderate_coral_moderate_K,50,extreme_warm,32,0.0027303721331985464,NA,NA,NA,815
-NA,1,mean_observed_density,1505,NA,NA,NA,high_endemic,10,moderate_coral_moderate_K,50,warm,31,0.0037267965227149014,NA,NA,NA,816
-NA,1,mean_observed_density,1505,NA,NA,NA,high_endemic,10,recovery_reef_increasing_K,75,cool,27,0.004258352536147206,NA,NA,NA,817
-NA,1,mean_observed_density,1505,NA,NA,NA,high_endemic,10,recovery_reef_increasing_K,75,current_mean,29,0.004975062395963412,NA,NA,NA,818
-NA,1,mean_observed_density,1505,NA,NA,NA,high_endemic,10,recovery_reef_increasing_K,75,extreme_warm,32,0.0027303721331985464,NA,NA,NA,819
-NA,1,mean_observed_density,1505,NA,NA,NA,high_endemic,10,recovery_reef_increasing_K,75,warm,31,0.0037267965227149014,NA,NA,NA,820
-NA,1,mean_observed_density,1505,NA,NA,NA,low_endemic,3,disturbed_reef_reduced_K,20,cool,27,0.004258352536147206,NA,NA,NA,821
-NA,1,mean_observed_density,1505,NA,NA,NA,low_endemic,3,disturbed_reef_reduced_K,20,current_mean,29,0.004975062395963412,NA,NA,NA,822
-NA,1,mean_observed_density,1505,NA,NA,NA,low_endemic,3,disturbed_reef_reduced_K,20,extreme_warm,32,0.0027303721331985464,NA,NA,NA,823
-NA,1,mean_observed_density,1505,NA,NA,NA,low_endemic,3,disturbed_reef_reduced_K,20,warm,31,0.0037267965227149014,NA,NA,NA,824
-NA,1,mean_observed_density,1505,NA,NA,NA,low_endemic,3,high_coral_high_K,100,cool,27,0.004258352536147206,NA,NA,NA,825
-NA,1,mean_observed_density,1505,NA,NA,NA,low_endemic,3,high_coral_high_K,100,current_mean,29,0.004975062395963412,NA,NA,NA,826
-NA,1,mean_observed_density,1505,NA,NA,NA,low_endemic,3,high_coral_high_K,100,extreme_warm,32,0.0027303721331985464,NA,NA,NA,827
-NA,1,mean_observed_density,1505,NA,NA,NA,low_endemic,3,high_coral_high_K,100,warm,31,0.0037267965227149014,NA,NA,NA,828
-NA,1,mean_observed_density,1505,NA,NA,NA,low_endemic,3,low_coral_low_K,25,cool,27,0.004258352536147206,NA,NA,NA,829
-NA,1,mean_observed_density,1505,NA,NA,NA,low_endemic,3,low_coral_low_K,25,current_mean,29,0.004975062395963412,NA,NA,NA,830
-NA,1,mean_observed_density,1505,NA,NA,NA,low_endemic,3,low_coral_low_K,25,extreme_warm,32,0.0027303721331985464,NA,NA,NA,831
-NA,1,mean_observed_density,1505,NA,NA,NA,low_endemic,3,low_coral_low_K,25,warm,31,0.0037267965227149014,NA,NA,NA,832
-NA,1,mean_observed_density,1505,NA,NA,NA,low_endemic,3,moderate_coral_moderate_K,50,cool,27,0.004258352536147206,NA,NA,NA,833
-NA,1,mean_observed_density,1505,NA,NA,NA,low_endemic,3,moderate_coral_moderate_K,50,current_mean,29,0.004975062395963412,NA,NA,NA,834
-NA,1,mean_observed_density,1505,NA,NA,NA,low_endemic,3,moderate_coral_moderate_K,50,extreme_warm,32,0.0027303721331985464,NA,NA,NA,835
-NA,1,mean_observed_density,1505,NA,NA,NA,low_endemic,3,moderate_coral_moderate_K,50,warm,31,0.0037267965227149014,NA,NA,NA,836
-NA,1,mean_observed_density,1505,NA,NA,NA,low_endemic,3,recovery_reef_increasing_K,75,cool,27,0.004258352536147206,NA,NA,NA,837
-NA,1,mean_observed_density,1505,NA,NA,NA,low_endemic,3,recovery_reef_increasing_K,75,current_mean,29,0.004975062395963412,NA,NA,NA,838
-NA,1,mean_observed_density,1505,NA,NA,NA,low_endemic,3,recovery_reef_increasing_K,75,extreme_warm,32,0.0027303721331985464,NA,NA,NA,839
-NA,1,mean_observed_density,1505,NA,NA,NA,low_endemic,3,recovery_reef_increasing_K,75,warm,31,0.0037267965227149014,NA,NA,NA,840
+site,N0_type,N0,representative_survey_id,representative_date,SST,r_T,substrate_date,live_coral_prop,live_coral_percent,state1_scenario,State_1,kc_scenario,K_c,K_t,valid_state_order,observed_threshold_position,sim_id
+Green Rock Wall,max_observed_density,80,GR37,2025-09-16,27.211999893188477,0.13179998397827147,2024-11-01,0.395,39.5,base_endemic,8,disturbed_reef_reduced_K,20,7.9,FALSE,outbreak_overshoot,1
+Green Rock Wall,max_observed_density,80,GR37,2025-09-16,27.211999893188477,0.13179998397827147,2024-11-01,0.395,39.5,base_endemic,8,high_coral_high_K,100,39.5,TRUE,above_tipping_threshold,2
+Green Rock Wall,max_observed_density,80,GR37,2025-09-16,27.211999893188477,0.13179998397827147,2024-11-01,0.395,39.5,base_endemic,8,low_coral_low_K,25,9.875,TRUE,outbreak_overshoot,3
+Green Rock Wall,max_observed_density,80,GR37,2025-09-16,27.211999893188477,0.13179998397827147,2024-11-01,0.395,39.5,base_endemic,8,moderate_coral_moderate_K,50,19.75,TRUE,outbreak_overshoot,4
+Green Rock Wall,max_observed_density,80,GR37,2025-09-16,27.211999893188477,0.13179998397827147,2024-11-01,0.395,39.5,base_endemic,8,recovery_reef_increasing_K,75,29.625,TRUE,outbreak_overshoot,5
+Green Rock Wall,max_observed_density,80,GR37,2025-09-16,27.211999893188477,0.13179998397827147,2024-11-01,0.395,39.5,high_endemic,10,disturbed_reef_reduced_K,20,7.9,FALSE,outbreak_overshoot,6
+Green Rock Wall,max_observed_density,80,GR37,2025-09-16,27.211999893188477,0.13179998397827147,2024-11-01,0.395,39.5,high_endemic,10,high_coral_high_K,100,39.5,TRUE,above_tipping_threshold,7
+Green Rock Wall,max_observed_density,80,GR37,2025-09-16,27.211999893188477,0.13179998397827147,2024-11-01,0.395,39.5,high_endemic,10,low_coral_low_K,25,9.875,FALSE,outbreak_overshoot,8
+Green Rock Wall,max_observed_density,80,GR37,2025-09-16,27.211999893188477,0.13179998397827147,2024-11-01,0.395,39.5,high_endemic,10,moderate_coral_moderate_K,50,19.75,TRUE,outbreak_overshoot,9
+Green Rock Wall,max_observed_density,80,GR37,2025-09-16,27.211999893188477,0.13179998397827147,2024-11-01,0.395,39.5,high_endemic,10,recovery_reef_increasing_K,75,29.625,TRUE,outbreak_overshoot,10
+Green Rock Wall,max_observed_density,80,GR37,2025-09-16,27.211999893188477,0.13179998397827147,2024-11-01,0.395,39.5,low_endemic,3,disturbed_reef_reduced_K,20,7.9,TRUE,outbreak_overshoot,11
+Green Rock Wall,max_observed_density,80,GR37,2025-09-16,27.211999893188477,0.13179998397827147,2024-11-01,0.395,39.5,low_endemic,3,high_coral_high_K,100,39.5,TRUE,above_tipping_threshold,12
+Green Rock Wall,max_observed_density,80,GR37,2025-09-16,27.211999893188477,0.13179998397827147,2024-11-01,0.395,39.5,low_endemic,3,low_coral_low_K,25,9.875,TRUE,outbreak_overshoot,13
+Green Rock Wall,max_observed_density,80,GR37,2025-09-16,27.211999893188477,0.13179998397827147,2024-11-01,0.395,39.5,low_endemic,3,moderate_coral_moderate_K,50,19.75,TRUE,outbreak_overshoot,14
+Green Rock Wall,max_observed_density,80,GR37,2025-09-16,27.211999893188477,0.13179998397827147,2024-11-01,0.395,39.5,low_endemic,3,recovery_reef_increasing_K,75,29.625,TRUE,outbreak_overshoot,15
+Green Rock Wall,mean_observed_density,36.25,GR22,2024-04-09,30.674999237060547,0.18250007629394532,2024-11-01,0.395,39.5,base_endemic,8,disturbed_reef_reduced_K,20,7.9,FALSE,outbreak_overshoot,16
+Green Rock Wall,mean_observed_density,36.25,GR22,2024-04-09,30.674999237060547,0.18250007629394532,2024-11-01,0.395,39.5,base_endemic,8,high_coral_high_K,100,39.5,TRUE,allee_basin,17
+Green Rock Wall,mean_observed_density,36.25,GR22,2024-04-09,30.674999237060547,0.18250007629394532,2024-11-01,0.395,39.5,base_endemic,8,low_coral_low_K,25,9.875,TRUE,outbreak_overshoot,18
+Green Rock Wall,mean_observed_density,36.25,GR22,2024-04-09,30.674999237060547,0.18250007629394532,2024-11-01,0.395,39.5,base_endemic,8,moderate_coral_moderate_K,50,19.75,TRUE,above_tipping_threshold,19
+Green Rock Wall,mean_observed_density,36.25,GR22,2024-04-09,30.674999237060547,0.18250007629394532,2024-11-01,0.395,39.5,base_endemic,8,recovery_reef_increasing_K,75,29.625,TRUE,above_tipping_threshold,20
+Green Rock Wall,mean_observed_density,36.25,GR22,2024-04-09,30.674999237060547,0.18250007629394532,2024-11-01,0.395,39.5,high_endemic,10,disturbed_reef_reduced_K,20,7.9,FALSE,outbreak_overshoot,21
+Green Rock Wall,mean_observed_density,36.25,GR22,2024-04-09,30.674999237060547,0.18250007629394532,2024-11-01,0.395,39.5,high_endemic,10,high_coral_high_K,100,39.5,TRUE,allee_basin,22
+Green Rock Wall,mean_observed_density,36.25,GR22,2024-04-09,30.674999237060547,0.18250007629394532,2024-11-01,0.395,39.5,high_endemic,10,low_coral_low_K,25,9.875,FALSE,outbreak_overshoot,23
+Green Rock Wall,mean_observed_density,36.25,GR22,2024-04-09,30.674999237060547,0.18250007629394532,2024-11-01,0.395,39.5,high_endemic,10,moderate_coral_moderate_K,50,19.75,TRUE,above_tipping_threshold,24
+Green Rock Wall,mean_observed_density,36.25,GR22,2024-04-09,30.674999237060547,0.18250007629394532,2024-11-01,0.395,39.5,high_endemic,10,recovery_reef_increasing_K,75,29.625,TRUE,above_tipping_threshold,25
+Green Rock Wall,mean_observed_density,36.25,GR22,2024-04-09,30.674999237060547,0.18250007629394532,2024-11-01,0.395,39.5,low_endemic,3,disturbed_reef_reduced_K,20,7.9,TRUE,outbreak_overshoot,26
+Green Rock Wall,mean_observed_density,36.25,GR22,2024-04-09,30.674999237060547,0.18250007629394532,2024-11-01,0.395,39.5,low_endemic,3,high_coral_high_K,100,39.5,TRUE,allee_basin,27
+Green Rock Wall,mean_observed_density,36.25,GR22,2024-04-09,30.674999237060547,0.18250007629394532,2024-11-01,0.395,39.5,low_endemic,3,low_coral_low_K,25,9.875,TRUE,outbreak_overshoot,28
+Green Rock Wall,mean_observed_density,36.25,GR22,2024-04-09,30.674999237060547,0.18250007629394532,2024-11-01,0.395,39.5,low_endemic,3,moderate_coral_moderate_K,50,19.75,TRUE,above_tipping_threshold,29
+Green Rock Wall,mean_observed_density,36.25,GR22,2024-04-09,30.674999237060547,0.18250007629394532,2024-11-01,0.395,39.5,low_endemic,3,recovery_reef_increasing_K,75,29.625,TRUE,above_tipping_threshold,30
+Green Rock Wall,median_observed_density,37.5,GR13,2020-09-22,29.763999938964844,0.25,2024-11-01,0.395,39.5,base_endemic,8,disturbed_reef_reduced_K,20,7.9,FALSE,outbreak_overshoot,31
+Green Rock Wall,median_observed_density,37.5,GR13,2020-09-22,29.763999938964844,0.25,2024-11-01,0.395,39.5,base_endemic,8,high_coral_high_K,100,39.5,TRUE,allee_basin,32
+Green Rock Wall,median_observed_density,37.5,GR13,2020-09-22,29.763999938964844,0.25,2024-11-01,0.395,39.5,base_endemic,8,low_coral_low_K,25,9.875,TRUE,outbreak_overshoot,33
+Green Rock Wall,median_observed_density,37.5,GR13,2020-09-22,29.763999938964844,0.25,2024-11-01,0.395,39.5,base_endemic,8,moderate_coral_moderate_K,50,19.75,TRUE,above_tipping_threshold,34
+Green Rock Wall,median_observed_density,37.5,GR13,2020-09-22,29.763999938964844,0.25,2024-11-01,0.395,39.5,base_endemic,8,recovery_reef_increasing_K,75,29.625,TRUE,above_tipping_threshold,35
+Green Rock Wall,median_observed_density,37.5,GR13,2020-09-22,29.763999938964844,0.25,2024-11-01,0.395,39.5,high_endemic,10,disturbed_reef_reduced_K,20,7.9,FALSE,outbreak_overshoot,36
+Green Rock Wall,median_observed_density,37.5,GR13,2020-09-22,29.763999938964844,0.25,2024-11-01,0.395,39.5,high_endemic,10,high_coral_high_K,100,39.5,TRUE,allee_basin,37
+Green Rock Wall,median_observed_density,37.5,GR13,2020-09-22,29.763999938964844,0.25,2024-11-01,0.395,39.5,high_endemic,10,low_coral_low_K,25,9.875,FALSE,outbreak_overshoot,38
+Green Rock Wall,median_observed_density,37.5,GR13,2020-09-22,29.763999938964844,0.25,2024-11-01,0.395,39.5,high_endemic,10,moderate_coral_moderate_K,50,19.75,TRUE,above_tipping_threshold,39
+Green Rock Wall,median_observed_density,37.5,GR13,2020-09-22,29.763999938964844,0.25,2024-11-01,0.395,39.5,high_endemic,10,recovery_reef_increasing_K,75,29.625,TRUE,above_tipping_threshold,40
+Green Rock Wall,median_observed_density,37.5,GR13,2020-09-22,29.763999938964844,0.25,2024-11-01,0.395,39.5,low_endemic,3,disturbed_reef_reduced_K,20,7.9,TRUE,outbreak_overshoot,41
+Green Rock Wall,median_observed_density,37.5,GR13,2020-09-22,29.763999938964844,0.25,2024-11-01,0.395,39.5,low_endemic,3,high_coral_high_K,100,39.5,TRUE,allee_basin,42
+Green Rock Wall,median_observed_density,37.5,GR13,2020-09-22,29.763999938964844,0.25,2024-11-01,0.395,39.5,low_endemic,3,low_coral_low_K,25,9.875,TRUE,outbreak_overshoot,43
+Green Rock Wall,median_observed_density,37.5,GR13,2020-09-22,29.763999938964844,0.25,2024-11-01,0.395,39.5,low_endemic,3,moderate_coral_moderate_K,50,19.75,TRUE,above_tipping_threshold,44
+Green Rock Wall,median_observed_density,37.5,GR13,2020-09-22,29.763999938964844,0.25,2024-11-01,0.395,39.5,low_endemic,3,recovery_reef_increasing_K,75,29.625,TRUE,above_tipping_threshold,45
+Green Rock Wall,q75_observed_density,50,GR16,2022-10-20,28.364999771118164,0.25,2024-11-01,0.395,39.5,base_endemic,8,disturbed_reef_reduced_K,20,7.9,FALSE,outbreak_overshoot,46
+Green Rock Wall,q75_observed_density,50,GR16,2022-10-20,28.364999771118164,0.25,2024-11-01,0.395,39.5,base_endemic,8,high_coral_high_K,100,39.5,TRUE,above_tipping_threshold,47
+Green Rock Wall,q75_observed_density,50,GR16,2022-10-20,28.364999771118164,0.25,2024-11-01,0.395,39.5,base_endemic,8,low_coral_low_K,25,9.875,TRUE,outbreak_overshoot,48
+Green Rock Wall,q75_observed_density,50,GR16,2022-10-20,28.364999771118164,0.25,2024-11-01,0.395,39.5,base_endemic,8,moderate_coral_moderate_K,50,19.75,TRUE,outbreak_overshoot,49
+Green Rock Wall,q75_observed_density,50,GR16,2022-10-20,28.364999771118164,0.25,2024-11-01,0.395,39.5,base_endemic,8,recovery_reef_increasing_K,75,29.625,TRUE,above_tipping_threshold,50
+Green Rock Wall,q75_observed_density,50,GR16,2022-10-20,28.364999771118164,0.25,2024-11-01,0.395,39.5,high_endemic,10,disturbed_reef_reduced_K,20,7.9,FALSE,outbreak_overshoot,51
+Green Rock Wall,q75_observed_density,50,GR16,2022-10-20,28.364999771118164,0.25,2024-11-01,0.395,39.5,high_endemic,10,high_coral_high_K,100,39.5,TRUE,above_tipping_threshold,52
+Green Rock Wall,q75_observed_density,50,GR16,2022-10-20,28.364999771118164,0.25,2024-11-01,0.395,39.5,high_endemic,10,low_coral_low_K,25,9.875,FALSE,outbreak_overshoot,53
+Green Rock Wall,q75_observed_density,50,GR16,2022-10-20,28.364999771118164,0.25,2024-11-01,0.395,39.5,high_endemic,10,moderate_coral_moderate_K,50,19.75,TRUE,outbreak_overshoot,54
+Green Rock Wall,q75_observed_density,50,GR16,2022-10-20,28.364999771118164,0.25,2024-11-01,0.395,39.5,high_endemic,10,recovery_reef_increasing_K,75,29.625,TRUE,above_tipping_threshold,55
+Green Rock Wall,q75_observed_density,50,GR16,2022-10-20,28.364999771118164,0.25,2024-11-01,0.395,39.5,low_endemic,3,disturbed_reef_reduced_K,20,7.9,TRUE,outbreak_overshoot,56
+Green Rock Wall,q75_observed_density,50,GR16,2022-10-20,28.364999771118164,0.25,2024-11-01,0.395,39.5,low_endemic,3,high_coral_high_K,100,39.5,TRUE,above_tipping_threshold,57
+Green Rock Wall,q75_observed_density,50,GR16,2022-10-20,28.364999771118164,0.25,2024-11-01,0.395,39.5,low_endemic,3,low_coral_low_K,25,9.875,TRUE,outbreak_overshoot,58
+Green Rock Wall,q75_observed_density,50,GR16,2022-10-20,28.364999771118164,0.25,2024-11-01,0.395,39.5,low_endemic,3,moderate_coral_moderate_K,50,19.75,TRUE,outbreak_overshoot,59
+Green Rock Wall,q75_observed_density,50,GR16,2022-10-20,28.364999771118164,0.25,2024-11-01,0.395,39.5,low_endemic,3,recovery_reef_increasing_K,75,29.625,TRUE,above_tipping_threshold,60
+Green Rock Wall,q90_observed_density,55,GR20,2024-02-20,29.298999786376953,0.25,2024-11-01,0.395,39.5,base_endemic,8,disturbed_reef_reduced_K,20,7.9,FALSE,outbreak_overshoot,61
+Green Rock Wall,q90_observed_density,55,GR20,2024-02-20,29.298999786376953,0.25,2024-11-01,0.395,39.5,base_endemic,8,high_coral_high_K,100,39.5,TRUE,above_tipping_threshold,62
+Green Rock Wall,q90_observed_density,55,GR20,2024-02-20,29.298999786376953,0.25,2024-11-01,0.395,39.5,base_endemic,8,low_coral_low_K,25,9.875,TRUE,outbreak_overshoot,63
+Green Rock Wall,q90_observed_density,55,GR20,2024-02-20,29.298999786376953,0.25,2024-11-01,0.395,39.5,base_endemic,8,moderate_coral_moderate_K,50,19.75,TRUE,outbreak_overshoot,64
+Green Rock Wall,q90_observed_density,55,GR20,2024-02-20,29.298999786376953,0.25,2024-11-01,0.395,39.5,base_endemic,8,recovery_reef_increasing_K,75,29.625,TRUE,above_tipping_threshold,65
+Green Rock Wall,q90_observed_density,55,GR20,2024-02-20,29.298999786376953,0.25,2024-11-01,0.395,39.5,high_endemic,10,disturbed_reef_reduced_K,20,7.9,FALSE,outbreak_overshoot,66
+Green Rock Wall,q90_observed_density,55,GR20,2024-02-20,29.298999786376953,0.25,2024-11-01,0.395,39.5,high_endemic,10,high_coral_high_K,100,39.5,TRUE,above_tipping_threshold,67
+Green Rock Wall,q90_observed_density,55,GR20,2024-02-20,29.298999786376953,0.25,2024-11-01,0.395,39.5,high_endemic,10,low_coral_low_K,25,9.875,FALSE,outbreak_overshoot,68
+Green Rock Wall,q90_observed_density,55,GR20,2024-02-20,29.298999786376953,0.25,2024-11-01,0.395,39.5,high_endemic,10,moderate_coral_moderate_K,50,19.75,TRUE,outbreak_overshoot,69
+Green Rock Wall,q90_observed_density,55,GR20,2024-02-20,29.298999786376953,0.25,2024-11-01,0.395,39.5,high_endemic,10,recovery_reef_increasing_K,75,29.625,TRUE,above_tipping_threshold,70
+Green Rock Wall,q90_observed_density,55,GR20,2024-02-20,29.298999786376953,0.25,2024-11-01,0.395,39.5,low_endemic,3,disturbed_reef_reduced_K,20,7.9,TRUE,outbreak_overshoot,71
+Green Rock Wall,q90_observed_density,55,GR20,2024-02-20,29.298999786376953,0.25,2024-11-01,0.395,39.5,low_endemic,3,high_coral_high_K,100,39.5,TRUE,above_tipping_threshold,72
+Green Rock Wall,q90_observed_density,55,GR20,2024-02-20,29.298999786376953,0.25,2024-11-01,0.395,39.5,low_endemic,3,low_coral_low_K,25,9.875,TRUE,outbreak_overshoot,73
+Green Rock Wall,q90_observed_density,55,GR20,2024-02-20,29.298999786376953,0.25,2024-11-01,0.395,39.5,low_endemic,3,moderate_coral_moderate_K,50,19.75,TRUE,outbreak_overshoot,74
+Green Rock Wall,q90_observed_density,55,GR20,2024-02-20,29.298999786376953,0.25,2024-11-01,0.395,39.5,low_endemic,3,recovery_reef_increasing_K,75,29.625,TRUE,above_tipping_threshold,75
+Red Rock Wall,max_observed_density,55,RR22,2025-06-05,27.211999893188477,0.13179998397827147,2024-11-01,0.5,50,base_endemic,8,disturbed_reef_reduced_K,20,10,TRUE,outbreak_overshoot,76
+Red Rock Wall,max_observed_density,55,RR22,2025-06-05,27.211999893188477,0.13179998397827147,2024-11-01,0.5,50,base_endemic,8,high_coral_high_K,100,50,TRUE,above_tipping_threshold,77
+Red Rock Wall,max_observed_density,55,RR22,2025-06-05,27.211999893188477,0.13179998397827147,2024-11-01,0.5,50,base_endemic,8,low_coral_low_K,25,12.5,TRUE,outbreak_overshoot,78
+Red Rock Wall,max_observed_density,55,RR22,2025-06-05,27.211999893188477,0.13179998397827147,2024-11-01,0.5,50,base_endemic,8,moderate_coral_moderate_K,50,25,TRUE,outbreak_overshoot,79
+Red Rock Wall,max_observed_density,55,RR22,2025-06-05,27.211999893188477,0.13179998397827147,2024-11-01,0.5,50,base_endemic,8,recovery_reef_increasing_K,75,37.5,TRUE,above_tipping_threshold,80
+Red Rock Wall,max_observed_density,55,RR22,2025-06-05,27.211999893188477,0.13179998397827147,2024-11-01,0.5,50,high_endemic,10,disturbed_reef_reduced_K,20,10,FALSE,outbreak_overshoot,81
+Red Rock Wall,max_observed_density,55,RR22,2025-06-05,27.211999893188477,0.13179998397827147,2024-11-01,0.5,50,high_endemic,10,high_coral_high_K,100,50,TRUE,above_tipping_threshold,82
+Red Rock Wall,max_observed_density,55,RR22,2025-06-05,27.211999893188477,0.13179998397827147,2024-11-01,0.5,50,high_endemic,10,low_coral_low_K,25,12.5,TRUE,outbreak_overshoot,83
+Red Rock Wall,max_observed_density,55,RR22,2025-06-05,27.211999893188477,0.13179998397827147,2024-11-01,0.5,50,high_endemic,10,moderate_coral_moderate_K,50,25,TRUE,outbreak_overshoot,84
+Red Rock Wall,max_observed_density,55,RR22,2025-06-05,27.211999893188477,0.13179998397827147,2024-11-01,0.5,50,high_endemic,10,recovery_reef_increasing_K,75,37.5,TRUE,above_tipping_threshold,85
+Red Rock Wall,max_observed_density,55,RR22,2025-06-05,27.211999893188477,0.13179998397827147,2024-11-01,0.5,50,low_endemic,3,disturbed_reef_reduced_K,20,10,TRUE,outbreak_overshoot,86
+Red Rock Wall,max_observed_density,55,RR22,2025-06-05,27.211999893188477,0.13179998397827147,2024-11-01,0.5,50,low_endemic,3,high_coral_high_K,100,50,TRUE,above_tipping_threshold,87
+Red Rock Wall,max_observed_density,55,RR22,2025-06-05,27.211999893188477,0.13179998397827147,2024-11-01,0.5,50,low_endemic,3,low_coral_low_K,25,12.5,TRUE,outbreak_overshoot,88
+Red Rock Wall,max_observed_density,55,RR22,2025-06-05,27.211999893188477,0.13179998397827147,2024-11-01,0.5,50,low_endemic,3,moderate_coral_moderate_K,50,25,TRUE,outbreak_overshoot,89
+Red Rock Wall,max_observed_density,55,RR22,2025-06-05,27.211999893188477,0.13179998397827147,2024-11-01,0.5,50,low_endemic,3,recovery_reef_increasing_K,75,37.5,TRUE,above_tipping_threshold,90
+Red Rock Wall,mean_observed_density,29.21875,RR11,2024-07-04,30.187000274658203,0.2312999725341797,2024-11-01,0.5,50,base_endemic,8,disturbed_reef_reduced_K,20,10,TRUE,outbreak_overshoot,91
+Red Rock Wall,mean_observed_density,29.21875,RR11,2024-07-04,30.187000274658203,0.2312999725341797,2024-11-01,0.5,50,base_endemic,8,high_coral_high_K,100,50,TRUE,allee_basin,92
+Red Rock Wall,mean_observed_density,29.21875,RR11,2024-07-04,30.187000274658203,0.2312999725341797,2024-11-01,0.5,50,base_endemic,8,low_coral_low_K,25,12.5,TRUE,outbreak_overshoot,93
+Red Rock Wall,mean_observed_density,29.21875,RR11,2024-07-04,30.187000274658203,0.2312999725341797,2024-11-01,0.5,50,base_endemic,8,moderate_coral_moderate_K,50,25,TRUE,above_tipping_threshold,94
+Red Rock Wall,mean_observed_density,29.21875,RR11,2024-07-04,30.187000274658203,0.2312999725341797,2024-11-01,0.5,50,base_endemic,8,recovery_reef_increasing_K,75,37.5,TRUE,allee_basin,95
+Red Rock Wall,mean_observed_density,29.21875,RR11,2024-07-04,30.187000274658203,0.2312999725341797,2024-11-01,0.5,50,high_endemic,10,disturbed_reef_reduced_K,20,10,FALSE,outbreak_overshoot,96
+Red Rock Wall,mean_observed_density,29.21875,RR11,2024-07-04,30.187000274658203,0.2312999725341797,2024-11-01,0.5,50,high_endemic,10,high_coral_high_K,100,50,TRUE,allee_basin,97
+Red Rock Wall,mean_observed_density,29.21875,RR11,2024-07-04,30.187000274658203,0.2312999725341797,2024-11-01,0.5,50,high_endemic,10,low_coral_low_K,25,12.5,TRUE,outbreak_overshoot,98
+Red Rock Wall,mean_observed_density,29.21875,RR11,2024-07-04,30.187000274658203,0.2312999725341797,2024-11-01,0.5,50,high_endemic,10,moderate_coral_moderate_K,50,25,TRUE,above_tipping_threshold,99
+Red Rock Wall,mean_observed_density,29.21875,RR11,2024-07-04,30.187000274658203,0.2312999725341797,2024-11-01,0.5,50,high_endemic,10,recovery_reef_increasing_K,75,37.5,TRUE,allee_basin,100
+Red Rock Wall,mean_observed_density,29.21875,RR11,2024-07-04,30.187000274658203,0.2312999725341797,2024-11-01,0.5,50,low_endemic,3,disturbed_reef_reduced_K,20,10,TRUE,outbreak_overshoot,101
+Red Rock Wall,mean_observed_density,29.21875,RR11,2024-07-04,30.187000274658203,0.2312999725341797,2024-11-01,0.5,50,low_endemic,3,high_coral_high_K,100,50,TRUE,allee_basin,102
+Red Rock Wall,mean_observed_density,29.21875,RR11,2024-07-04,30.187000274658203,0.2312999725341797,2024-11-01,0.5,50,low_endemic,3,low_coral_low_K,25,12.5,TRUE,outbreak_overshoot,103
+Red Rock Wall,mean_observed_density,29.21875,RR11,2024-07-04,30.187000274658203,0.2312999725341797,2024-11-01,0.5,50,low_endemic,3,moderate_coral_moderate_K,50,25,TRUE,above_tipping_threshold,104
+Red Rock Wall,mean_observed_density,29.21875,RR11,2024-07-04,30.187000274658203,0.2312999725341797,2024-11-01,0.5,50,low_endemic,3,recovery_reef_increasing_K,75,37.5,TRUE,allee_basin,105
+Red Rock Wall,median_observed_density,30,RR11,2024-07-04,30.187000274658203,0.2312999725341797,2024-11-01,0.5,50,base_endemic,8,disturbed_reef_reduced_K,20,10,TRUE,outbreak_overshoot,106
+Red Rock Wall,median_observed_density,30,RR11,2024-07-04,30.187000274658203,0.2312999725341797,2024-11-01,0.5,50,base_endemic,8,high_coral_high_K,100,50,TRUE,allee_basin,107
+Red Rock Wall,median_observed_density,30,RR11,2024-07-04,30.187000274658203,0.2312999725341797,2024-11-01,0.5,50,base_endemic,8,low_coral_low_K,25,12.5,TRUE,outbreak_overshoot,108
+Red Rock Wall,median_observed_density,30,RR11,2024-07-04,30.187000274658203,0.2312999725341797,2024-11-01,0.5,50,base_endemic,8,moderate_coral_moderate_K,50,25,TRUE,above_tipping_threshold,109
+Red Rock Wall,median_observed_density,30,RR11,2024-07-04,30.187000274658203,0.2312999725341797,2024-11-01,0.5,50,base_endemic,8,recovery_reef_increasing_K,75,37.5,TRUE,allee_basin,110
+Red Rock Wall,median_observed_density,30,RR11,2024-07-04,30.187000274658203,0.2312999725341797,2024-11-01,0.5,50,high_endemic,10,disturbed_reef_reduced_K,20,10,FALSE,outbreak_overshoot,111
+Red Rock Wall,median_observed_density,30,RR11,2024-07-04,30.187000274658203,0.2312999725341797,2024-11-01,0.5,50,high_endemic,10,high_coral_high_K,100,50,TRUE,allee_basin,112
+Red Rock Wall,median_observed_density,30,RR11,2024-07-04,30.187000274658203,0.2312999725341797,2024-11-01,0.5,50,high_endemic,10,low_coral_low_K,25,12.5,TRUE,outbreak_overshoot,113
+Red Rock Wall,median_observed_density,30,RR11,2024-07-04,30.187000274658203,0.2312999725341797,2024-11-01,0.5,50,high_endemic,10,moderate_coral_moderate_K,50,25,TRUE,above_tipping_threshold,114
+Red Rock Wall,median_observed_density,30,RR11,2024-07-04,30.187000274658203,0.2312999725341797,2024-11-01,0.5,50,high_endemic,10,recovery_reef_increasing_K,75,37.5,TRUE,allee_basin,115
+Red Rock Wall,median_observed_density,30,RR11,2024-07-04,30.187000274658203,0.2312999725341797,2024-11-01,0.5,50,low_endemic,3,disturbed_reef_reduced_K,20,10,TRUE,outbreak_overshoot,116
+Red Rock Wall,median_observed_density,30,RR11,2024-07-04,30.187000274658203,0.2312999725341797,2024-11-01,0.5,50,low_endemic,3,high_coral_high_K,100,50,TRUE,allee_basin,117
+Red Rock Wall,median_observed_density,30,RR11,2024-07-04,30.187000274658203,0.2312999725341797,2024-11-01,0.5,50,low_endemic,3,low_coral_low_K,25,12.5,TRUE,outbreak_overshoot,118
+Red Rock Wall,median_observed_density,30,RR11,2024-07-04,30.187000274658203,0.2312999725341797,2024-11-01,0.5,50,low_endemic,3,moderate_coral_moderate_K,50,25,TRUE,above_tipping_threshold,119
+Red Rock Wall,median_observed_density,30,RR11,2024-07-04,30.187000274658203,0.2312999725341797,2024-11-01,0.5,50,low_endemic,3,recovery_reef_increasing_K,75,37.5,TRUE,allee_basin,120
+Red Rock Wall,q75_observed_density,36.25,RR14,2024-09-04,30.054000854492188,0.24459991455078126,2024-11-01,0.5,50,base_endemic,8,disturbed_reef_reduced_K,20,10,TRUE,outbreak_overshoot,121
+Red Rock Wall,q75_observed_density,36.25,RR14,2024-09-04,30.054000854492188,0.24459991455078126,2024-11-01,0.5,50,base_endemic,8,high_coral_high_K,100,50,TRUE,allee_basin,122
+Red Rock Wall,q75_observed_density,36.25,RR14,2024-09-04,30.054000854492188,0.24459991455078126,2024-11-01,0.5,50,base_endemic,8,low_coral_low_K,25,12.5,TRUE,outbreak_overshoot,123
+Red Rock Wall,q75_observed_density,36.25,RR14,2024-09-04,30.054000854492188,0.24459991455078126,2024-11-01,0.5,50,base_endemic,8,moderate_coral_moderate_K,50,25,TRUE,above_tipping_threshold,124
+Red Rock Wall,q75_observed_density,36.25,RR14,2024-09-04,30.054000854492188,0.24459991455078126,2024-11-01,0.5,50,base_endemic,8,recovery_reef_increasing_K,75,37.5,TRUE,allee_basin,125
+Red Rock Wall,q75_observed_density,36.25,RR14,2024-09-04,30.054000854492188,0.24459991455078126,2024-11-01,0.5,50,high_endemic,10,disturbed_reef_reduced_K,20,10,FALSE,outbreak_overshoot,126
+Red Rock Wall,q75_observed_density,36.25,RR14,2024-09-04,30.054000854492188,0.24459991455078126,2024-11-01,0.5,50,high_endemic,10,high_coral_high_K,100,50,TRUE,allee_basin,127
+Red Rock Wall,q75_observed_density,36.25,RR14,2024-09-04,30.054000854492188,0.24459991455078126,2024-11-01,0.5,50,high_endemic,10,low_coral_low_K,25,12.5,TRUE,outbreak_overshoot,128
+Red Rock Wall,q75_observed_density,36.25,RR14,2024-09-04,30.054000854492188,0.24459991455078126,2024-11-01,0.5,50,high_endemic,10,moderate_coral_moderate_K,50,25,TRUE,above_tipping_threshold,129
+Red Rock Wall,q75_observed_density,36.25,RR14,2024-09-04,30.054000854492188,0.24459991455078126,2024-11-01,0.5,50,high_endemic,10,recovery_reef_increasing_K,75,37.5,TRUE,allee_basin,130
+Red Rock Wall,q75_observed_density,36.25,RR14,2024-09-04,30.054000854492188,0.24459991455078126,2024-11-01,0.5,50,low_endemic,3,disturbed_reef_reduced_K,20,10,TRUE,outbreak_overshoot,131
+Red Rock Wall,q75_observed_density,36.25,RR14,2024-09-04,30.054000854492188,0.24459991455078126,2024-11-01,0.5,50,low_endemic,3,high_coral_high_K,100,50,TRUE,allee_basin,132
+Red Rock Wall,q75_observed_density,36.25,RR14,2024-09-04,30.054000854492188,0.24459991455078126,2024-11-01,0.5,50,low_endemic,3,low_coral_low_K,25,12.5,TRUE,outbreak_overshoot,133
+Red Rock Wall,q75_observed_density,36.25,RR14,2024-09-04,30.054000854492188,0.24459991455078126,2024-11-01,0.5,50,low_endemic,3,moderate_coral_moderate_K,50,25,TRUE,above_tipping_threshold,134
+Red Rock Wall,q75_observed_density,36.25,RR14,2024-09-04,30.054000854492188,0.24459991455078126,2024-11-01,0.5,50,low_endemic,3,recovery_reef_increasing_K,75,37.5,TRUE,allee_basin,135
+Red Rock Wall,q90_observed_density,40,RR10,2024-05-25,30.738000869750977,0.17619991302490234,2024-11-01,0.5,50,base_endemic,8,disturbed_reef_reduced_K,20,10,TRUE,outbreak_overshoot,136
+Red Rock Wall,q90_observed_density,40,RR10,2024-05-25,30.738000869750977,0.17619991302490234,2024-11-01,0.5,50,base_endemic,8,high_coral_high_K,100,50,TRUE,allee_basin,137
+Red Rock Wall,q90_observed_density,40,RR10,2024-05-25,30.738000869750977,0.17619991302490234,2024-11-01,0.5,50,base_endemic,8,low_coral_low_K,25,12.5,TRUE,outbreak_overshoot,138
+Red Rock Wall,q90_observed_density,40,RR10,2024-05-25,30.738000869750977,0.17619991302490234,2024-11-01,0.5,50,base_endemic,8,moderate_coral_moderate_K,50,25,TRUE,above_tipping_threshold,139
+Red Rock Wall,q90_observed_density,40,RR10,2024-05-25,30.738000869750977,0.17619991302490234,2024-11-01,0.5,50,base_endemic,8,recovery_reef_increasing_K,75,37.5,TRUE,above_tipping_threshold,140
+Red Rock Wall,q90_observed_density,40,RR10,2024-05-25,30.738000869750977,0.17619991302490234,2024-11-01,0.5,50,high_endemic,10,disturbed_reef_reduced_K,20,10,FALSE,outbreak_overshoot,141
+Red Rock Wall,q90_observed_density,40,RR10,2024-05-25,30.738000869750977,0.17619991302490234,2024-11-01,0.5,50,high_endemic,10,high_coral_high_K,100,50,TRUE,allee_basin,142
+Red Rock Wall,q90_observed_density,40,RR10,2024-05-25,30.738000869750977,0.17619991302490234,2024-11-01,0.5,50,high_endemic,10,low_coral_low_K,25,12.5,TRUE,outbreak_overshoot,143
+Red Rock Wall,q90_observed_density,40,RR10,2024-05-25,30.738000869750977,0.17619991302490234,2024-11-01,0.5,50,high_endemic,10,moderate_coral_moderate_K,50,25,TRUE,above_tipping_threshold,144
+Red Rock Wall,q90_observed_density,40,RR10,2024-05-25,30.738000869750977,0.17619991302490234,2024-11-01,0.5,50,high_endemic,10,recovery_reef_increasing_K,75,37.5,TRUE,above_tipping_threshold,145
+Red Rock Wall,q90_observed_density,40,RR10,2024-05-25,30.738000869750977,0.17619991302490234,2024-11-01,0.5,50,low_endemic,3,disturbed_reef_reduced_K,20,10,TRUE,outbreak_overshoot,146
+Red Rock Wall,q90_observed_density,40,RR10,2024-05-25,30.738000869750977,0.17619991302490234,2024-11-01,0.5,50,low_endemic,3,high_coral_high_K,100,50,TRUE,allee_basin,147
+Red Rock Wall,q90_observed_density,40,RR10,2024-05-25,30.738000869750977,0.17619991302490234,2024-11-01,0.5,50,low_endemic,3,low_coral_low_K,25,12.5,TRUE,outbreak_overshoot,148
+Red Rock Wall,q90_observed_density,40,RR10,2024-05-25,30.738000869750977,0.17619991302490234,2024-11-01,0.5,50,low_endemic,3,moderate_coral_moderate_K,50,25,TRUE,above_tipping_threshold,149
+Red Rock Wall,q90_observed_density,40,RR10,2024-05-25,30.738000869750977,0.17619991302490234,2024-11-01,0.5,50,low_endemic,3,recovery_reef_increasing_K,75,37.5,TRUE,above_tipping_threshold,150
+Twins Wall,max_observed_density,75,TW1,2024-09-11,29.780000686645508,0.25,2024-11-01,0.33,33,base_endemic,8,disturbed_reef_reduced_K,20,6.6000000000000005,FALSE,outbreak_overshoot,151
+Twins Wall,max_observed_density,75,TW1,2024-09-11,29.780000686645508,0.25,2024-11-01,0.33,33,base_endemic,8,high_coral_high_K,100,33,TRUE,above_tipping_threshold,152
+Twins Wall,max_observed_density,75,TW1,2024-09-11,29.780000686645508,0.25,2024-11-01,0.33,33,base_endemic,8,low_coral_low_K,25,8.25,TRUE,outbreak_overshoot,153
+Twins Wall,max_observed_density,75,TW1,2024-09-11,29.780000686645508,0.25,2024-11-01,0.33,33,base_endemic,8,moderate_coral_moderate_K,50,16.5,TRUE,outbreak_overshoot,154
+Twins Wall,max_observed_density,75,TW1,2024-09-11,29.780000686645508,0.25,2024-11-01,0.33,33,base_endemic,8,recovery_reef_increasing_K,75,24.75,TRUE,outbreak_overshoot,155
+Twins Wall,max_observed_density,75,TW1,2024-09-11,29.780000686645508,0.25,2024-11-01,0.33,33,high_endemic,10,disturbed_reef_reduced_K,20,6.6000000000000005,FALSE,outbreak_overshoot,156
+Twins Wall,max_observed_density,75,TW1,2024-09-11,29.780000686645508,0.25,2024-11-01,0.33,33,high_endemic,10,high_coral_high_K,100,33,TRUE,above_tipping_threshold,157
+Twins Wall,max_observed_density,75,TW1,2024-09-11,29.780000686645508,0.25,2024-11-01,0.33,33,high_endemic,10,low_coral_low_K,25,8.25,FALSE,outbreak_overshoot,158
+Twins Wall,max_observed_density,75,TW1,2024-09-11,29.780000686645508,0.25,2024-11-01,0.33,33,high_endemic,10,moderate_coral_moderate_K,50,16.5,TRUE,outbreak_overshoot,159
+Twins Wall,max_observed_density,75,TW1,2024-09-11,29.780000686645508,0.25,2024-11-01,0.33,33,high_endemic,10,recovery_reef_increasing_K,75,24.75,TRUE,outbreak_overshoot,160
+Twins Wall,max_observed_density,75,TW1,2024-09-11,29.780000686645508,0.25,2024-11-01,0.33,33,low_endemic,3,disturbed_reef_reduced_K,20,6.6000000000000005,TRUE,outbreak_overshoot,161
+Twins Wall,max_observed_density,75,TW1,2024-09-11,29.780000686645508,0.25,2024-11-01,0.33,33,low_endemic,3,high_coral_high_K,100,33,TRUE,above_tipping_threshold,162
+Twins Wall,max_observed_density,75,TW1,2024-09-11,29.780000686645508,0.25,2024-11-01,0.33,33,low_endemic,3,low_coral_low_K,25,8.25,TRUE,outbreak_overshoot,163
+Twins Wall,max_observed_density,75,TW1,2024-09-11,29.780000686645508,0.25,2024-11-01,0.33,33,low_endemic,3,moderate_coral_moderate_K,50,16.5,TRUE,outbreak_overshoot,164
+Twins Wall,max_observed_density,75,TW1,2024-09-11,29.780000686645508,0.25,2024-11-01,0.33,33,low_endemic,3,recovery_reef_increasing_K,75,24.75,TRUE,outbreak_overshoot,165
+Twins Wall,mean_observed_density,27.045454545454547,TW3,2025-02-04,27.211999893188477,0.13179998397827147,2024-11-01,0.33,33,base_endemic,8,disturbed_reef_reduced_K,20,6.6000000000000005,FALSE,outbreak_overshoot,166
+Twins Wall,mean_observed_density,27.045454545454547,TW3,2025-02-04,27.211999893188477,0.13179998397827147,2024-11-01,0.33,33,base_endemic,8,high_coral_high_K,100,33,TRUE,allee_basin,167
+Twins Wall,mean_observed_density,27.045454545454547,TW3,2025-02-04,27.211999893188477,0.13179998397827147,2024-11-01,0.33,33,base_endemic,8,low_coral_low_K,25,8.25,TRUE,outbreak_overshoot,168
+Twins Wall,mean_observed_density,27.045454545454547,TW3,2025-02-04,27.211999893188477,0.13179998397827147,2024-11-01,0.33,33,base_endemic,8,moderate_coral_moderate_K,50,16.5,TRUE,above_tipping_threshold,169
+Twins Wall,mean_observed_density,27.045454545454547,TW3,2025-02-04,27.211999893188477,0.13179998397827147,2024-11-01,0.33,33,base_endemic,8,recovery_reef_increasing_K,75,24.75,TRUE,above_tipping_threshold,170
+Twins Wall,mean_observed_density,27.045454545454547,TW3,2025-02-04,27.211999893188477,0.13179998397827147,2024-11-01,0.33,33,high_endemic,10,disturbed_reef_reduced_K,20,6.6000000000000005,FALSE,outbreak_overshoot,171
+Twins Wall,mean_observed_density,27.045454545454547,TW3,2025-02-04,27.211999893188477,0.13179998397827147,2024-11-01,0.33,33,high_endemic,10,high_coral_high_K,100,33,TRUE,allee_basin,172
+Twins Wall,mean_observed_density,27.045454545454547,TW3,2025-02-04,27.211999893188477,0.13179998397827147,2024-11-01,0.33,33,high_endemic,10,low_coral_low_K,25,8.25,FALSE,outbreak_overshoot,173
+Twins Wall,mean_observed_density,27.045454545454547,TW3,2025-02-04,27.211999893188477,0.13179998397827147,2024-11-01,0.33,33,high_endemic,10,moderate_coral_moderate_K,50,16.5,TRUE,above_tipping_threshold,174
+Twins Wall,mean_observed_density,27.045454545454547,TW3,2025-02-04,27.211999893188477,0.13179998397827147,2024-11-01,0.33,33,high_endemic,10,recovery_reef_increasing_K,75,24.75,TRUE,above_tipping_threshold,175
+Twins Wall,mean_observed_density,27.045454545454547,TW3,2025-02-04,27.211999893188477,0.13179998397827147,2024-11-01,0.33,33,low_endemic,3,disturbed_reef_reduced_K,20,6.6000000000000005,TRUE,outbreak_overshoot,176
+Twins Wall,mean_observed_density,27.045454545454547,TW3,2025-02-04,27.211999893188477,0.13179998397827147,2024-11-01,0.33,33,low_endemic,3,high_coral_high_K,100,33,TRUE,allee_basin,177
+Twins Wall,mean_observed_density,27.045454545454547,TW3,2025-02-04,27.211999893188477,0.13179998397827147,2024-11-01,0.33,33,low_endemic,3,low_coral_low_K,25,8.25,TRUE,outbreak_overshoot,178
+Twins Wall,mean_observed_density,27.045454545454547,TW3,2025-02-04,27.211999893188477,0.13179998397827147,2024-11-01,0.33,33,low_endemic,3,moderate_coral_moderate_K,50,16.5,TRUE,above_tipping_threshold,179
+Twins Wall,mean_observed_density,27.045454545454547,TW3,2025-02-04,27.211999893188477,0.13179998397827147,2024-11-01,0.33,33,low_endemic,3,recovery_reef_increasing_K,75,24.75,TRUE,above_tipping_threshold,180
+Twins Wall,median_observed_density,20,TW15,2025-10-07,27.211999893188477,0.13179998397827147,2024-11-01,0.33,33,base_endemic,8,disturbed_reef_reduced_K,20,6.6000000000000005,FALSE,outbreak_overshoot,181
+Twins Wall,median_observed_density,20,TW15,2025-10-07,27.211999893188477,0.13179998397827147,2024-11-01,0.33,33,base_endemic,8,high_coral_high_K,100,33,TRUE,allee_basin,182
+Twins Wall,median_observed_density,20,TW15,2025-10-07,27.211999893188477,0.13179998397827147,2024-11-01,0.33,33,base_endemic,8,low_coral_low_K,25,8.25,TRUE,above_tipping_threshold,183
+Twins Wall,median_observed_density,20,TW15,2025-10-07,27.211999893188477,0.13179998397827147,2024-11-01,0.33,33,base_endemic,8,moderate_coral_moderate_K,50,16.5,TRUE,above_tipping_threshold,184
+Twins Wall,median_observed_density,20,TW15,2025-10-07,27.211999893188477,0.13179998397827147,2024-11-01,0.33,33,base_endemic,8,recovery_reef_increasing_K,75,24.75,TRUE,allee_basin,185
+Twins Wall,median_observed_density,20,TW15,2025-10-07,27.211999893188477,0.13179998397827147,2024-11-01,0.33,33,high_endemic,10,disturbed_reef_reduced_K,20,6.6000000000000005,FALSE,outbreak_overshoot,186
+Twins Wall,median_observed_density,20,TW15,2025-10-07,27.211999893188477,0.13179998397827147,2024-11-01,0.33,33,high_endemic,10,high_coral_high_K,100,33,TRUE,allee_basin,187
+Twins Wall,median_observed_density,20,TW15,2025-10-07,27.211999893188477,0.13179998397827147,2024-11-01,0.33,33,high_endemic,10,low_coral_low_K,25,8.25,FALSE,above_tipping_threshold,188
+Twins Wall,median_observed_density,20,TW15,2025-10-07,27.211999893188477,0.13179998397827147,2024-11-01,0.33,33,high_endemic,10,moderate_coral_moderate_K,50,16.5,TRUE,above_tipping_threshold,189
+Twins Wall,median_observed_density,20,TW15,2025-10-07,27.211999893188477,0.13179998397827147,2024-11-01,0.33,33,high_endemic,10,recovery_reef_increasing_K,75,24.75,TRUE,allee_basin,190
+Twins Wall,median_observed_density,20,TW15,2025-10-07,27.211999893188477,0.13179998397827147,2024-11-01,0.33,33,low_endemic,3,disturbed_reef_reduced_K,20,6.6000000000000005,TRUE,outbreak_overshoot,191
+Twins Wall,median_observed_density,20,TW15,2025-10-07,27.211999893188477,0.13179998397827147,2024-11-01,0.33,33,low_endemic,3,high_coral_high_K,100,33,TRUE,allee_basin,192
+Twins Wall,median_observed_density,20,TW15,2025-10-07,27.211999893188477,0.13179998397827147,2024-11-01,0.33,33,low_endemic,3,low_coral_low_K,25,8.25,TRUE,above_tipping_threshold,193
+Twins Wall,median_observed_density,20,TW15,2025-10-07,27.211999893188477,0.13179998397827147,2024-11-01,0.33,33,low_endemic,3,moderate_coral_moderate_K,50,16.5,TRUE,above_tipping_threshold,194
+Twins Wall,median_observed_density,20,TW15,2025-10-07,27.211999893188477,0.13179998397827147,2024-11-01,0.33,33,low_endemic,3,recovery_reef_increasing_K,75,24.75,TRUE,allee_basin,195
+Twins Wall,q75_observed_density,43.75,TW11,2025-06-26,27.211999893188477,0.13179998397827147,2024-11-01,0.33,33,base_endemic,8,disturbed_reef_reduced_K,20,6.6000000000000005,FALSE,outbreak_overshoot,196
+Twins Wall,q75_observed_density,43.75,TW11,2025-06-26,27.211999893188477,0.13179998397827147,2024-11-01,0.33,33,base_endemic,8,high_coral_high_K,100,33,TRUE,above_tipping_threshold,197
+Twins Wall,q75_observed_density,43.75,TW11,2025-06-26,27.211999893188477,0.13179998397827147,2024-11-01,0.33,33,base_endemic,8,low_coral_low_K,25,8.25,TRUE,outbreak_overshoot,198
+Twins Wall,q75_observed_density,43.75,TW11,2025-06-26,27.211999893188477,0.13179998397827147,2024-11-01,0.33,33,base_endemic,8,moderate_coral_moderate_K,50,16.5,TRUE,above_tipping_threshold,199
+Twins Wall,q75_observed_density,43.75,TW11,2025-06-26,27.211999893188477,0.13179998397827147,2024-11-01,0.33,33,base_endemic,8,recovery_reef_increasing_K,75,24.75,TRUE,above_tipping_threshold,200
+Twins Wall,q75_observed_density,43.75,TW11,2025-06-26,27.211999893188477,0.13179998397827147,2024-11-01,0.33,33,high_endemic,10,disturbed_reef_reduced_K,20,6.6000000000000005,FALSE,outbreak_overshoot,201
+Twins Wall,q75_observed_density,43.75,TW11,2025-06-26,27.211999893188477,0.13179998397827147,2024-11-01,0.33,33,high_endemic,10,high_coral_high_K,100,33,TRUE,above_tipping_threshold,202
+Twins Wall,q75_observed_density,43.75,TW11,2025-06-26,27.211999893188477,0.13179998397827147,2024-11-01,0.33,33,high_endemic,10,low_coral_low_K,25,8.25,FALSE,outbreak_overshoot,203
+Twins Wall,q75_observed_density,43.75,TW11,2025-06-26,27.211999893188477,0.13179998397827147,2024-11-01,0.33,33,high_endemic,10,moderate_coral_moderate_K,50,16.5,TRUE,above_tipping_threshold,204
+Twins Wall,q75_observed_density,43.75,TW11,2025-06-26,27.211999893188477,0.13179998397827147,2024-11-01,0.33,33,high_endemic,10,recovery_reef_increasing_K,75,24.75,TRUE,above_tipping_threshold,205
+Twins Wall,q75_observed_density,43.75,TW11,2025-06-26,27.211999893188477,0.13179998397827147,2024-11-01,0.33,33,low_endemic,3,disturbed_reef_reduced_K,20,6.6000000000000005,TRUE,outbreak_overshoot,206
+Twins Wall,q75_observed_density,43.75,TW11,2025-06-26,27.211999893188477,0.13179998397827147,2024-11-01,0.33,33,low_endemic,3,high_coral_high_K,100,33,TRUE,above_tipping_threshold,207
+Twins Wall,q75_observed_density,43.75,TW11,2025-06-26,27.211999893188477,0.13179998397827147,2024-11-01,0.33,33,low_endemic,3,low_coral_low_K,25,8.25,TRUE,outbreak_overshoot,208
+Twins Wall,q75_observed_density,43.75,TW11,2025-06-26,27.211999893188477,0.13179998397827147,2024-11-01,0.33,33,low_endemic,3,moderate_coral_moderate_K,50,16.5,TRUE,above_tipping_threshold,209
+Twins Wall,q75_observed_density,43.75,TW11,2025-06-26,27.211999893188477,0.13179998397827147,2024-11-01,0.33,33,low_endemic,3,recovery_reef_increasing_K,75,24.75,TRUE,above_tipping_threshold,210
+Twins Wall,q90_observed_density,49.500000000000014,TW9,2025-05-12,27.211999893188477,0.13179998397827147,2024-11-01,0.33,33,base_endemic,8,disturbed_reef_reduced_K,20,6.6000000000000005,FALSE,outbreak_overshoot,211
+Twins Wall,q90_observed_density,49.500000000000014,TW9,2025-05-12,27.211999893188477,0.13179998397827147,2024-11-01,0.33,33,base_endemic,8,high_coral_high_K,100,33,TRUE,above_tipping_threshold,212
+Twins Wall,q90_observed_density,49.500000000000014,TW9,2025-05-12,27.211999893188477,0.13179998397827147,2024-11-01,0.33,33,base_endemic,8,low_coral_low_K,25,8.25,TRUE,outbreak_overshoot,213
+Twins Wall,q90_observed_density,49.500000000000014,TW9,2025-05-12,27.211999893188477,0.13179998397827147,2024-11-01,0.33,33,base_endemic,8,moderate_coral_moderate_K,50,16.5,TRUE,above_tipping_threshold,214
+Twins Wall,q90_observed_density,49.500000000000014,TW9,2025-05-12,27.211999893188477,0.13179998397827147,2024-11-01,0.33,33,base_endemic,8,recovery_reef_increasing_K,75,24.75,TRUE,above_tipping_threshold,215
+Twins Wall,q90_observed_density,49.500000000000014,TW9,2025-05-12,27.211999893188477,0.13179998397827147,2024-11-01,0.33,33,high_endemic,10,disturbed_reef_reduced_K,20,6.6000000000000005,FALSE,outbreak_overshoot,216
+Twins Wall,q90_observed_density,49.500000000000014,TW9,2025-05-12,27.211999893188477,0.13179998397827147,2024-11-01,0.33,33,high_endemic,10,high_coral_high_K,100,33,TRUE,above_tipping_threshold,217
+Twins Wall,q90_observed_density,49.500000000000014,TW9,2025-05-12,27.211999893188477,0.13179998397827147,2024-11-01,0.33,33,high_endemic,10,low_coral_low_K,25,8.25,FALSE,outbreak_overshoot,218
+Twins Wall,q90_observed_density,49.500000000000014,TW9,2025-05-12,27.211999893188477,0.13179998397827147,2024-11-01,0.33,33,high_endemic,10,moderate_coral_moderate_K,50,16.5,TRUE,above_tipping_threshold,219
+Twins Wall,q90_observed_density,49.500000000000014,TW9,2025-05-12,27.211999893188477,0.13179998397827147,2024-11-01,0.33,33,high_endemic,10,recovery_reef_increasing_K,75,24.75,TRUE,above_tipping_threshold,220
+Twins Wall,q90_observed_density,49.500000000000014,TW9,2025-05-12,27.211999893188477,0.13179998397827147,2024-11-01,0.33,33,low_endemic,3,disturbed_reef_reduced_K,20,6.6000000000000005,TRUE,outbreak_overshoot,221
+Twins Wall,q90_observed_density,49.500000000000014,TW9,2025-05-12,27.211999893188477,0.13179998397827147,2024-11-01,0.33,33,low_endemic,3,high_coral_high_K,100,33,TRUE,above_tipping_threshold,222
+Twins Wall,q90_observed_density,49.500000000000014,TW9,2025-05-12,27.211999893188477,0.13179998397827147,2024-11-01,0.33,33,low_endemic,3,low_coral_low_K,25,8.25,TRUE,outbreak_overshoot,223
+Twins Wall,q90_observed_density,49.500000000000014,TW9,2025-05-12,27.211999893188477,0.13179998397827147,2024-11-01,0.33,33,low_endemic,3,moderate_coral_moderate_K,50,16.5,TRUE,above_tipping_threshold,224
+Twins Wall,q90_observed_density,49.500000000000014,TW9,2025-05-12,27.211999893188477,0.13179998397827147,2024-11-01,0.33,33,low_endemic,3,recovery_reef_increasing_K,75,24.75,TRUE,above_tipping_threshold,225

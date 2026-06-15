@@ -1,16 +1,44 @@
 site,N0_type,outcome,n,prop
-Green Rock Wall,max_observed_density,intermediate,1200,0.25
-Green Rock Wall,max_observed_density,outbreak_domain,3600,0.75
-Green Rock Wall,mean_observed_density,intermediate,2400,0.5
-Green Rock Wall,mean_observed_density,outbreak_domain,1200,0.25
-Green Rock Wall,mean_observed_density,returns_to_low_density,1200,0.25
-Red Rock Wall,max_observed_density,intermediate,2400,0.42857142857142855
-Red Rock Wall,max_observed_density,outbreak_domain,3200,0.5714285714285714
-Red Rock Wall,mean_observed_density,intermediate,1200,0.21428571428571427
-Red Rock Wall,mean_observed_density,outbreak_domain,2000,0.35714285714285715
-Red Rock Wall,mean_observed_density,returns_to_low_density,2400,0.42857142857142855
-Twins Wall,max_observed_density,intermediate,1200,0.25
-Twins Wall,max_observed_density,outbreak_domain,3600,0.75
-Twins Wall,mean_observed_density,intermediate,2400,0.5
-Twins Wall,mean_observed_density,outbreak_domain,1200,0.25
-Twins Wall,mean_observed_density,returns_to_low_density,1200,0.25
+Green Rock Wall,max_observed_density,intermediate,300,0.25
+Green Rock Wall,max_observed_density,outbreak_domain,600,0.5
+Green Rock Wall,max_observed_density,returns_to_low_density,300,0.25
+Green Rock Wall,mean_observed_density,intermediate,700,0.5833333333333334
+Green Rock Wall,mean_observed_density,outbreak_domain,200,0.16666666666666666
+Green Rock Wall,mean_observed_density,returns_to_low_density,300,0.25
+Green Rock Wall,median_observed_density,intermediate,700,0.5833333333333334
+Green Rock Wall,median_observed_density,outbreak_domain,200,0.16666666666666666
+Green Rock Wall,median_observed_density,returns_to_low_density,300,0.25
+Green Rock Wall,q75_observed_density,intermediate,600,0.5
+Green Rock Wall,q75_observed_density,outbreak_domain,300,0.25
+Green Rock Wall,q75_observed_density,returns_to_low_density,300,0.25
+Green Rock Wall,q90_observed_density,intermediate,600,0.5
+Green Rock Wall,q90_observed_density,outbreak_domain,300,0.25
+Green Rock Wall,q90_observed_density,returns_to_low_density,300,0.25
+Red Rock Wall,max_observed_density,intermediate,600,0.42857142857142855
+Red Rock Wall,max_observed_density,outbreak_domain,600,0.42857142857142855
+Red Rock Wall,max_observed_density,returns_to_low_density,200,0.14285714285714285
+Red Rock Wall,mean_observed_density,intermediate,300,0.21428571428571427
+Red Rock Wall,mean_observed_density,outbreak_domain,500,0.35714285714285715
+Red Rock Wall,mean_observed_density,returns_to_low_density,600,0.42857142857142855
+Red Rock Wall,median_observed_density,intermediate,300,0.21428571428571427
+Red Rock Wall,median_observed_density,outbreak_domain,500,0.35714285714285715
+Red Rock Wall,median_observed_density,returns_to_low_density,600,0.42857142857142855
+Red Rock Wall,q75_observed_density,intermediate,400,0.2857142857142857
+Red Rock Wall,q75_observed_density,outbreak_domain,400,0.2857142857142857
+Red Rock Wall,q75_observed_density,returns_to_low_density,600,0.42857142857142855
+Red Rock Wall,q90_observed_density,intermediate,600,0.42857142857142855
+Red Rock Wall,q90_observed_density,outbreak_domain,500,0.35714285714285715
+Red Rock Wall,q90_observed_density,returns_to_low_density,300,0.21428571428571427
+Twins Wall,max_observed_density,intermediate,600,0.5
+Twins Wall,max_observed_density,outbreak_domain,300,0.25
+Twins Wall,max_observed_density,returns_to_low_density,300,0.25
+Twins Wall,mean_observed_density,intermediate,600,0.5
+Twins Wall,mean_observed_density,outbreak_domain,300,0.25
+Twins Wall,mean_observed_density,returns_to_low_density,300,0.25
+Twins Wall,median_observed_density,intermediate,500,0.4166666666666667
+Twins Wall,median_observed_density,outbreak_domain,100,0.08333333333333333
+Twins Wall,median_observed_density,returns_to_low_density,600,0.5
+Twins Wall,q75_observed_density,intermediate,1000,0.8333333333333334
+Twins Wall,q75_observed_density,outbreak_domain,200,0.16666666666666666
+Twins Wall,q90_observed_density,intermediate,1100,0.9166666666666666
+Twins Wall,q90_observed_density,returns_to_low_density,100,0.08333333333333333
