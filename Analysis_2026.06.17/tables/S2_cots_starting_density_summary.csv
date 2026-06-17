@@ -1,0 +1,7 @@
+site_code,site,site_type,n_surveys,mean_cots_ha,median_cots_ha,max_cots_ha
+GR,Green Rock,High Density,46,34.891304347826086,35,70
+RR,Red Rock,High Density,33,29.393939393939394,30,55
+TW,NA,High Density,22,29.090909090909086,27.5,75
+AL,Aow Leuk,Control,19,7.368421052631579,10,15
+SI,Shark Island,Control,20,4.75,0,20
+TB,Tanote Bay,Control,9,3.3333333333333335,5,5

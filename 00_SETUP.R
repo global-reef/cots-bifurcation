@@ -42,7 +42,8 @@ library(janitor)
 
 # call citations with:
 citation(package="base")
-######### 2. Custom Theme & Colour Palettes #######
+
+######### 2. Custom Theme & Colour Palettes & Forced Orders  #######
 
 theme_clean <- theme_minimal(base_family = "Arial") +
   theme(
@@ -56,22 +57,55 @@ theme_clean <- theme_minimal(base_family = "Arial") +
   )
 
 # CoTS / outbreak palette
-cots_cols <- c(
-  "Endemic" = "#95B971",
-  "Elevated" = "#d8c39f",
-  "Outbreak" = "#FF9683",
-  "Severe outbreak" = "#9E2F3D"
+outcome_cols <- c(
+  "Endemic equilibrium" = "#95B971",
+  "Endemic basin" = "#d8c39f",
+  "Outbreak basin" = "#FF9683",
+  "Upper outbreak equilibrium" = "#9E2F3D"
 )
 
+basin_cols <- c( 
+  "Endemic" = "#95B971",
+  "Threshold" = "#d8c39f",
+  "Outbreak basin" = "#9E2F3D"
+  )
+  
 
 # Site-type palette, adjust later if needed
-site_cols <- c(
+site_type_cols <- c(
   "Control" = "#95B971",
-  "Outbreak" = "#FF9683"
+  "High Density" = "#FF9683"
 )
 threshold_cols <- c(
-  "15 CoTS ha-1 \n Green Fins (2021)" = "#B8464F"
+  "15 CoTS ha-1 \n Green Fins (2021)" = "red"
 )
+
+density_class_cols <- c(
+  "Below 10" = "#95B971",
+  "10 to <15" = "#d8c39f",
+  "15 to <30" = "#FF9683",
+  "30 to <40" = "#D95F5F",
+  "40+" = "#9E2F3D"
+)
+
+# Site Orders 
+site_code_order <- c("GR", "RR", "TW", "AL", "SI", "TB")
+
+site_order <- c(
+  "Green Rock",
+  "Red Rock",
+  "Twins",
+  "Aow Leuk",
+  "Shark Island",
+  "Tanote Bay"
+)
+
+site_type_order <- c("High Density", "Control")
+
+# Substrate orders 
+substrate_order <- c("HC", "AB", "TUR", "MAC", "OB", "AN", "UKN")
+
+key_substrates <- c("HC", "TUR", "MAC", "AB", "OB")
 
 
 ######### 3. Helpers #######

@@ -47,3 +47,8 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# Generated large simulation outputs
+Analysis_*/tables/S7_simulation_results.csv
+Analysis_*/tables/S13_sampled_individual_trajectories.csv
+Analysis_*/model_objects/*

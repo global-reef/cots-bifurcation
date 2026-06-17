@@ -1,0 +1,66 @@
+site_code,site,site_type,KT,basin,n,prop_surveys
+GR,Green Rock,High Density,10,Threshold,4,0.08695652173913043
+GR,Green Rock,High Density,10,Outbreak basin,42,0.9130434782608695
+GR,Green Rock,High Density,15,Endemic basin,4,0.08695652173913043
+GR,Green Rock,High Density,15,Threshold,5,0.10869565217391304
+GR,Green Rock,High Density,15,Outbreak basin,37,0.8043478260869565
+GR,Green Rock,High Density,20,Endemic basin,9,0.1956521739130435
+GR,Green Rock,High Density,20,Threshold,6,0.13043478260869565
+GR,Green Rock,High Density,20,Outbreak basin,31,0.6739130434782609
+GR,Green Rock,High Density,30,Endemic basin,17,0.3695652173913043
+GR,Green Rock,High Density,30,Threshold,4,0.08695652173913043
+GR,Green Rock,High Density,30,Outbreak basin,25,0.5434782608695652
+GR,Green Rock,High Density,40,Endemic basin,24,0.5217391304347826
+GR,Green Rock,High Density,40,Threshold,4,0.08695652173913043
+GR,Green Rock,High Density,40,Outbreak basin,18,0.391304347826087
+RR,Red Rock,High Density,10,Threshold,2,0.06060606060606061
+RR,Red Rock,High Density,10,Outbreak basin,31,0.9393939393939394
+RR,Red Rock,High Density,15,Endemic basin,2,0.06060606060606061
+RR,Red Rock,High Density,15,Threshold,4,0.12121212121212122
+RR,Red Rock,High Density,15,Outbreak basin,27,0.8181818181818182
+RR,Red Rock,High Density,20,Endemic basin,6,0.18181818181818182
+RR,Red Rock,High Density,20,Threshold,2,0.06060606060606061
+RR,Red Rock,High Density,20,Outbreak basin,25,0.7575757575757576
+RR,Red Rock,High Density,30,Endemic basin,14,0.42424242424242425
+RR,Red Rock,High Density,30,Threshold,7,0.21212121212121213
+RR,Red Rock,High Density,30,Outbreak basin,12,0.36363636363636365
+RR,Red Rock,High Density,40,Endemic basin,25,0.7575757575757576
+RR,Red Rock,High Density,40,Threshold,5,0.15151515151515152
+RR,Red Rock,High Density,40,Outbreak basin,3,0.09090909090909091
+TW,NA,High Density,10,Endemic basin,3,0.13636363636363635
+TW,NA,High Density,10,Threshold,1,0.045454545454545456
+TW,NA,High Density,10,Outbreak basin,18,0.8181818181818182
+TW,NA,High Density,15,Endemic basin,4,0.18181818181818182
+TW,NA,High Density,15,Threshold,6,0.2727272727272727
+TW,NA,High Density,15,Outbreak basin,12,0.5454545454545454
+TW,NA,High Density,20,Endemic basin,10,0.45454545454545453
+TW,NA,High Density,20,Outbreak basin,12,0.5454545454545454
+TW,NA,High Density,30,Endemic basin,11,0.5
+TW,NA,High Density,30,Threshold,2,0.09090909090909091
+TW,NA,High Density,30,Outbreak basin,9,0.4090909090909091
+TW,NA,High Density,40,Endemic basin,13,0.5909090909090909
+TW,NA,High Density,40,Threshold,2,0.09090909090909091
+TW,NA,High Density,40,Outbreak basin,7,0.3181818181818182
+AL,Aow Leuk,Control,10,Endemic basin,9,0.47368421052631576
+AL,Aow Leuk,Control,10,Threshold,5,0.2631578947368421
+AL,Aow Leuk,Control,10,Outbreak basin,5,0.2631578947368421
+AL,Aow Leuk,Control,15,Endemic basin,14,0.7368421052631579
+AL,Aow Leuk,Control,15,Threshold,5,0.2631578947368421
+AL,Aow Leuk,Control,20,Endemic basin,19,1
+AL,Aow Leuk,Control,30,Endemic basin,19,1
+AL,Aow Leuk,Control,40,Endemic basin,19,1
+SI,Shark Island,Control,10,Endemic basin,14,0.7
+SI,Shark Island,Control,10,Threshold,3,0.15
+SI,Shark Island,Control,10,Outbreak basin,3,0.15
+SI,Shark Island,Control,15,Endemic basin,17,0.85
+SI,Shark Island,Control,15,Threshold,2,0.1
+SI,Shark Island,Control,15,Outbreak basin,1,0.05
+SI,Shark Island,Control,20,Endemic basin,19,0.95
+SI,Shark Island,Control,20,Threshold,1,0.05
+SI,Shark Island,Control,30,Endemic basin,20,1
+SI,Shark Island,Control,40,Endemic basin,20,1
+TB,Tanote Bay,Control,10,Endemic basin,9,1
+TB,Tanote Bay,Control,15,Endemic basin,9,1
+TB,Tanote Bay,Control,20,Endemic basin,9,1
+TB,Tanote Bay,Control,30,Endemic basin,9,1
+TB,Tanote Bay,Control,40,Endemic basin,9,1

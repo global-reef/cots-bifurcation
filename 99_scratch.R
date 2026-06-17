@@ -1,84 +1,108 @@
-#### 99_scratch.R ####
+######### 12. Plot S4: Monte Carlo Individual Trajectories #######
 
-# this area is for trying out stuff that may or may not make it into the final analysis. 
-sim_results %>%
-  mutate(at_KC = abs(N - K_C) < 0.001) %>%
-  group_by(sim_id) %>%
-  summarise(
-    final_N = last(N),
-    K_C = first(K_C),
-    max_N = max(N, na.rm = TRUE),
-    ever_hit_KC = any(at_KC),
-    final_at_KC = abs(final_N - K_C) < 0.001,
-    .groups = "drop"
-  ) %>%
-  summarise(
-    n_sims = n(),
-    p_ever_hit_KC = mean(ever_hit_KC),
-    p_final_at_KC = mean(final_at_KC),
-    median_final_N = median(final_N),
-    median_K_C = median(K_C)
-  )
-sim_final %>%
-  mutate(
-    HC_pct = HC_prop * 100
-  ) %>%
-  arrange(desc(N)) %>%
-  select(sim_id, site_code, N, N0, HC_pct, state1, K_T, K_C) %>%
-  head(20)
+### Plot sampled individual trajectories only.
+### This shows the spread of possible pathways rather than a site-level average.
 
+trajectory_ids_sample <- sim_results %>%
+  mutate(site_code = factor(site_code, levels = site_code_order)) %>%
+  distinct(site_code, sim_id) %>%
+  group_by(site_code) %>%
+  slice_sample(prop = 1) %>%
+  slice_head(n = 75) %>%
+  ungroup()
 
-
-ggplot(
-  sim_results %>% filter(sim_id %in% sample(unique(sim_results$sim_id), 100)),
-  aes(x = date, y = N, group = sim_id)
-) +
-  geom_line(alpha = 0.2) +
-  facet_wrap(~ site_code) +
-  theme_clean +
-  labs(
-    x = "Date",
-    y = "Simulated CoTS density (ha-1)"
+trajectory_plot_sample <- sim_results %>%
+  mutate(site_code = factor(site_code, levels = site_code_order)) %>%
+  semi_join(
+    trajectory_ids_sample,
+    by = c("site_code", "sim_id")
   )
 
-sim_ribbon <- sim_results %>%
-  group_by(site_code, date) %>%
-  summarise(
-    median_N = median(N, na.rm = TRUE),
-    lower_N = quantile(N, 0.025, na.rm = TRUE),
-    upper_N = quantile(N, 0.975, na.rm = TRUE),
-    .groups = "drop"
-  )
-
-ggplot(sim_ribbon, aes(x = date, y = median_N)) +
-  geom_ribbon(aes(ymin = lower_N, ymax = upper_N), alpha = 0.2) +
-  geom_line() +
-  facet_wrap(~ site_code) +
-  theme_clean +
-  labs(
-    x = "Date",
-    y = "Simulated CoTS density (ha-1)"
-  )
-
-
-
-
-# --------------------
-  cots_survey %>%
+trajectory_refs <- sim_results %>%
+  mutate(site_code = factor(site_code, levels = site_code_order)) %>%
+  distinct(sim_id, site_code, state1, K_T, K_C) %>%
   group_by(site_code) %>%
   summarise(
-    n_surveys = n(),
-    min_date = min(date, na.rm = TRUE),
-    max_date = max(date, na.rm = TRUE),
-    mean_cots = mean(cots_ha, na.rm = TRUE),
-    sd_cots = sd(cots_ha, na.rm = TRUE),
-    min_cots = min(cots_ha, na.rm = TRUE),
-    max_cots = max(cots_ha, na.rm = TRUE),
+    median_KE = median(state1, na.rm = TRUE),
+    median_KT = median(K_T, na.rm = TRUE),
+    median_KC = median(K_C, na.rm = TRUE),
     .groups = "drop"
   )
 
-ggplot(cots_survey, aes(x = date, y = cots_ha)) +
-  geom_point() +
-  geom_smooth(method = "lm", se = TRUE) +
-  facet_wrap(~ site_code) +
+trajectory_ref_lines <- trajectory_refs %>%
+  pivot_longer(
+    cols = c(median_KE, median_KT, median_KC),
+    names_to = "ref_type",
+    values_to = "ref_value"
+  ) %>%
+  mutate(
+    ref_type = recode(
+      ref_type,
+      "median_KE" = "K[E]",
+      "median_KT" = "K[T]",
+      "median_KC" = "K[C]"
+    )
+  )
+
+trajectory_ref_labels <- trajectory_ref_lines %>%
+  group_by(site_code) %>%
+  mutate(
+    label_x = max(trajectory_plot_sample$N[trajectory_plot_sample$site_code == first(site_code)], na.rm = TRUE) * 0.98,
+    label_y = ref_value,
+    label = paste0(
+      ref_type,
+      " = ",
+      round(ref_value, 1)
+    )
+  ) %>%
+  ungroup()
+
+save_table(trajectory_plot_sample, "S13_sampled_individual_trajectories.csv")
+save_table(trajectory_refs, "S14_trajectory_reference_values.csv")
+
+p_trajectory_summary <- ggplot() +
+  geom_line(
+    data = trajectory_plot_sample,
+    aes(
+      x = date,
+      y = N,
+      group = sim_id
+    ),
+    alpha = 0.18,
+    linewidth = 0.35,
+    colour = "#2C7FB8"
+  ) +
+  geom_hline(
+    data = trajectory_ref_lines,
+    aes(yintercept = ref_value),
+    linewidth = 0.45,
+    colour = "grey35"
+  ) +
+  geom_label(
+    data = trajectory_ref_labels,
+    aes(
+      x = max(trajectory_plot_sample$date, na.rm = TRUE),
+      y = label_y,
+      label = label
+    ),
+    hjust = 1,
+    size = 2.8,
+    label.size = 0,
+    fill = "white",
+    alpha = 0.85
+  ) +
+  facet_wrap(~ site_code, scales = "free_y") +
+  labs(
+    x = "Date",
+    y = expression("Simulated CoTS density (individuals ha"^-1*")")
+  ) +
   theme_clean
+
+p_trajectory_summary
+
+save_plot(
+  p_trajectory_summary,
+  "S4_monte_carlo_individual_trajectories.png",
+  width = 9,
+  height = 6
+)

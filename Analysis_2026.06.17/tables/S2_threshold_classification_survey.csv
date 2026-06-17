@@ -1,0 +1,746 @@
+site_code,site,site_type,survey_id,date,N0,KT,basin
+GR,Green Rock,High Density,GR1,2020-05-19,45,10,Outbreak basin
+GR,Green Rock,High Density,GR1,2020-05-19,45,15,Outbreak basin
+GR,Green Rock,High Density,GR1,2020-05-19,45,20,Outbreak basin
+GR,Green Rock,High Density,GR1,2020-05-19,45,30,Outbreak basin
+GR,Green Rock,High Density,GR1,2020-05-19,45,40,Outbreak basin
+GR,Green Rock,High Density,GR10,2020-08-18,45,10,Outbreak basin
+GR,Green Rock,High Density,GR10,2020-08-18,45,15,Outbreak basin
+GR,Green Rock,High Density,GR10,2020-08-18,45,20,Outbreak basin
+GR,Green Rock,High Density,GR10,2020-08-18,45,30,Outbreak basin
+GR,Green Rock,High Density,GR10,2020-08-18,45,40,Outbreak basin
+GR,Green Rock,High Density,GR11,2020-08-21,20,10,Outbreak basin
+GR,Green Rock,High Density,GR11,2020-08-21,20,15,Outbreak basin
+GR,Green Rock,High Density,GR11,2020-08-21,20,20,Threshold
+GR,Green Rock,High Density,GR11,2020-08-21,20,30,Endemic basin
+GR,Green Rock,High Density,GR11,2020-08-21,20,40,Endemic basin
+GR,Green Rock,High Density,GR12,2020-08-21,30,10,Outbreak basin
+GR,Green Rock,High Density,GR12,2020-08-21,30,15,Outbreak basin
+GR,Green Rock,High Density,GR12,2020-08-21,30,20,Outbreak basin
+GR,Green Rock,High Density,GR12,2020-08-21,30,30,Threshold
+GR,Green Rock,High Density,GR12,2020-08-21,30,40,Endemic basin
+GR,Green Rock,High Density,GR13,2020-09-22,40,10,Outbreak basin
+GR,Green Rock,High Density,GR13,2020-09-22,40,15,Outbreak basin
+GR,Green Rock,High Density,GR13,2020-09-22,40,20,Outbreak basin
+GR,Green Rock,High Density,GR13,2020-09-22,40,30,Outbreak basin
+GR,Green Rock,High Density,GR13,2020-09-22,40,40,Threshold
+GR,Green Rock,High Density,GR14,2020-09-27,45,10,Outbreak basin
+GR,Green Rock,High Density,GR14,2020-09-27,45,15,Outbreak basin
+GR,Green Rock,High Density,GR14,2020-09-27,45,20,Outbreak basin
+GR,Green Rock,High Density,GR14,2020-09-27,45,30,Outbreak basin
+GR,Green Rock,High Density,GR14,2020-09-27,45,40,Outbreak basin
+GR,Green Rock,High Density,GR15,2020-09-29,45,10,Outbreak basin
+GR,Green Rock,High Density,GR15,2020-09-29,45,15,Outbreak basin
+GR,Green Rock,High Density,GR15,2020-09-29,45,20,Outbreak basin
+GR,Green Rock,High Density,GR15,2020-09-29,45,30,Outbreak basin
+GR,Green Rock,High Density,GR15,2020-09-29,45,40,Outbreak basin
+GR,Green Rock,High Density,GR16,2022-10-20,50,10,Outbreak basin
+GR,Green Rock,High Density,GR16,2022-10-20,50,15,Outbreak basin
+GR,Green Rock,High Density,GR16,2022-10-20,50,20,Outbreak basin
+GR,Green Rock,High Density,GR16,2022-10-20,50,30,Outbreak basin
+GR,Green Rock,High Density,GR16,2022-10-20,50,40,Outbreak basin
+GR,Green Rock,High Density,GR17,2022-11-22,30,10,Outbreak basin
+GR,Green Rock,High Density,GR17,2022-11-22,30,15,Outbreak basin
+GR,Green Rock,High Density,GR17,2022-11-22,30,20,Outbreak basin
+GR,Green Rock,High Density,GR17,2022-11-22,30,30,Threshold
+GR,Green Rock,High Density,GR17,2022-11-22,30,40,Endemic basin
+GR,Green Rock,High Density,GR18,2023-10-04,25,10,Outbreak basin
+GR,Green Rock,High Density,GR18,2023-10-04,25,15,Outbreak basin
+GR,Green Rock,High Density,GR18,2023-10-04,25,20,Outbreak basin
+GR,Green Rock,High Density,GR18,2023-10-04,25,30,Endemic basin
+GR,Green Rock,High Density,GR18,2023-10-04,25,40,Endemic basin
+GR,Green Rock,High Density,GR19,2024-02-03,15,10,Outbreak basin
+GR,Green Rock,High Density,GR19,2024-02-03,15,15,Threshold
+GR,Green Rock,High Density,GR19,2024-02-03,15,20,Endemic basin
+GR,Green Rock,High Density,GR19,2024-02-03,15,30,Endemic basin
+GR,Green Rock,High Density,GR19,2024-02-03,15,40,Endemic basin
+GR,Green Rock,High Density,GR2,2020-05-19,50,10,Outbreak basin
+GR,Green Rock,High Density,GR2,2020-05-19,50,15,Outbreak basin
+GR,Green Rock,High Density,GR2,2020-05-19,50,20,Outbreak basin
+GR,Green Rock,High Density,GR2,2020-05-19,50,30,Outbreak basin
+GR,Green Rock,High Density,GR2,2020-05-19,50,40,Outbreak basin
+GR,Green Rock,High Density,GR20,2024-02-20,55,10,Outbreak basin
+GR,Green Rock,High Density,GR20,2024-02-20,55,15,Outbreak basin
+GR,Green Rock,High Density,GR20,2024-02-20,55,20,Outbreak basin
+GR,Green Rock,High Density,GR20,2024-02-20,55,30,Outbreak basin
+GR,Green Rock,High Density,GR20,2024-02-20,55,40,Outbreak basin
+GR,Green Rock,High Density,GR21,2024-03-25,25,10,Outbreak basin
+GR,Green Rock,High Density,GR21,2024-03-25,25,15,Outbreak basin
+GR,Green Rock,High Density,GR21,2024-03-25,25,20,Outbreak basin
+GR,Green Rock,High Density,GR21,2024-03-25,25,30,Endemic basin
+GR,Green Rock,High Density,GR21,2024-03-25,25,40,Endemic basin
+GR,Green Rock,High Density,GR22,2024-04-09,35,10,Outbreak basin
+GR,Green Rock,High Density,GR22,2024-04-09,35,15,Outbreak basin
+GR,Green Rock,High Density,GR22,2024-04-09,35,20,Outbreak basin
+GR,Green Rock,High Density,GR22,2024-04-09,35,30,Outbreak basin
+GR,Green Rock,High Density,GR22,2024-04-09,35,40,Endemic basin
+GR,Green Rock,High Density,GR23,2024-04-16,40,10,Outbreak basin
+GR,Green Rock,High Density,GR23,2024-04-16,40,15,Outbreak basin
+GR,Green Rock,High Density,GR23,2024-04-16,40,20,Outbreak basin
+GR,Green Rock,High Density,GR23,2024-04-16,40,30,Outbreak basin
+GR,Green Rock,High Density,GR23,2024-04-16,40,40,Threshold
+GR,Green Rock,High Density,GR24,2024-06-04,40,10,Outbreak basin
+GR,Green Rock,High Density,GR24,2024-06-04,40,15,Outbreak basin
+GR,Green Rock,High Density,GR24,2024-06-04,40,20,Outbreak basin
+GR,Green Rock,High Density,GR24,2024-06-04,40,30,Outbreak basin
+GR,Green Rock,High Density,GR24,2024-06-04,40,40,Threshold
+GR,Green Rock,High Density,GR25,2024-08-03,30,10,Outbreak basin
+GR,Green Rock,High Density,GR25,2024-08-03,30,15,Outbreak basin
+GR,Green Rock,High Density,GR25,2024-08-03,30,20,Outbreak basin
+GR,Green Rock,High Density,GR25,2024-08-03,30,30,Threshold
+GR,Green Rock,High Density,GR25,2024-08-03,30,40,Endemic basin
+GR,Green Rock,High Density,GR26,2024-08-26,70,10,Outbreak basin
+GR,Green Rock,High Density,GR26,2024-08-26,70,15,Outbreak basin
+GR,Green Rock,High Density,GR26,2024-08-26,70,20,Outbreak basin
+GR,Green Rock,High Density,GR26,2024-08-26,70,30,Outbreak basin
+GR,Green Rock,High Density,GR26,2024-08-26,70,40,Outbreak basin
+GR,Green Rock,High Density,GR27,2024-10-16,55,10,Outbreak basin
+GR,Green Rock,High Density,GR27,2024-10-16,55,15,Outbreak basin
+GR,Green Rock,High Density,GR27,2024-10-16,55,20,Outbreak basin
+GR,Green Rock,High Density,GR27,2024-10-16,55,30,Outbreak basin
+GR,Green Rock,High Density,GR27,2024-10-16,55,40,Outbreak basin
+GR,Green Rock,High Density,GR28,2024-10-21,20,10,Outbreak basin
+GR,Green Rock,High Density,GR28,2024-10-21,20,15,Outbreak basin
+GR,Green Rock,High Density,GR28,2024-10-21,20,20,Threshold
+GR,Green Rock,High Density,GR28,2024-10-21,20,30,Endemic basin
+GR,Green Rock,High Density,GR28,2024-10-21,20,40,Endemic basin
+GR,Green Rock,High Density,GR29,2025-01-29,45,10,Outbreak basin
+GR,Green Rock,High Density,GR29,2025-01-29,45,15,Outbreak basin
+GR,Green Rock,High Density,GR29,2025-01-29,45,20,Outbreak basin
+GR,Green Rock,High Density,GR29,2025-01-29,45,30,Outbreak basin
+GR,Green Rock,High Density,GR29,2025-01-29,45,40,Outbreak basin
+GR,Green Rock,High Density,GR3,2020-05-26,50,10,Outbreak basin
+GR,Green Rock,High Density,GR3,2020-05-26,50,15,Outbreak basin
+GR,Green Rock,High Density,GR3,2020-05-26,50,20,Outbreak basin
+GR,Green Rock,High Density,GR3,2020-05-26,50,30,Outbreak basin
+GR,Green Rock,High Density,GR3,2020-05-26,50,40,Outbreak basin
+GR,Green Rock,High Density,GR30,2025-02-19,20,10,Outbreak basin
+GR,Green Rock,High Density,GR30,2025-02-19,20,15,Outbreak basin
+GR,Green Rock,High Density,GR30,2025-02-19,20,20,Threshold
+GR,Green Rock,High Density,GR30,2025-02-19,20,30,Endemic basin
+GR,Green Rock,High Density,GR30,2025-02-19,20,40,Endemic basin
+GR,Green Rock,High Density,GR31,2025-02-28,15,10,Outbreak basin
+GR,Green Rock,High Density,GR31,2025-02-28,15,15,Threshold
+GR,Green Rock,High Density,GR31,2025-02-28,15,20,Endemic basin
+GR,Green Rock,High Density,GR31,2025-02-28,15,30,Endemic basin
+GR,Green Rock,High Density,GR31,2025-02-28,15,40,Endemic basin
+GR,Green Rock,High Density,GR32,2025-03-19,20,10,Outbreak basin
+GR,Green Rock,High Density,GR32,2025-03-19,20,15,Outbreak basin
+GR,Green Rock,High Density,GR32,2025-03-19,20,20,Threshold
+GR,Green Rock,High Density,GR32,2025-03-19,20,30,Endemic basin
+GR,Green Rock,High Density,GR32,2025-03-19,20,40,Endemic basin
+GR,Green Rock,High Density,GR33,2025-03-26,50,10,Outbreak basin
+GR,Green Rock,High Density,GR33,2025-03-26,50,15,Outbreak basin
+GR,Green Rock,High Density,GR33,2025-03-26,50,20,Outbreak basin
+GR,Green Rock,High Density,GR33,2025-03-26,50,30,Outbreak basin
+GR,Green Rock,High Density,GR33,2025-03-26,50,40,Outbreak basin
+GR,Green Rock,High Density,GR34,2025-04-22,10,10,Threshold
+GR,Green Rock,High Density,GR34,2025-04-22,10,15,Endemic basin
+GR,Green Rock,High Density,GR34,2025-04-22,10,20,Endemic basin
+GR,Green Rock,High Density,GR34,2025-04-22,10,30,Endemic basin
+GR,Green Rock,High Density,GR34,2025-04-22,10,40,Endemic basin
+GR,Green Rock,High Density,GR35,2025-05-21,20,10,Outbreak basin
+GR,Green Rock,High Density,GR35,2025-05-21,20,15,Outbreak basin
+GR,Green Rock,High Density,GR35,2025-05-21,20,20,Threshold
+GR,Green Rock,High Density,GR35,2025-05-21,20,30,Endemic basin
+GR,Green Rock,High Density,GR35,2025-05-21,20,40,Endemic basin
+GR,Green Rock,High Density,GR36,2025-06-05,55,10,Outbreak basin
+GR,Green Rock,High Density,GR36,2025-06-05,55,15,Outbreak basin
+GR,Green Rock,High Density,GR36,2025-06-05,55,20,Outbreak basin
+GR,Green Rock,High Density,GR36,2025-06-05,55,30,Outbreak basin
+GR,Green Rock,High Density,GR36,2025-06-05,55,40,Outbreak basin
+GR,Green Rock,High Density,GR37,2025-09-16,15,10,Outbreak basin
+GR,Green Rock,High Density,GR37,2025-09-16,15,15,Threshold
+GR,Green Rock,High Density,GR37,2025-09-16,15,20,Endemic basin
+GR,Green Rock,High Density,GR37,2025-09-16,15,30,Endemic basin
+GR,Green Rock,High Density,GR37,2025-09-16,15,40,Endemic basin
+GR,Green Rock,High Density,GR38,2025-09-16,65,10,Outbreak basin
+GR,Green Rock,High Density,GR38,2025-09-16,65,15,Outbreak basin
+GR,Green Rock,High Density,GR38,2025-09-16,65,20,Outbreak basin
+GR,Green Rock,High Density,GR38,2025-09-16,65,30,Outbreak basin
+GR,Green Rock,High Density,GR38,2025-09-16,65,40,Outbreak basin
+GR,Green Rock,High Density,GR39,2025-09-16,55,10,Outbreak basin
+GR,Green Rock,High Density,GR39,2025-09-16,55,15,Outbreak basin
+GR,Green Rock,High Density,GR39,2025-09-16,55,20,Outbreak basin
+GR,Green Rock,High Density,GR39,2025-09-16,55,30,Outbreak basin
+GR,Green Rock,High Density,GR39,2025-09-16,55,40,Outbreak basin
+GR,Green Rock,High Density,GR4,2020-07-13,55,10,Outbreak basin
+GR,Green Rock,High Density,GR4,2020-07-13,55,15,Outbreak basin
+GR,Green Rock,High Density,GR4,2020-07-13,55,20,Outbreak basin
+GR,Green Rock,High Density,GR4,2020-07-13,55,30,Outbreak basin
+GR,Green Rock,High Density,GR4,2020-07-13,55,40,Outbreak basin
+GR,Green Rock,High Density,GR40,2025-10-21,15,10,Outbreak basin
+GR,Green Rock,High Density,GR40,2025-10-21,15,15,Threshold
+GR,Green Rock,High Density,GR40,2025-10-21,15,20,Endemic basin
+GR,Green Rock,High Density,GR40,2025-10-21,15,30,Endemic basin
+GR,Green Rock,High Density,GR40,2025-10-21,15,40,Endemic basin
+GR,Green Rock,High Density,GR41,2026-01-19,30,10,Outbreak basin
+GR,Green Rock,High Density,GR41,2026-01-19,30,15,Outbreak basin
+GR,Green Rock,High Density,GR41,2026-01-19,30,20,Outbreak basin
+GR,Green Rock,High Density,GR41,2026-01-19,30,30,Threshold
+GR,Green Rock,High Density,GR41,2026-01-19,30,40,Endemic basin
+GR,Green Rock,High Density,GR42,2026-02-10,55,10,Outbreak basin
+GR,Green Rock,High Density,GR42,2026-02-10,55,15,Outbreak basin
+GR,Green Rock,High Density,GR42,2026-02-10,55,20,Outbreak basin
+GR,Green Rock,High Density,GR42,2026-02-10,55,30,Outbreak basin
+GR,Green Rock,High Density,GR42,2026-02-10,55,40,Outbreak basin
+GR,Green Rock,High Density,GR43,2026-03-19,20,10,Outbreak basin
+GR,Green Rock,High Density,GR43,2026-03-19,20,15,Outbreak basin
+GR,Green Rock,High Density,GR43,2026-03-19,20,20,Threshold
+GR,Green Rock,High Density,GR43,2026-03-19,20,30,Endemic basin
+GR,Green Rock,High Density,GR43,2026-03-19,20,40,Endemic basin
+GR,Green Rock,High Density,GR44,2026-04-15,10,10,Threshold
+GR,Green Rock,High Density,GR44,2026-04-15,10,15,Endemic basin
+GR,Green Rock,High Density,GR44,2026-04-15,10,20,Endemic basin
+GR,Green Rock,High Density,GR44,2026-04-15,10,30,Endemic basin
+GR,Green Rock,High Density,GR44,2026-04-15,10,40,Endemic basin
+GR,Green Rock,High Density,GR45,2026-05-22,10,10,Threshold
+GR,Green Rock,High Density,GR45,2026-05-22,10,15,Endemic basin
+GR,Green Rock,High Density,GR45,2026-05-22,10,20,Endemic basin
+GR,Green Rock,High Density,GR45,2026-05-22,10,30,Endemic basin
+GR,Green Rock,High Density,GR45,2026-05-22,10,40,Endemic basin
+GR,Green Rock,High Density,GR46,2026-06-09,10,10,Threshold
+GR,Green Rock,High Density,GR46,2026-06-09,10,15,Endemic basin
+GR,Green Rock,High Density,GR46,2026-06-09,10,20,Endemic basin
+GR,Green Rock,High Density,GR46,2026-06-09,10,30,Endemic basin
+GR,Green Rock,High Density,GR46,2026-06-09,10,40,Endemic basin
+GR,Green Rock,High Density,GR5,2020-07-13,45,10,Outbreak basin
+GR,Green Rock,High Density,GR5,2020-07-13,45,15,Outbreak basin
+GR,Green Rock,High Density,GR5,2020-07-13,45,20,Outbreak basin
+GR,Green Rock,High Density,GR5,2020-07-13,45,30,Outbreak basin
+GR,Green Rock,High Density,GR5,2020-07-13,45,40,Outbreak basin
+GR,Green Rock,High Density,GR6,2020-07-19,15,10,Outbreak basin
+GR,Green Rock,High Density,GR6,2020-07-19,15,15,Threshold
+GR,Green Rock,High Density,GR6,2020-07-19,15,20,Endemic basin
+GR,Green Rock,High Density,GR6,2020-07-19,15,30,Endemic basin
+GR,Green Rock,High Density,GR6,2020-07-19,15,40,Endemic basin
+GR,Green Rock,High Density,GR7,2020-08-06,40,10,Outbreak basin
+GR,Green Rock,High Density,GR7,2020-08-06,40,15,Outbreak basin
+GR,Green Rock,High Density,GR7,2020-08-06,40,20,Outbreak basin
+GR,Green Rock,High Density,GR7,2020-08-06,40,30,Outbreak basin
+GR,Green Rock,High Density,GR7,2020-08-06,40,40,Threshold
+GR,Green Rock,High Density,GR8,2020-08-15,35,10,Outbreak basin
+GR,Green Rock,High Density,GR8,2020-08-15,35,15,Outbreak basin
+GR,Green Rock,High Density,GR8,2020-08-15,35,20,Outbreak basin
+GR,Green Rock,High Density,GR8,2020-08-15,35,30,Outbreak basin
+GR,Green Rock,High Density,GR8,2020-08-15,35,40,Endemic basin
+GR,Green Rock,High Density,GR9,2020-08-16,35,10,Outbreak basin
+GR,Green Rock,High Density,GR9,2020-08-16,35,15,Outbreak basin
+GR,Green Rock,High Density,GR9,2020-08-16,35,20,Outbreak basin
+GR,Green Rock,High Density,GR9,2020-08-16,35,30,Outbreak basin
+GR,Green Rock,High Density,GR9,2020-08-16,35,40,Endemic basin
+RR,Red Rock,High Density,RR1,2023-04-01,25,10,Outbreak basin
+RR,Red Rock,High Density,RR1,2023-04-01,25,15,Outbreak basin
+RR,Red Rock,High Density,RR1,2023-04-01,25,20,Outbreak basin
+RR,Red Rock,High Density,RR1,2023-04-01,25,30,Endemic basin
+RR,Red Rock,High Density,RR1,2023-04-01,25,40,Endemic basin
+RR,Red Rock,High Density,RR10,2024-05-25,40,10,Outbreak basin
+RR,Red Rock,High Density,RR10,2024-05-25,40,15,Outbreak basin
+RR,Red Rock,High Density,RR10,2024-05-25,40,20,Outbreak basin
+RR,Red Rock,High Density,RR10,2024-05-25,40,30,Outbreak basin
+RR,Red Rock,High Density,RR10,2024-05-25,40,40,Threshold
+RR,Red Rock,High Density,RR11,2024-07-04,30,10,Outbreak basin
+RR,Red Rock,High Density,RR11,2024-07-04,30,15,Outbreak basin
+RR,Red Rock,High Density,RR11,2024-07-04,30,20,Outbreak basin
+RR,Red Rock,High Density,RR11,2024-07-04,30,30,Threshold
+RR,Red Rock,High Density,RR11,2024-07-04,30,40,Endemic basin
+RR,Red Rock,High Density,RR12,2024-08-14,40,10,Outbreak basin
+RR,Red Rock,High Density,RR12,2024-08-14,40,15,Outbreak basin
+RR,Red Rock,High Density,RR12,2024-08-14,40,20,Outbreak basin
+RR,Red Rock,High Density,RR12,2024-08-14,40,30,Outbreak basin
+RR,Red Rock,High Density,RR12,2024-08-14,40,40,Threshold
+RR,Red Rock,High Density,RR13,2024-08-25,40,10,Outbreak basin
+RR,Red Rock,High Density,RR13,2024-08-25,40,15,Outbreak basin
+RR,Red Rock,High Density,RR13,2024-08-25,40,20,Outbreak basin
+RR,Red Rock,High Density,RR13,2024-08-25,40,30,Outbreak basin
+RR,Red Rock,High Density,RR13,2024-08-25,40,40,Threshold
+RR,Red Rock,High Density,RR14,2024-09-04,35,10,Outbreak basin
+RR,Red Rock,High Density,RR14,2024-09-04,35,15,Outbreak basin
+RR,Red Rock,High Density,RR14,2024-09-04,35,20,Outbreak basin
+RR,Red Rock,High Density,RR14,2024-09-04,35,30,Outbreak basin
+RR,Red Rock,High Density,RR14,2024-09-04,35,40,Endemic basin
+RR,Red Rock,High Density,RR15,2024-09-12,30,10,Outbreak basin
+RR,Red Rock,High Density,RR15,2024-09-12,30,15,Outbreak basin
+RR,Red Rock,High Density,RR15,2024-09-12,30,20,Outbreak basin
+RR,Red Rock,High Density,RR15,2024-09-12,30,30,Threshold
+RR,Red Rock,High Density,RR15,2024-09-12,30,40,Endemic basin
+RR,Red Rock,High Density,RR16,2024-10-21,10,10,Threshold
+RR,Red Rock,High Density,RR16,2024-10-21,10,15,Endemic basin
+RR,Red Rock,High Density,RR16,2024-10-21,10,20,Endemic basin
+RR,Red Rock,High Density,RR16,2024-10-21,10,30,Endemic basin
+RR,Red Rock,High Density,RR16,2024-10-21,10,40,Endemic basin
+RR,Red Rock,High Density,RR17,2025-01-29,20,10,Outbreak basin
+RR,Red Rock,High Density,RR17,2025-01-29,20,15,Outbreak basin
+RR,Red Rock,High Density,RR17,2025-01-29,20,20,Threshold
+RR,Red Rock,High Density,RR17,2025-01-29,20,30,Endemic basin
+RR,Red Rock,High Density,RR17,2025-01-29,20,40,Endemic basin
+RR,Red Rock,High Density,RR18,2025-02-12,25,10,Outbreak basin
+RR,Red Rock,High Density,RR18,2025-02-12,25,15,Outbreak basin
+RR,Red Rock,High Density,RR18,2025-02-12,25,20,Outbreak basin
+RR,Red Rock,High Density,RR18,2025-02-12,25,30,Endemic basin
+RR,Red Rock,High Density,RR18,2025-02-12,25,40,Endemic basin
+RR,Red Rock,High Density,RR19,2025-04-08,25,10,Outbreak basin
+RR,Red Rock,High Density,RR19,2025-04-08,25,15,Outbreak basin
+RR,Red Rock,High Density,RR19,2025-04-08,25,20,Outbreak basin
+RR,Red Rock,High Density,RR19,2025-04-08,25,30,Endemic basin
+RR,Red Rock,High Density,RR19,2025-04-08,25,40,Endemic basin
+RR,Red Rock,High Density,RR2,2023-05-03,50,10,Outbreak basin
+RR,Red Rock,High Density,RR2,2023-05-03,50,15,Outbreak basin
+RR,Red Rock,High Density,RR2,2023-05-03,50,20,Outbreak basin
+RR,Red Rock,High Density,RR2,2023-05-03,50,30,Outbreak basin
+RR,Red Rock,High Density,RR2,2023-05-03,50,40,Outbreak basin
+RR,Red Rock,High Density,RR20,2025-05-21,40,10,Outbreak basin
+RR,Red Rock,High Density,RR20,2025-05-21,40,15,Outbreak basin
+RR,Red Rock,High Density,RR20,2025-05-21,40,20,Outbreak basin
+RR,Red Rock,High Density,RR20,2025-05-21,40,30,Outbreak basin
+RR,Red Rock,High Density,RR20,2025-05-21,40,40,Threshold
+RR,Red Rock,High Density,RR21,2025-05-26,30,10,Outbreak basin
+RR,Red Rock,High Density,RR21,2025-05-26,30,15,Outbreak basin
+RR,Red Rock,High Density,RR21,2025-05-26,30,20,Outbreak basin
+RR,Red Rock,High Density,RR21,2025-05-26,30,30,Threshold
+RR,Red Rock,High Density,RR21,2025-05-26,30,40,Endemic basin
+RR,Red Rock,High Density,RR22,2025-06-05,55,10,Outbreak basin
+RR,Red Rock,High Density,RR22,2025-06-05,55,15,Outbreak basin
+RR,Red Rock,High Density,RR22,2025-06-05,55,20,Outbreak basin
+RR,Red Rock,High Density,RR22,2025-06-05,55,30,Outbreak basin
+RR,Red Rock,High Density,RR22,2025-06-05,55,40,Outbreak basin
+RR,Red Rock,High Density,RR23,2025-06-11,25,10,Outbreak basin
+RR,Red Rock,High Density,RR23,2025-06-11,25,15,Outbreak basin
+RR,Red Rock,High Density,RR23,2025-06-11,25,20,Outbreak basin
+RR,Red Rock,High Density,RR23,2025-06-11,25,30,Endemic basin
+RR,Red Rock,High Density,RR23,2025-06-11,25,40,Endemic basin
+RR,Red Rock,High Density,RR24,2025-06-25,40,10,Outbreak basin
+RR,Red Rock,High Density,RR24,2025-06-25,40,15,Outbreak basin
+RR,Red Rock,High Density,RR24,2025-06-25,40,20,Outbreak basin
+RR,Red Rock,High Density,RR24,2025-06-25,40,30,Outbreak basin
+RR,Red Rock,High Density,RR24,2025-06-25,40,40,Threshold
+RR,Red Rock,High Density,RR25,2025-09-16,25,10,Outbreak basin
+RR,Red Rock,High Density,RR25,2025-09-16,25,15,Outbreak basin
+RR,Red Rock,High Density,RR25,2025-09-16,25,20,Outbreak basin
+RR,Red Rock,High Density,RR25,2025-09-16,25,30,Endemic basin
+RR,Red Rock,High Density,RR25,2025-09-16,25,40,Endemic basin
+RR,Red Rock,High Density,RR26,2025-09-16,15,10,Outbreak basin
+RR,Red Rock,High Density,RR26,2025-09-16,15,15,Threshold
+RR,Red Rock,High Density,RR26,2025-09-16,15,20,Endemic basin
+RR,Red Rock,High Density,RR26,2025-09-16,15,30,Endemic basin
+RR,Red Rock,High Density,RR26,2025-09-16,15,40,Endemic basin
+RR,Red Rock,High Density,RR27,2025-10-07,35,10,Outbreak basin
+RR,Red Rock,High Density,RR27,2025-10-07,35,15,Outbreak basin
+RR,Red Rock,High Density,RR27,2025-10-07,35,20,Outbreak basin
+RR,Red Rock,High Density,RR27,2025-10-07,35,30,Outbreak basin
+RR,Red Rock,High Density,RR27,2025-10-07,35,40,Endemic basin
+RR,Red Rock,High Density,RR28,2026-01-19,45,10,Outbreak basin
+RR,Red Rock,High Density,RR28,2026-01-19,45,15,Outbreak basin
+RR,Red Rock,High Density,RR28,2026-01-19,45,20,Outbreak basin
+RR,Red Rock,High Density,RR28,2026-01-19,45,30,Outbreak basin
+RR,Red Rock,High Density,RR28,2026-01-19,45,40,Outbreak basin
+RR,Red Rock,High Density,RR29,2026-02-10,35,10,Outbreak basin
+RR,Red Rock,High Density,RR29,2026-02-10,35,15,Outbreak basin
+RR,Red Rock,High Density,RR29,2026-02-10,35,20,Outbreak basin
+RR,Red Rock,High Density,RR29,2026-02-10,35,30,Outbreak basin
+RR,Red Rock,High Density,RR29,2026-02-10,35,40,Endemic basin
+RR,Red Rock,High Density,RR3,2023-10-01,15,10,Outbreak basin
+RR,Red Rock,High Density,RR3,2023-10-01,15,15,Threshold
+RR,Red Rock,High Density,RR3,2023-10-01,15,20,Endemic basin
+RR,Red Rock,High Density,RR3,2023-10-01,15,30,Endemic basin
+RR,Red Rock,High Density,RR3,2023-10-01,15,40,Endemic basin
+RR,Red Rock,High Density,RR30,2026-03-02,30,10,Outbreak basin
+RR,Red Rock,High Density,RR30,2026-03-02,30,15,Outbreak basin
+RR,Red Rock,High Density,RR30,2026-03-02,30,20,Outbreak basin
+RR,Red Rock,High Density,RR30,2026-03-02,30,30,Threshold
+RR,Red Rock,High Density,RR30,2026-03-02,30,40,Endemic basin
+RR,Red Rock,High Density,RR31,2026-04-15,30,10,Outbreak basin
+RR,Red Rock,High Density,RR31,2026-04-15,30,15,Outbreak basin
+RR,Red Rock,High Density,RR31,2026-04-15,30,20,Outbreak basin
+RR,Red Rock,High Density,RR31,2026-04-15,30,30,Threshold
+RR,Red Rock,High Density,RR31,2026-04-15,30,40,Endemic basin
+RR,Red Rock,High Density,RR32,2026-05-22,20,10,Outbreak basin
+RR,Red Rock,High Density,RR32,2026-05-22,20,15,Outbreak basin
+RR,Red Rock,High Density,RR32,2026-05-22,20,20,Threshold
+RR,Red Rock,High Density,RR32,2026-05-22,20,30,Endemic basin
+RR,Red Rock,High Density,RR32,2026-05-22,20,40,Endemic basin
+RR,Red Rock,High Density,RR33,2026-06-09,35,10,Outbreak basin
+RR,Red Rock,High Density,RR33,2026-06-09,35,15,Outbreak basin
+RR,Red Rock,High Density,RR33,2026-06-09,35,20,Outbreak basin
+RR,Red Rock,High Density,RR33,2026-06-09,35,30,Outbreak basin
+RR,Red Rock,High Density,RR33,2026-06-09,35,40,Endemic basin
+RR,Red Rock,High Density,RR4,2023-09-30,25,10,Outbreak basin
+RR,Red Rock,High Density,RR4,2023-09-30,25,15,Outbreak basin
+RR,Red Rock,High Density,RR4,2023-09-30,25,20,Outbreak basin
+RR,Red Rock,High Density,RR4,2023-09-30,25,30,Endemic basin
+RR,Red Rock,High Density,RR4,2023-09-30,25,40,Endemic basin
+RR,Red Rock,High Density,RR5,2023-10-04,15,10,Outbreak basin
+RR,Red Rock,High Density,RR5,2023-10-04,15,15,Threshold
+RR,Red Rock,High Density,RR5,2023-10-04,15,20,Endemic basin
+RR,Red Rock,High Density,RR5,2023-10-04,15,30,Endemic basin
+RR,Red Rock,High Density,RR5,2023-10-04,15,40,Endemic basin
+RR,Red Rock,High Density,RR6,2024-01-31,30,10,Outbreak basin
+RR,Red Rock,High Density,RR6,2024-01-31,30,15,Outbreak basin
+RR,Red Rock,High Density,RR6,2024-01-31,30,20,Outbreak basin
+RR,Red Rock,High Density,RR6,2024-01-31,30,30,Threshold
+RR,Red Rock,High Density,RR6,2024-01-31,30,40,Endemic basin
+RR,Red Rock,High Density,RR7,2024-03-24,15,10,Outbreak basin
+RR,Red Rock,High Density,RR7,2024-03-24,15,15,Threshold
+RR,Red Rock,High Density,RR7,2024-03-24,15,20,Endemic basin
+RR,Red Rock,High Density,RR7,2024-03-24,15,30,Endemic basin
+RR,Red Rock,High Density,RR7,2024-03-24,15,40,Endemic basin
+RR,Red Rock,High Density,RR8,2024-04-06,10,10,Threshold
+RR,Red Rock,High Density,RR8,2024-04-06,10,15,Endemic basin
+RR,Red Rock,High Density,RR8,2024-04-06,10,20,Endemic basin
+RR,Red Rock,High Density,RR8,2024-04-06,10,30,Endemic basin
+RR,Red Rock,High Density,RR8,2024-04-06,10,40,Endemic basin
+RR,Red Rock,High Density,RR9,2024-05-21,30,10,Outbreak basin
+RR,Red Rock,High Density,RR9,2024-05-21,30,15,Outbreak basin
+RR,Red Rock,High Density,RR9,2024-05-21,30,20,Outbreak basin
+RR,Red Rock,High Density,RR9,2024-05-21,30,30,Threshold
+RR,Red Rock,High Density,RR9,2024-05-21,30,40,Endemic basin
+TW,NA,High Density,TW1,2024-09-11,75,10,Outbreak basin
+TW,NA,High Density,TW1,2024-09-11,75,15,Outbreak basin
+TW,NA,High Density,TW1,2024-09-11,75,20,Outbreak basin
+TW,NA,High Density,TW1,2024-09-11,75,30,Outbreak basin
+TW,NA,High Density,TW1,2024-09-11,75,40,Outbreak basin
+TW,NA,High Density,TW10,2025-05-12,50,10,Outbreak basin
+TW,NA,High Density,TW10,2025-05-12,50,15,Outbreak basin
+TW,NA,High Density,TW10,2025-05-12,50,20,Outbreak basin
+TW,NA,High Density,TW10,2025-05-12,50,30,Outbreak basin
+TW,NA,High Density,TW10,2025-05-12,50,40,Outbreak basin
+TW,NA,High Density,TW11,2025-06-16,30,10,Outbreak basin
+TW,NA,High Density,TW11,2025-06-16,30,15,Outbreak basin
+TW,NA,High Density,TW11,2025-06-16,30,20,Outbreak basin
+TW,NA,High Density,TW11,2025-06-16,30,30,Threshold
+TW,NA,High Density,TW11,2025-06-16,30,40,Endemic basin
+TW,NA,High Density,TW12,2025-06-26,45,10,Outbreak basin
+TW,NA,High Density,TW12,2025-06-26,45,15,Outbreak basin
+TW,NA,High Density,TW12,2025-06-26,45,20,Outbreak basin
+TW,NA,High Density,TW12,2025-06-26,45,30,Outbreak basin
+TW,NA,High Density,TW12,2025-06-26,45,40,Outbreak basin
+TW,NA,High Density,TW13,2025-08-06,55,10,Outbreak basin
+TW,NA,High Density,TW13,2025-08-06,55,15,Outbreak basin
+TW,NA,High Density,TW13,2025-08-06,55,20,Outbreak basin
+TW,NA,High Density,TW13,2025-08-06,55,30,Outbreak basin
+TW,NA,High Density,TW13,2025-08-06,55,40,Outbreak basin
+TW,NA,High Density,TW14,2025-08-14,40,10,Outbreak basin
+TW,NA,High Density,TW14,2025-08-14,40,15,Outbreak basin
+TW,NA,High Density,TW14,2025-08-14,40,20,Outbreak basin
+TW,NA,High Density,TW14,2025-08-14,40,30,Outbreak basin
+TW,NA,High Density,TW14,2025-08-14,40,40,Threshold
+TW,NA,High Density,TW15,2025-09-04,45,10,Outbreak basin
+TW,NA,High Density,TW15,2025-09-04,45,15,Outbreak basin
+TW,NA,High Density,TW15,2025-09-04,45,20,Outbreak basin
+TW,NA,High Density,TW15,2025-09-04,45,30,Outbreak basin
+TW,NA,High Density,TW15,2025-09-04,45,40,Outbreak basin
+TW,NA,High Density,TW16,2025-10-07,15,10,Outbreak basin
+TW,NA,High Density,TW16,2025-10-07,15,15,Threshold
+TW,NA,High Density,TW16,2025-10-07,15,20,Endemic basin
+TW,NA,High Density,TW16,2025-10-07,15,30,Endemic basin
+TW,NA,High Density,TW16,2025-10-07,15,40,Endemic basin
+TW,NA,High Density,TW17,2026-02-09,15,10,Outbreak basin
+TW,NA,High Density,TW17,2026-02-09,15,15,Threshold
+TW,NA,High Density,TW17,2026-02-09,15,20,Endemic basin
+TW,NA,High Density,TW17,2026-02-09,15,30,Endemic basin
+TW,NA,High Density,TW17,2026-02-09,15,40,Endemic basin
+TW,NA,High Density,TW18,2026-02-24,15,10,Outbreak basin
+TW,NA,High Density,TW18,2026-02-24,15,15,Threshold
+TW,NA,High Density,TW18,2026-02-24,15,20,Endemic basin
+TW,NA,High Density,TW18,2026-02-24,15,30,Endemic basin
+TW,NA,High Density,TW18,2026-02-24,15,40,Endemic basin
+TW,NA,High Density,TW19,2026-03-16,40,10,Outbreak basin
+TW,NA,High Density,TW19,2026-03-16,40,15,Outbreak basin
+TW,NA,High Density,TW19,2026-03-16,40,20,Outbreak basin
+TW,NA,High Density,TW19,2026-03-16,40,30,Outbreak basin
+TW,NA,High Density,TW19,2026-03-16,40,40,Threshold
+TW,NA,High Density,TW2,2025-01-28,30,10,Outbreak basin
+TW,NA,High Density,TW2,2025-01-28,30,15,Outbreak basin
+TW,NA,High Density,TW2,2025-01-28,30,20,Outbreak basin
+TW,NA,High Density,TW2,2025-01-28,30,30,Threshold
+TW,NA,High Density,TW2,2025-01-28,30,40,Endemic basin
+TW,NA,High Density,TW20,2026-04-21,5,10,Endemic basin
+TW,NA,High Density,TW20,2026-04-21,5,15,Endemic basin
+TW,NA,High Density,TW20,2026-04-21,5,20,Endemic basin
+TW,NA,High Density,TW20,2026-04-21,5,30,Endemic basin
+TW,NA,High Density,TW20,2026-04-21,5,40,Endemic basin
+TW,NA,High Density,TW21,2026-05-11,0,10,Endemic basin
+TW,NA,High Density,TW21,2026-05-11,0,15,Endemic basin
+TW,NA,High Density,TW21,2026-05-11,0,20,Endemic basin
+TW,NA,High Density,TW21,2026-05-11,0,30,Endemic basin
+TW,NA,High Density,TW21,2026-05-11,0,40,Endemic basin
+TW,NA,High Density,TW22,2026-06-08,50,10,Outbreak basin
+TW,NA,High Density,TW22,2026-06-08,50,15,Outbreak basin
+TW,NA,High Density,TW22,2026-06-08,50,20,Outbreak basin
+TW,NA,High Density,TW22,2026-06-08,50,30,Outbreak basin
+TW,NA,High Density,TW22,2026-06-08,50,40,Outbreak basin
+TW,NA,High Density,TW3,2025-02-04,25,10,Outbreak basin
+TW,NA,High Density,TW3,2025-02-04,25,15,Outbreak basin
+TW,NA,High Density,TW3,2025-02-04,25,20,Outbreak basin
+TW,NA,High Density,TW3,2025-02-04,25,30,Endemic basin
+TW,NA,High Density,TW3,2025-02-04,25,40,Endemic basin
+TW,NA,High Density,TW4,2025-02-10,5,10,Endemic basin
+TW,NA,High Density,TW4,2025-02-10,5,15,Endemic basin
+TW,NA,High Density,TW4,2025-02-10,5,20,Endemic basin
+TW,NA,High Density,TW4,2025-02-10,5,30,Endemic basin
+TW,NA,High Density,TW4,2025-02-10,5,40,Endemic basin
+TW,NA,High Density,TW5,2025-02-12,45,10,Outbreak basin
+TW,NA,High Density,TW5,2025-02-12,45,15,Outbreak basin
+TW,NA,High Density,TW5,2025-02-12,45,20,Outbreak basin
+TW,NA,High Density,TW5,2025-02-12,45,30,Outbreak basin
+TW,NA,High Density,TW5,2025-02-12,45,40,Outbreak basin
+TW,NA,High Density,TW6,2025-03-04,15,10,Outbreak basin
+TW,NA,High Density,TW6,2025-03-04,15,15,Threshold
+TW,NA,High Density,TW6,2025-03-04,15,20,Endemic basin
+TW,NA,High Density,TW6,2025-03-04,15,30,Endemic basin
+TW,NA,High Density,TW6,2025-03-04,15,40,Endemic basin
+TW,NA,High Density,TW7,2025-03-24,10,10,Threshold
+TW,NA,High Density,TW7,2025-03-24,10,15,Endemic basin
+TW,NA,High Density,TW7,2025-03-24,10,20,Endemic basin
+TW,NA,High Density,TW7,2025-03-24,10,30,Endemic basin
+TW,NA,High Density,TW7,2025-03-24,10,40,Endemic basin
+TW,NA,High Density,TW8,2025-03-24,15,10,Outbreak basin
+TW,NA,High Density,TW8,2025-03-24,15,15,Threshold
+TW,NA,High Density,TW8,2025-03-24,15,20,Endemic basin
+TW,NA,High Density,TW8,2025-03-24,15,30,Endemic basin
+TW,NA,High Density,TW8,2025-03-24,15,40,Endemic basin
+TW,NA,High Density,TW9,2025-04-01,15,10,Outbreak basin
+TW,NA,High Density,TW9,2025-04-01,15,15,Threshold
+TW,NA,High Density,TW9,2025-04-01,15,20,Endemic basin
+TW,NA,High Density,TW9,2025-04-01,15,30,Endemic basin
+TW,NA,High Density,TW9,2025-04-01,15,40,Endemic basin
+AL,Aow Leuk,Control,AL1,2025-02-28,5,10,Endemic basin
+AL,Aow Leuk,Control,AL1,2025-02-28,5,15,Endemic basin
+AL,Aow Leuk,Control,AL1,2025-02-28,5,20,Endemic basin
+AL,Aow Leuk,Control,AL1,2025-02-28,5,30,Endemic basin
+AL,Aow Leuk,Control,AL1,2025-02-28,5,40,Endemic basin
+AL,Aow Leuk,Control,AL10,2025-06-24,10,10,Threshold
+AL,Aow Leuk,Control,AL10,2025-06-24,10,15,Endemic basin
+AL,Aow Leuk,Control,AL10,2025-06-24,10,20,Endemic basin
+AL,Aow Leuk,Control,AL10,2025-06-24,10,30,Endemic basin
+AL,Aow Leuk,Control,AL10,2025-06-24,10,40,Endemic basin
+AL,Aow Leuk,Control,AL11,2025-08-07,0,10,Endemic basin
+AL,Aow Leuk,Control,AL11,2025-08-07,0,15,Endemic basin
+AL,Aow Leuk,Control,AL11,2025-08-07,0,20,Endemic basin
+AL,Aow Leuk,Control,AL11,2025-08-07,0,30,Endemic basin
+AL,Aow Leuk,Control,AL11,2025-08-07,0,40,Endemic basin
+AL,Aow Leuk,Control,AL12,2025-08-11,0,10,Endemic basin
+AL,Aow Leuk,Control,AL12,2025-08-11,0,15,Endemic basin
+AL,Aow Leuk,Control,AL12,2025-08-11,0,20,Endemic basin
+AL,Aow Leuk,Control,AL12,2025-08-11,0,30,Endemic basin
+AL,Aow Leuk,Control,AL12,2025-08-11,0,40,Endemic basin
+AL,Aow Leuk,Control,AL13,2025-08-28,5,10,Endemic basin
+AL,Aow Leuk,Control,AL13,2025-08-28,5,15,Endemic basin
+AL,Aow Leuk,Control,AL13,2025-08-28,5,20,Endemic basin
+AL,Aow Leuk,Control,AL13,2025-08-28,5,30,Endemic basin
+AL,Aow Leuk,Control,AL13,2025-08-28,5,40,Endemic basin
+AL,Aow Leuk,Control,AL14,2025-09-01,10,10,Threshold
+AL,Aow Leuk,Control,AL14,2025-09-01,10,15,Endemic basin
+AL,Aow Leuk,Control,AL14,2025-09-01,10,20,Endemic basin
+AL,Aow Leuk,Control,AL14,2025-09-01,10,30,Endemic basin
+AL,Aow Leuk,Control,AL14,2025-09-01,10,40,Endemic basin
+AL,Aow Leuk,Control,AL15,2025-09-25,0,10,Endemic basin
+AL,Aow Leuk,Control,AL15,2025-09-25,0,15,Endemic basin
+AL,Aow Leuk,Control,AL15,2025-09-25,0,20,Endemic basin
+AL,Aow Leuk,Control,AL15,2025-09-25,0,30,Endemic basin
+AL,Aow Leuk,Control,AL15,2025-09-25,0,40,Endemic basin
+AL,Aow Leuk,Control,AL16,2025-10-07,15,10,Outbreak basin
+AL,Aow Leuk,Control,AL16,2025-10-07,15,15,Threshold
+AL,Aow Leuk,Control,AL16,2025-10-07,15,20,Endemic basin
+AL,Aow Leuk,Control,AL16,2025-10-07,15,30,Endemic basin
+AL,Aow Leuk,Control,AL16,2025-10-07,15,40,Endemic basin
+AL,Aow Leuk,Control,AL17,2026-02-10,10,10,Threshold
+AL,Aow Leuk,Control,AL17,2026-02-10,10,15,Endemic basin
+AL,Aow Leuk,Control,AL17,2026-02-10,10,20,Endemic basin
+AL,Aow Leuk,Control,AL17,2026-02-10,10,30,Endemic basin
+AL,Aow Leuk,Control,AL17,2026-02-10,10,40,Endemic basin
+AL,Aow Leuk,Control,AL18,2026-04-20,15,10,Outbreak basin
+AL,Aow Leuk,Control,AL18,2026-04-20,15,15,Threshold
+AL,Aow Leuk,Control,AL18,2026-04-20,15,20,Endemic basin
+AL,Aow Leuk,Control,AL18,2026-04-20,15,30,Endemic basin
+AL,Aow Leuk,Control,AL18,2026-04-20,15,40,Endemic basin
+AL,Aow Leuk,Control,AL19,2026-05-12,0,10,Endemic basin
+AL,Aow Leuk,Control,AL19,2026-05-12,0,15,Endemic basin
+AL,Aow Leuk,Control,AL19,2026-05-12,0,20,Endemic basin
+AL,Aow Leuk,Control,AL19,2026-05-12,0,30,Endemic basin
+AL,Aow Leuk,Control,AL19,2026-05-12,0,40,Endemic basin
+AL,Aow Leuk,Control,AL2,2025-03-05,10,10,Threshold
+AL,Aow Leuk,Control,AL2,2025-03-05,10,15,Endemic basin
+AL,Aow Leuk,Control,AL2,2025-03-05,10,20,Endemic basin
+AL,Aow Leuk,Control,AL2,2025-03-05,10,30,Endemic basin
+AL,Aow Leuk,Control,AL2,2025-03-05,10,40,Endemic basin
+AL,Aow Leuk,Control,AL3,2025-03-05,0,10,Endemic basin
+AL,Aow Leuk,Control,AL3,2025-03-05,0,15,Endemic basin
+AL,Aow Leuk,Control,AL3,2025-03-05,0,20,Endemic basin
+AL,Aow Leuk,Control,AL3,2025-03-05,0,30,Endemic basin
+AL,Aow Leuk,Control,AL3,2025-03-05,0,40,Endemic basin
+AL,Aow Leuk,Control,AL4,2025-03-13,15,10,Outbreak basin
+AL,Aow Leuk,Control,AL4,2025-03-13,15,15,Threshold
+AL,Aow Leuk,Control,AL4,2025-03-13,15,20,Endemic basin
+AL,Aow Leuk,Control,AL4,2025-03-13,15,30,Endemic basin
+AL,Aow Leuk,Control,AL4,2025-03-13,15,40,Endemic basin
+AL,Aow Leuk,Control,AL5,2025-04-21,5,10,Endemic basin
+AL,Aow Leuk,Control,AL5,2025-04-21,5,15,Endemic basin
+AL,Aow Leuk,Control,AL5,2025-04-21,5,20,Endemic basin
+AL,Aow Leuk,Control,AL5,2025-04-21,5,30,Endemic basin
+AL,Aow Leuk,Control,AL5,2025-04-21,5,40,Endemic basin
+AL,Aow Leuk,Control,AL6,2025-04-21,0,10,Endemic basin
+AL,Aow Leuk,Control,AL6,2025-04-21,0,15,Endemic basin
+AL,Aow Leuk,Control,AL6,2025-04-21,0,20,Endemic basin
+AL,Aow Leuk,Control,AL6,2025-04-21,0,30,Endemic basin
+AL,Aow Leuk,Control,AL6,2025-04-21,0,40,Endemic basin
+AL,Aow Leuk,Control,AL7,2025-04-16,15,10,Outbreak basin
+AL,Aow Leuk,Control,AL7,2025-04-16,15,15,Threshold
+AL,Aow Leuk,Control,AL7,2025-04-16,15,20,Endemic basin
+AL,Aow Leuk,Control,AL7,2025-04-16,15,30,Endemic basin
+AL,Aow Leuk,Control,AL7,2025-04-16,15,40,Endemic basin
+AL,Aow Leuk,Control,AL8,2025-04-16,15,10,Outbreak basin
+AL,Aow Leuk,Control,AL8,2025-04-16,15,15,Threshold
+AL,Aow Leuk,Control,AL8,2025-04-16,15,20,Endemic basin
+AL,Aow Leuk,Control,AL8,2025-04-16,15,30,Endemic basin
+AL,Aow Leuk,Control,AL8,2025-04-16,15,40,Endemic basin
+AL,Aow Leuk,Control,AL9,2025-06-18,10,10,Threshold
+AL,Aow Leuk,Control,AL9,2025-06-18,10,15,Endemic basin
+AL,Aow Leuk,Control,AL9,2025-06-18,10,20,Endemic basin
+AL,Aow Leuk,Control,AL9,2025-06-18,10,30,Endemic basin
+AL,Aow Leuk,Control,AL9,2025-06-18,10,40,Endemic basin
+SI,Shark Island,Control,SI1,2025-02-05,0,10,Endemic basin
+SI,Shark Island,Control,SI1,2025-02-05,0,15,Endemic basin
+SI,Shark Island,Control,SI1,2025-02-05,0,20,Endemic basin
+SI,Shark Island,Control,SI1,2025-02-05,0,30,Endemic basin
+SI,Shark Island,Control,SI1,2025-02-05,0,40,Endemic basin
+SI,Shark Island,Control,SI10,2025-05-29,10,10,Threshold
+SI,Shark Island,Control,SI10,2025-05-29,10,15,Endemic basin
+SI,Shark Island,Control,SI10,2025-05-29,10,20,Endemic basin
+SI,Shark Island,Control,SI10,2025-05-29,10,30,Endemic basin
+SI,Shark Island,Control,SI10,2025-05-29,10,40,Endemic basin
+SI,Shark Island,Control,SI11,2025-05-29,0,10,Endemic basin
+SI,Shark Island,Control,SI11,2025-05-29,0,15,Endemic basin
+SI,Shark Island,Control,SI11,2025-05-29,0,20,Endemic basin
+SI,Shark Island,Control,SI11,2025-05-29,0,30,Endemic basin
+SI,Shark Island,Control,SI11,2025-05-29,0,40,Endemic basin
+SI,Shark Island,Control,SI12,2025-06-18,5,10,Endemic basin
+SI,Shark Island,Control,SI12,2025-06-18,5,15,Endemic basin
+SI,Shark Island,Control,SI12,2025-06-18,5,20,Endemic basin
+SI,Shark Island,Control,SI12,2025-06-18,5,30,Endemic basin
+SI,Shark Island,Control,SI12,2025-06-18,5,40,Endemic basin
+SI,Shark Island,Control,SI13,2025-08-07,20,10,Outbreak basin
+SI,Shark Island,Control,SI13,2025-08-07,20,15,Outbreak basin
+SI,Shark Island,Control,SI13,2025-08-07,20,20,Threshold
+SI,Shark Island,Control,SI13,2025-08-07,20,30,Endemic basin
+SI,Shark Island,Control,SI13,2025-08-07,20,40,Endemic basin
+SI,Shark Island,Control,SI14,2025-09-24,15,10,Outbreak basin
+SI,Shark Island,Control,SI14,2025-09-24,15,15,Threshold
+SI,Shark Island,Control,SI14,2025-09-24,15,20,Endemic basin
+SI,Shark Island,Control,SI14,2025-09-24,15,30,Endemic basin
+SI,Shark Island,Control,SI14,2025-09-24,15,40,Endemic basin
+SI,Shark Island,Control,SI15,2025-10-02,10,10,Threshold
+SI,Shark Island,Control,SI15,2025-10-02,10,15,Endemic basin
+SI,Shark Island,Control,SI15,2025-10-02,10,20,Endemic basin
+SI,Shark Island,Control,SI15,2025-10-02,10,30,Endemic basin
+SI,Shark Island,Control,SI15,2025-10-02,10,40,Endemic basin
+SI,Shark Island,Control,SI16,2026-02-25,15,10,Outbreak basin
+SI,Shark Island,Control,SI16,2026-02-25,15,15,Threshold
+SI,Shark Island,Control,SI16,2026-02-25,15,20,Endemic basin
+SI,Shark Island,Control,SI16,2026-02-25,15,30,Endemic basin
+SI,Shark Island,Control,SI16,2026-02-25,15,40,Endemic basin
+SI,Shark Island,Control,SI17,2026-02-25,5,10,Endemic basin
+SI,Shark Island,Control,SI17,2026-02-25,5,15,Endemic basin
+SI,Shark Island,Control,SI17,2026-02-25,5,20,Endemic basin
+SI,Shark Island,Control,SI17,2026-02-25,5,30,Endemic basin
+SI,Shark Island,Control,SI17,2026-02-25,5,40,Endemic basin
+SI,Shark Island,Control,SI18,2026-03-26,0,10,Endemic basin
+SI,Shark Island,Control,SI18,2026-03-26,0,15,Endemic basin
+SI,Shark Island,Control,SI18,2026-03-26,0,20,Endemic basin
+SI,Shark Island,Control,SI18,2026-03-26,0,30,Endemic basin
+SI,Shark Island,Control,SI18,2026-03-26,0,40,Endemic basin
+SI,Shark Island,Control,SI19,2026-04-16,0,10,Endemic basin
+SI,Shark Island,Control,SI19,2026-04-16,0,15,Endemic basin
+SI,Shark Island,Control,SI19,2026-04-16,0,20,Endemic basin
+SI,Shark Island,Control,SI19,2026-04-16,0,30,Endemic basin
+SI,Shark Island,Control,SI19,2026-04-16,0,40,Endemic basin
+SI,Shark Island,Control,SI2,2025-03-21,0,10,Endemic basin
+SI,Shark Island,Control,SI2,2025-03-21,0,15,Endemic basin
+SI,Shark Island,Control,SI2,2025-03-21,0,20,Endemic basin
+SI,Shark Island,Control,SI2,2025-03-21,0,30,Endemic basin
+SI,Shark Island,Control,SI2,2025-03-21,0,40,Endemic basin
+SI,Shark Island,Control,SI20,2026-05-28,0,10,Endemic basin
+SI,Shark Island,Control,SI20,2026-05-28,0,15,Endemic basin
+SI,Shark Island,Control,SI20,2026-05-28,0,20,Endemic basin
+SI,Shark Island,Control,SI20,2026-05-28,0,30,Endemic basin
+SI,Shark Island,Control,SI20,2026-05-28,0,40,Endemic basin
+SI,Shark Island,Control,SI3,2025-03-25,10,10,Threshold
+SI,Shark Island,Control,SI3,2025-03-25,10,15,Endemic basin
+SI,Shark Island,Control,SI3,2025-03-25,10,20,Endemic basin
+SI,Shark Island,Control,SI3,2025-03-25,10,30,Endemic basin
+SI,Shark Island,Control,SI3,2025-03-25,10,40,Endemic basin
+SI,Shark Island,Control,SI4,2025-03-25,5,10,Endemic basin
+SI,Shark Island,Control,SI4,2025-03-25,5,15,Endemic basin
+SI,Shark Island,Control,SI4,2025-03-25,5,20,Endemic basin
+SI,Shark Island,Control,SI4,2025-03-25,5,30,Endemic basin
+SI,Shark Island,Control,SI4,2025-03-25,5,40,Endemic basin
+SI,Shark Island,Control,SI5,2025-04-02,0,10,Endemic basin
+SI,Shark Island,Control,SI5,2025-04-02,0,15,Endemic basin
+SI,Shark Island,Control,SI5,2025-04-02,0,20,Endemic basin
+SI,Shark Island,Control,SI5,2025-04-02,0,30,Endemic basin
+SI,Shark Island,Control,SI5,2025-04-02,0,40,Endemic basin
+SI,Shark Island,Control,SI6,2025-04-07,0,10,Endemic basin
+SI,Shark Island,Control,SI6,2025-04-07,0,15,Endemic basin
+SI,Shark Island,Control,SI6,2025-04-07,0,20,Endemic basin
+SI,Shark Island,Control,SI6,2025-04-07,0,30,Endemic basin
+SI,Shark Island,Control,SI6,2025-04-07,0,40,Endemic basin
+SI,Shark Island,Control,SI7,2025-04-07,0,10,Endemic basin
+SI,Shark Island,Control,SI7,2025-04-07,0,15,Endemic basin
+SI,Shark Island,Control,SI7,2025-04-07,0,20,Endemic basin
+SI,Shark Island,Control,SI7,2025-04-07,0,30,Endemic basin
+SI,Shark Island,Control,SI7,2025-04-07,0,40,Endemic basin
+SI,Shark Island,Control,SI8,2025-05-06,0,10,Endemic basin
+SI,Shark Island,Control,SI8,2025-05-06,0,15,Endemic basin
+SI,Shark Island,Control,SI8,2025-05-06,0,20,Endemic basin
+SI,Shark Island,Control,SI8,2025-05-06,0,30,Endemic basin
+SI,Shark Island,Control,SI8,2025-05-06,0,40,Endemic basin
+SI,Shark Island,Control,SI9,2025-05-06,0,10,Endemic basin
+SI,Shark Island,Control,SI9,2025-05-06,0,15,Endemic basin
+SI,Shark Island,Control,SI9,2025-05-06,0,20,Endemic basin
+SI,Shark Island,Control,SI9,2025-05-06,0,30,Endemic basin
+SI,Shark Island,Control,SI9,2025-05-06,0,40,Endemic basin
+TB,Tanote Bay,Control,TB1,2025-06-24,5,10,Endemic basin
+TB,Tanote Bay,Control,TB1,2025-06-24,5,15,Endemic basin
+TB,Tanote Bay,Control,TB1,2025-06-24,5,20,Endemic basin
+TB,Tanote Bay,Control,TB1,2025-06-24,5,30,Endemic basin
+TB,Tanote Bay,Control,TB1,2025-06-24,5,40,Endemic basin
+TB,Tanote Bay,Control,TB2,2025-08-11,5,10,Endemic basin
+TB,Tanote Bay,Control,TB2,2025-08-11,5,15,Endemic basin
+TB,Tanote Bay,Control,TB2,2025-08-11,5,20,Endemic basin
+TB,Tanote Bay,Control,TB2,2025-08-11,5,30,Endemic basin
+TB,Tanote Bay,Control,TB2,2025-08-11,5,40,Endemic basin
+TB,Tanote Bay,Control,TB3,2025-09-01,0,10,Endemic basin
+TB,Tanote Bay,Control,TB3,2025-09-01,0,15,Endemic basin
+TB,Tanote Bay,Control,TB3,2025-09-01,0,20,Endemic basin
+TB,Tanote Bay,Control,TB3,2025-09-01,0,30,Endemic basin
+TB,Tanote Bay,Control,TB3,2025-09-01,0,40,Endemic basin
+TB,Tanote Bay,Control,TB4,2025-09-30,5,10,Endemic basin
+TB,Tanote Bay,Control,TB4,2025-09-30,5,15,Endemic basin
+TB,Tanote Bay,Control,TB4,2025-09-30,5,20,Endemic basin
+TB,Tanote Bay,Control,TB4,2025-09-30,5,30,Endemic basin
+TB,Tanote Bay,Control,TB4,2025-09-30,5,40,Endemic basin
+TB,Tanote Bay,Control,TB5,2025-09-30,5,10,Endemic basin
+TB,Tanote Bay,Control,TB5,2025-09-30,5,15,Endemic basin
+TB,Tanote Bay,Control,TB5,2025-09-30,5,20,Endemic basin
+TB,Tanote Bay,Control,TB5,2025-09-30,5,30,Endemic basin
+TB,Tanote Bay,Control,TB5,2025-09-30,5,40,Endemic basin
+TB,Tanote Bay,Control,TB6,2026-02-10,0,10,Endemic basin
+TB,Tanote Bay,Control,TB6,2026-02-10,0,15,Endemic basin
+TB,Tanote Bay,Control,TB6,2026-02-10,0,20,Endemic basin
+TB,Tanote Bay,Control,TB6,2026-02-10,0,30,Endemic basin
+TB,Tanote Bay,Control,TB6,2026-02-10,0,40,Endemic basin
+TB,Tanote Bay,Control,TB7,2026-04-20,5,10,Endemic basin
+TB,Tanote Bay,Control,TB7,2026-04-20,5,15,Endemic basin
+TB,Tanote Bay,Control,TB7,2026-04-20,5,20,Endemic basin
+TB,Tanote Bay,Control,TB7,2026-04-20,5,30,Endemic basin
+TB,Tanote Bay,Control,TB7,2026-04-20,5,40,Endemic basin
+TB,Tanote Bay,Control,TB8,2026-05-12,0,10,Endemic basin
+TB,Tanote Bay,Control,TB8,2026-05-12,0,15,Endemic basin
+TB,Tanote Bay,Control,TB8,2026-05-12,0,20,Endemic basin
+TB,Tanote Bay,Control,TB8,2026-05-12,0,30,Endemic basin
+TB,Tanote Bay,Control,TB8,2026-05-12,0,40,Endemic basin
+TB,Tanote Bay,Control,TB9,2026-06-15,5,10,Endemic basin
+TB,Tanote Bay,Control,TB9,2026-06-15,5,15,Endemic basin
+TB,Tanote Bay,Control,TB9,2026-06-15,5,20,Endemic basin
+TB,Tanote Bay,Control,TB9,2026-06-15,5,30,Endemic basin
+TB,Tanote Bay,Control,TB9,2026-06-15,5,40,Endemic basin
