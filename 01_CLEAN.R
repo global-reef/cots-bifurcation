@@ -397,8 +397,15 @@ cots_survey %>%
   )
 
 cots_survey %>%
-  count(temp_source)
-
+  summarise(
+    n_surveys = n(),
+    min_date = min(date, na.rm = TRUE),
+    max_date = max(date, na.rm = TRUE),
+    min_temp_c = min(temp_c, na.rm = TRUE),
+    mean_temp_c = mean(temp_c, na.rm = TRUE),
+    max_temp_c = max(temp_c, na.rm = TRUE),
+    .groups = "drop"
+  )
 
 #### 6F. Check surveys with missing temperature ####
 
@@ -415,3 +422,11 @@ write_csv(substrate, file.path(data_processed_dir, paste0(analysis_date, "_subst
 write_csv(substrate_transect, file.path(data_processed_dir, paste0(analysis_date, "_substrate_transect.csv")))
 write_csv(substrate_wide, file.path(data_processed_dir, paste0(analysis_date, "_substrate_wide.csv")))
 write_csv(temp_daily, file.path(data_processed_dir, paste0(analysis_date, "_temp_daily.csv")))
+
+str(cots_indiv)
+str(cots_survey)
+str(substrate)
+str(substrate_transect)
+str(substrate_wide)
+str(temp_daily)
+

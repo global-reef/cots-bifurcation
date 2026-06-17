@@ -2,7 +2,7 @@
 
 ######### 0. Set Analysis Date & Create Project Folders #######
 
-analysis_date <- "2026.06.15"  # Update for each analysis run
+analysis_date <- "2026.06.17"  # Update for each analysis run
 
 output_dir <- file.path(getwd(), paste0("Analysis_", analysis_date))
 
@@ -70,7 +70,7 @@ site_cols <- c(
   "Outbreak" = "#FF9683"
 )
 threshold_cols <- c(
-  "15 CoTS ha-1" = "#B8464F"
+  "15 CoTS ha-1 \n Green Fins (2021)" = "#B8464F"
 )
 
 
