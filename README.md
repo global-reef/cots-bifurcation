@@ -6,6 +6,12 @@ This repository uses local CoTS density observations, benthic substrate data, an
 
 The core modelling aim is to test how alternative assumptions about endemic density, tipping thresholds, carrying capacity, coral cover, and temperature-dependent growth affect simulated CoTS trajectories across Koh Tao reef sites.
 
+## Conceptual model
+
+The conceptual figure below summarises the bifurcation framework used in the simulation model. CoTS density trajectories are simulated relative to a low-density endemic equilibrium, an unstable tipping threshold, and an upper outbreak equilibrium.
+
+![Conceptual bifurcation pathways](Analysis_2026.06.17/figures/S6_conceptual_bifurcation_pathways.png)
+
 ## Repository Structure
 
 | File / Folder | Description |
