@@ -1,4 +1,4 @@
-`# CoTS Bifurcation Project
+# CoTS Bifurcation Modelling
 
 Simulation and bifurcation modelling of crown-of-thorns starfish (CoTS) outbreak dynamics on Koh Tao reefs, Thailand.
 
