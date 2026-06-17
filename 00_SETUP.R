@@ -1,5 +1,4 @@
-### CoTS Bifurcation Project
-### Run all scripts to update analysis
+### 00_SETUP.R ###
 
 ######### 0. Set Analysis Date & Create Project Folders #######
 

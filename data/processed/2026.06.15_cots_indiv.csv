@@ -1,0 +1,719 @@
+site,survey_id,date_raw,avg_depth_m,time,duration_min,vis_m,researcher,specimen,active,substrate,growth_form,size_cm,depth_m,site_type,removal,date,site_code
+Aow Leuk,AL11,08/07/2025,6.6,13:05:00,16,20,"Mario, Teo, Sophie",0,NA,NA,NA,NA,NA,Control,NA,2025-08-07,AL
+Aow Leuk,AL10,08/11/2025,8.3,15:20:00,18,20,"Maddie, Maia",0,NA,NA,NA,NA,NA,Control,NA,2025-08-11,AL
+Aow Leuk,AL9,08/11/2025,8.3,15:20:00,18,20,"Teo, Mario",0,NA,NA,NA,NA,NA,Control,NA,2025-08-11,AL
+Aow Leuk,AL13,08/28/25,8.4,15:24:00,20,12,"Amira, Maia",1,Y,HC,TAB,56,7.5,Control,NA,2025-08-28,AL
+Aow Leuk,AL14,09/01/25,8.7,15:26:00,17,8,"Maddie, Mario",1,Y,HC,ARB,34,8,Control,NA,2025-09-01,AL
+Aow Leuk,AL14,09/01/25,8.7,15:26:00,17,8,"Maddie, Mario",2,N,HC,ENC,42,10,Control,NA,2025-09-01,AL
+Aow Leuk,AL15,09/25/25,8,13:15:00,14,15,"Mario, Maddie",0,NA,NA,NA,NA,NA,Control,NA,2025-09-25,AL
+Aow Leuk,AL16,10/07/2025,7.1,15:30:00,25,10,"Simone, Agathe",1,Y,HC,ARB,24,8.7,Control,NA,2025-10-07,AL
+Aow Leuk,AL16,10/07/2025,7.1,15:30:00,25,10,"Simone, Agathe",2,Y,HC,SUBM,37,7,Control,NA,2025-10-07,AL
+Aow Leuk,AL16,10/07/2025,7.1,15:30:00,25,10,"Simone, Agathe",3,N,RK,NA,14,8.9,Control,NA,2025-10-07,AL
+Aow Leuk,AL17,02/10/2026,7.5,14:54:00,30,6,"Jackson, Louis",1,N,RB,NA,32,8.6,Control,NA,2026-02-10,AL
+Aow Leuk,AL17,02/10/2026,7.5,14:54:00,30,6,"Jackson, Louis",2,N,HC,MA,35,9.7,Control,NA,2026-02-10,AL
+Aow Leuk,AL18,04/20/2026,9,14:49:00,24,8,"Sophia, Lewis",1,N,HC,SMA,33,8.5,Control,NA,2026-04-20,AL
+Aow Leuk,AL18,04/20/2026,9,14:49:00,24,8,"Sophia, Lewis",2,N,HC,ARB,28,9.6,Control,NA,2026-04-20,AL
+Aow Leuk,AL18,04/20/2026,9,14:49:00,24,8,"Sophia, Lewis",3,N,HC,ARB,20,9.5,Control,NA,2026-04-20,AL
+Aow Leuk,AL19,05/12/2026,7.7,14:43:00,25,2,"Kim, Scarlett",0,NA,NA,NA,NA,NA,Control,NA,2026-05-12,AL
+Aow Leuk,AL1,02/28/2025,9,12:40:00,25,10,"Max, Martin",1,NA,SA,NA,37,10.5,Control,NA,2025-02-28,AL
+Aow Leuk,AL2,03/05/2025,7,15:34:00,22,10,"Olive, Martin",1,Y,HC,NA,38,8.7,Control,NA,2025-03-05,AL
+Aow Leuk,AL2,03/05/2025,7,15:34:00,22,10,"Olive, Martin",2,Y,HC,NA,26,9.1,Control,NA,2025-03-05,AL
+Aow Leuk,AL3,03/05/2025,7.6,15:12:00,24,10,"Max, Georgia",0,NA,NA,NA,NA,NA,Control,NA,2025-03-05,AL
+Aow Leuk,AL4,03/13/2025,8,15:43:00,20,8,"Camille, Elise",1,NA,HC,ARB,20,8.1,Control,NA,2025-03-13,AL
+Aow Leuk,AL4,03/13/2025,8,15:43:00,20,8,"Camille, Elise",2,NA,HC,ENC,42,9.9,Control,NA,2025-03-13,AL
+Aow Leuk,AL4,03/13/2025,8,15:43:00,20,8,"Camille, Elise",3,NA,RK,NA,23,8.6,Control,NA,2025-03-13,AL
+Aow Leuk,AL7,04/16/2025,7.3,14:56:00,61,10,"Niamh, Emma, Tessa",1,N,RK,NA,44,9.9,Control,NA,2025-04-16,AL
+Aow Leuk,AL7,04/16/2025,7.3,14:56:00,61,10,"Niamh, Emma, Tessa",2,N,RK,NA,39,9,Control,NA,2025-04-16,AL
+Aow Leuk,AL7,04/16/2025,7.3,14:56:00,61,10,"Niamh, Emma, Tessa",3,N,RK,NA,47,8.8,Control,NA,2025-04-16,AL
+Aow Leuk,AL8,04/16/2025,7.3,15:00:00,61,10,"Camille, Lucca",1,Y,HC,ENC,48,9.3,Control,NA,2025-04-16,AL
+Aow Leuk,AL8,04/16/2025,7.3,15:00:00,61,10,"Camille, Lucca",2,N,RK,NA,45,7.9,Control,NA,2025-04-16,AL
+Aow Leuk,AL8,04/16/2025,7.3,15:00:00,61,10,"Camille, Lucca",3,Y,RK,NA,47,7.7,Control,NA,2025-04-16,AL
+Aow Leuk,AL5,04/21/2025,6.8,12:55:00,25,18,"Tessa, Camille, Renzo",1,N,RK,NA,38,9.2,Control,NA,2025-04-21,AL
+Aow Leuk,AL6,04/21/2025,6.8,15:00:00,25,18,"Tessa, Camille, Renzo",0,NA,NA,NA,NA,NA,Control,NA,2025-04-21,AL
+Aow Leuk,AL9,06/18/2025,8.5,15:02:00,25,10,"Ben, Mirea",1,Y,HC,NA,26,8.4,Control,NA,2025-06-18,AL
+Aow Leuk,AL9,06/18/2025,8.5,15:02:00,25,10,"Ben, Mirea",2,N,HC,ARB,37,8.9,Control,NA,2025-06-18,AL
+Aow Leuk,AL10,06/24/2025,9,15:10:00,53,6,"Jess F, Jen",1,N,SAND,NA,26,10,Control,NA,2025-06-24,AL
+Aow Leuk,AL10,06/24/2025,9,15:10:00,53,6,"Jess F, Jen",2,N,HC,EN,42,9.1,Control,NA,2025-06-24,AL
+Green Rock,GR1,05/19/2020,10,13:00:00,50,12,GlobalReef,1,N,RK,NA,25,11.8,High Density,NA,2020-05-19,GR
+Green Rock,GR1,05/19/2020,10,13:00:00,50,12,GlobalReef,2,N,HC,ENC,48,8.5,High Density,NA,2020-05-19,GR
+Green Rock,GR1,05/19/2020,10,13:00:00,50,12,GlobalReef,3,N,HC,SUBM,35,6.2,High Density,NA,2020-05-19,GR
+Green Rock,GR1,05/19/2020,10,13:00:00,50,12,GlobalReef,4,N,HC,SUBM,40,10.5,High Density,NA,2020-05-19,GR
+Green Rock,GR1,05/19/2020,10,13:00:00,50,12,GlobalReef,5,Y,RK,NA,45,8,High Density,NA,2020-05-19,GR
+Green Rock,GR1,05/19/2020,10,13:00:00,50,12,GlobalReef,6,N,RU,NA,50,12.2,High Density,NA,2020-05-19,GR
+Green Rock,GR1,05/19/2020,10,13:00:00,50,12,GlobalReef,7,N,RK,NA,45,11.5,High Density,NA,2020-05-19,GR
+Green Rock,GR1,05/19/2020,10,13:00:00,50,12,GlobalReef,8,N,HC,ENC,45,9.8,High Density,NA,2020-05-19,GR
+Green Rock,GR1,05/19/2020,10,13:00:00,50,12,GlobalReef,9,N,HC,SUBM,50,11,High Density,NA,2020-05-19,GR
+Green Rock,GR2,05/19/2020,10,15:00:00,50,12,GlobalReef,1,N,HC,ENC,40,10.2,High Density,NA,2020-05-19,GR
+Green Rock,GR2,05/19/2020,10,15:00:00,50,12,GlobalReef,2,N,HC,SUBM,30,10.8,High Density,NA,2020-05-19,GR
+Green Rock,GR2,05/19/2020,10,15:00:00,50,12,GlobalReef,3,N,HC,ENC,40,11.5,High Density,NA,2020-05-19,GR
+Green Rock,GR2,05/19/2020,10,15:00:00,50,12,GlobalReef,4,N,HC,ENC,15,11.3,High Density,NA,2020-05-19,GR
+Green Rock,GR2,05/19/2020,10,15:00:00,50,12,GlobalReef,5,N,RK,NA,20,11.7,High Density,NA,2020-05-19,GR
+Green Rock,GR2,05/19/2020,10,15:00:00,50,12,GlobalReef,6,Y,HC,SUBM,45,10.5,High Density,NA,2020-05-19,GR
+Green Rock,GR2,05/19/2020,10,15:00:00,50,12,GlobalReef,7,N,HC,ENC,45,7.8,High Density,NA,2020-05-19,GR
+Green Rock,GR2,05/19/2020,10,15:00:00,50,12,GlobalReef,8,N,HC,ENC,35,7.2,High Density,NA,2020-05-19,GR
+Green Rock,GR2,05/19/2020,10,15:00:00,50,12,GlobalReef,9,N,HC,ENC,50,10.8,High Density,NA,2020-05-19,GR
+Green Rock,GR2,05/19/2020,10,15:00:00,50,12,GlobalReef,10,N,HC,ENC,50,9.5,High Density,NA,2020-05-19,GR
+Green Rock,GR3,05/26/2020,10,15:00:00,50,12,GlobalReef,1,N,RK,NA,40,11.5,High Density,NA,2020-05-26,GR
+Green Rock,GR3,05/26/2020,10,15:00:00,50,12,GlobalReef,2,Y,RK,NA,20,10,High Density,NA,2020-05-26,GR
+Green Rock,GR3,05/26/2020,10,15:00:00,50,12,GlobalReef,3,Y,RK,NA,40,11,High Density,NA,2020-05-26,GR
+Green Rock,GR3,05/26/2020,10,15:00:00,50,12,GlobalReef,4,N,HC,MASS,15,11,High Density,NA,2020-05-26,GR
+Green Rock,GR3,05/26/2020,10,15:00:00,50,12,GlobalReef,5,N,HC,SUBM,50,10,High Density,NA,2020-05-26,GR
+Green Rock,GR3,05/26/2020,10,15:00:00,50,12,GlobalReef,6,N,HC,SUBM,30,10,High Density,NA,2020-05-26,GR
+Green Rock,GR3,05/26/2020,10,15:00:00,50,12,GlobalReef,7,N,HC,SUBM,40,11,High Density,NA,2020-05-26,GR
+Green Rock,GR3,05/26/2020,10,15:00:00,50,12,GlobalReef,8,Y,RU,NA,40,14.5,High Density,NA,2020-05-26,GR
+Green Rock,GR3,05/26/2020,10,15:00:00,50,12,GlobalReef,9,N,RU,NA,40,9.5,High Density,NA,2020-05-26,GR
+Green Rock,GR3,05/26/2020,10,15:00:00,50,12,GlobalReef,10,N,HC,SUBM,40,10.5,High Density,NA,2020-05-26,GR
+Green Rock,GR4,07/13/2020,10,13:00:00,45,12,GlobalReef,1,Y,HC,SUBM,30,10,High Density,NA,2020-07-13,GR
+Green Rock,GR4,07/13/2020,10,13:00:00,45,12,GlobalReef,2,N,RU,NA,30,10,High Density,NA,2020-07-13,GR
+Green Rock,GR4,07/13/2020,10,13:00:00,45,12,GlobalReef,3,N,RK,NA,35,11.5,High Density,NA,2020-07-13,GR
+Green Rock,GR4,07/13/2020,10,13:00:00,45,12,GlobalReef,4,N,HC,TAB,40,11,High Density,NA,2020-07-13,GR
+Green Rock,GR4,07/13/2020,10,13:00:00,45,12,GlobalReef,5,N,HC,ENC,40,10,High Density,NA,2020-07-13,GR
+Green Rock,GR4,07/13/2020,10,13:00:00,45,12,GlobalReef,6,N,HC,SUBM,40,9.5,High Density,NA,2020-07-13,GR
+Green Rock,GR4,07/13/2020,10,13:00:00,45,12,GlobalReef,7,N,HC,ENC,40,13,High Density,NA,2020-07-13,GR
+Green Rock,GR4,07/13/2020,10,13:00:00,45,12,GlobalReef,8,N,HC,ARB,40,9.5,High Density,NA,2020-07-13,GR
+Green Rock,GR4,07/13/2020,10,13:00:00,45,12,GlobalReef,9,N,HC,SUBM,30,9.5,High Density,NA,2020-07-13,GR
+Green Rock,GR4,07/13/2020,10,13:00:00,45,12,GlobalReef,10,N,HC,ENC,40,8,High Density,NA,2020-07-13,GR
+Green Rock,GR4,07/13/2020,10,13:00:00,45,12,GlobalReef,11,N,HC,ENC,40,13,High Density,NA,2020-07-13,GR
+Green Rock,GR5,07/13/2020,10,15:00:00,45,12,GlobalReef,1,N,RK,NA,40,10.5,High Density,NA,2020-07-13,GR
+Green Rock,GR5,07/13/2020,10,15:00:00,45,12,GlobalReef,2,N,HC,TAB,45,11,High Density,NA,2020-07-13,GR
+Green Rock,GR5,07/13/2020,10,15:00:00,45,12,GlobalReef,3,N,RU,NA,45,10,High Density,NA,2020-07-13,GR
+Green Rock,GR5,07/13/2020,10,15:00:00,45,12,GlobalReef,4,N,RU,NA,50,9.5,High Density,NA,2020-07-13,GR
+Green Rock,GR5,07/13/2020,10,15:00:00,45,12,GlobalReef,5,N,HC,SUBM,25,9.5,High Density,NA,2020-07-13,GR
+Green Rock,GR5,07/13/2020,10,15:00:00,45,12,GlobalReef,6,N,RK,NA,35,12.5,High Density,NA,2020-07-13,GR
+Green Rock,GR5,07/13/2020,10,15:00:00,45,12,GlobalReef,7,N,HC,ARB,40,9.5,High Density,NA,2020-07-13,GR
+Green Rock,GR5,07/13/2020,10,15:00:00,45,12,GlobalReef,8,N,RK,NA,35,10,High Density,NA,2020-07-13,GR
+Green Rock,GR5,07/13/2020,10,15:00:00,45,12,GlobalReef,9,N,HC,SUBM,45,8,High Density,NA,2020-07-13,GR
+Green Rock,GR6,07/19/2020,10,13:00:00,50,12,GlobalReef,1,Y,HC,SUBM,40,9.5,High Density,NA,2020-07-19,GR
+Green Rock,GR6,07/19/2020,10,13:00:00,50,12,GlobalReef,2,N,RU,NA,40,11,High Density,NA,2020-07-19,GR
+Green Rock,GR6,07/19/2020,10,13:00:00,50,12,GlobalReef,3,Y,HC,ENC,40,9,High Density,NA,2020-07-19,GR
+Green Rock,GR7,08/06/2020,10,13:00:00,45,18,GlobalReef,1,N,RK,NA,25,10.5,High Density,NA,2020-08-06,GR
+Green Rock,GR7,08/06/2020,10,13:00:00,45,18,GlobalReef,2,Y,HC,SUBM,35,7.5,High Density,NA,2020-08-06,GR
+Green Rock,GR7,08/06/2020,10,13:00:00,45,18,GlobalReef,3,Y,HC,SUBM,30,10,High Density,NA,2020-08-06,GR
+Green Rock,GR7,08/06/2020,10,13:00:00,45,18,GlobalReef,4,Y,HC,SUBM,30,10.5,High Density,NA,2020-08-06,GR
+Green Rock,GR7,08/06/2020,10,13:00:00,45,18,GlobalReef,5,Y,HC,FOL,30,9.5,High Density,NA,2020-08-06,GR
+Green Rock,GR7,08/06/2020,10,13:00:00,45,18,GlobalReef,6,Y,HC,ENC,40,11,High Density,NA,2020-08-06,GR
+Green Rock,GR7,08/06/2020,10,13:00:00,45,18,GlobalReef,7,Y,HC,SOL,45,10,High Density,NA,2020-08-06,GR
+Green Rock,GR7,08/06/2020,10,13:00:00,45,18,GlobalReef,8,N,HC,ENC,35,9.5,High Density,NA,2020-08-06,GR
+Green Rock,GR8,08/15/2020,10,13:00:00,45,12,GlobalReef,1,N,RU,NA,40,11.5,High Density,NA,2020-08-15,GR
+Green Rock,GR8,08/15/2020,10,13:00:00,45,12,GlobalReef,2,N,RU,NA,35,12.5,High Density,NA,2020-08-15,GR
+Green Rock,GR8,08/15/2020,10,13:00:00,45,12,GlobalReef,3,N,HC,ENC,40,12.5,High Density,NA,2020-08-15,GR
+Green Rock,GR8,08/15/2020,10,13:00:00,45,12,GlobalReef,4,N,HC,SUBM,30,10,High Density,NA,2020-08-15,GR
+Green Rock,GR8,08/15/2020,10,13:00:00,45,12,GlobalReef,5,N,RK,NA,40,14,High Density,NA,2020-08-15,GR
+Green Rock,GR8,08/15/2020,10,13:00:00,45,12,GlobalReef,6,Y,HC,SUBM,40,10.5,High Density,NA,2020-08-15,GR
+Green Rock,GR8,08/15/2020,10,13:00:00,45,12,GlobalReef,7,N,HC,SUBM,45,10,High Density,NA,2020-08-15,GR
+Green Rock,GR9,08/16/2020,8,13:00:00,45,12,GlobalReef,1,N,HC,SUBM,25,8,High Density,NA,2020-08-16,GR
+Green Rock,GR9,08/16/2020,8,13:00:00,45,12,GlobalReef,2,N,RK,NA,40,11,High Density,NA,2020-08-16,GR
+Green Rock,GR9,08/16/2020,8,13:00:00,45,12,GlobalReef,3,N,RU,NA,35,11.5,High Density,NA,2020-08-16,GR
+Green Rock,GR9,08/16/2020,8,13:00:00,45,12,GlobalReef,4,N,RK,NA,40,8.5,High Density,NA,2020-08-16,GR
+Green Rock,GR9,08/16/2020,8,13:00:00,45,12,GlobalReef,5,N,HC,CB,45,8,High Density,NA,2020-08-16,GR
+Green Rock,GR9,08/16/2020,8,13:00:00,45,12,GlobalReef,6,N,HC,SUBM,40,8,High Density,NA,2020-08-16,GR
+Green Rock,GR9,08/16/2020,8,13:00:00,45,12,GlobalReef,7,Y,HC,ENC,40,11.5,High Density,NA,2020-08-16,GR
+Green Rock,GR10,08/18/2020,12,13:00:00,45,12,GlobalReef,1,N,HC,ENC,25,8,High Density,NA,2020-08-18,GR
+Green Rock,GR10,08/18/2020,12,13:00:00,45,12,GlobalReef,2,Y,RK,NA,35,12,High Density,NA,2020-08-18,GR
+Green Rock,GR10,08/18/2020,12,13:00:00,45,12,GlobalReef,3,N,HC,FOL,40,12,High Density,NA,2020-08-18,GR
+Green Rock,GR10,08/18/2020,12,13:00:00,45,12,GlobalReef,4,N,RK,NA,35,12,High Density,NA,2020-08-18,GR
+Green Rock,GR10,08/18/2020,12,13:00:00,45,12,GlobalReef,5,N,RK,NA,40,13.5,High Density,NA,2020-08-18,GR
+Green Rock,GR10,08/18/2020,12,13:00:00,45,12,GlobalReef,6,N,HC,MASS,45,13.5,High Density,NA,2020-08-18,GR
+Green Rock,GR10,08/18/2020,12,13:00:00,45,12,GlobalReef,7,N,HC,SUBM,35,10,High Density,NA,2020-08-18,GR
+Green Rock,GR10,08/18/2020,12,13:00:00,45,12,GlobalReef,8,N,HC,SUBM,35,10.5,High Density,NA,2020-08-18,GR
+Green Rock,GR10,08/18/2020,12,13:00:00,45,12,GlobalReef,9,N,RK,NA,30,13,High Density,NA,2020-08-18,GR
+Green Rock,GR11,08/21/2020,12,13:00:00,45,12,GlobalReef,1,N,HC,ENC,40,13,High Density,NA,2020-08-21,GR
+Green Rock,GR11,08/21/2020,12,13:00:00,45,12,GlobalReef,2,N,SP,NA,45,9.5,High Density,NA,2020-08-21,GR
+Green Rock,GR11,08/21/2020,12,13:00:00,45,12,GlobalReef,3,N,AB,NA,45,13,High Density,NA,2020-08-21,GR
+Green Rock,GR11,08/21/2020,12,13:00:00,45,12,GlobalReef,4,N,HC,SUBM,40,10.5,High Density,NA,2020-08-21,GR
+Green Rock,GR12,08/21/2020,6,15:00:00,45,18,GlobalReef,1,N,HC,ENC,40,7,High Density,NA,2020-08-21,GR
+Green Rock,GR12,08/21/2020,6,15:00:00,45,18,GlobalReef,2,N,HC,ARB,30,7.5,High Density,NA,2020-08-21,GR
+Green Rock,GR12,08/21/2020,6,15:00:00,45,18,GlobalReef,3,N,RK,NA,40,8,High Density,NA,2020-08-21,GR
+Green Rock,GR12,08/21/2020,6,15:00:00,45,18,GlobalReef,4,N,HC,ARB,40,8,High Density,NA,2020-08-21,GR
+Green Rock,GR12,08/21/2020,6,15:00:00,45,18,GlobalReef,5,Y,HC,MASS,40,8,High Density,NA,2020-08-21,GR
+Green Rock,GR12,08/21/2020,6,15:00:00,45,18,GlobalReef,6,N,HC,ARB,15,7,High Density,NA,2020-08-21,GR
+Green Rock,GR13,09/22/2020,10,13:00:00,45,7,GlobalReef,1,N,HC,SUBM,40,8.5,High Density,NA,2020-09-22,GR
+Green Rock,GR13,09/22/2020,10,13:00:00,45,7,GlobalReef,2,N,HC,ENC,50,8,High Density,NA,2020-09-22,GR
+Green Rock,GR13,09/22/2020,10,13:00:00,45,7,GlobalReef,3,N,RU,NA,35,8.5,High Density,NA,2020-09-22,GR
+Green Rock,GR13,09/22/2020,10,13:00:00,45,7,GlobalReef,4,N,RK,NA,55,9,High Density,NA,2020-09-22,GR
+Green Rock,GR13,09/22/2020,10,13:00:00,45,7,GlobalReef,5,N,RK,NA,40,10.5,High Density,NA,2020-09-22,GR
+Green Rock,GR13,09/22/2020,10,13:00:00,45,7,GlobalReef,6,Y,SP,NA,40,11.5,High Density,NA,2020-09-22,GR
+Green Rock,GR13,09/22/2020,10,13:00:00,45,7,GlobalReef,7,N,HC,SUBM,50,11,High Density,NA,2020-09-22,GR
+Green Rock,GR13,09/22/2020,10,13:00:00,45,7,GlobalReef,8,Y,HC,ENC,50,11,High Density,NA,2020-09-22,GR
+Green Rock,GR14,09/27/2020,10,13:00:00,45,18,GlobalReef,1,Y,HC,CB,45,10.5,High Density,NA,2020-09-27,GR
+Green Rock,GR14,09/27/2020,10,13:00:00,45,18,GlobalReef,2,Y,HC,ENC,50,9,High Density,NA,2020-09-27,GR
+Green Rock,GR14,09/27/2020,10,13:00:00,45,18,GlobalReef,3,Y,RK,NA,40,11,High Density,NA,2020-09-27,GR
+Green Rock,GR14,09/27/2020,10,13:00:00,45,18,GlobalReef,4,N,RK,NA,45,11.5,High Density,NA,2020-09-27,GR
+Green Rock,GR14,09/27/2020,10,13:00:00,45,18,GlobalReef,5,N,RK,NA,30,10.5,High Density,NA,2020-09-27,GR
+Green Rock,GR14,09/27/2020,10,13:00:00,45,18,GlobalReef,6,N,AB,NA,50,11.5,High Density,NA,2020-09-27,GR
+Green Rock,GR14,09/27/2020,10,13:00:00,45,18,GlobalReef,7,N,HC,ENC,45,11.5,High Density,NA,2020-09-27,GR
+Green Rock,GR14,09/27/2020,10,13:00:00,45,18,GlobalReef,8,N,HC,ENC,40,10.5,High Density,NA,2020-09-27,GR
+Green Rock,GR14,09/27/2020,10,13:00:00,45,18,GlobalReef,9,Y,HC,ENC,50,11,High Density,NA,2020-09-27,GR
+Green Rock,GR15,09/29/2020,10,13:00:00,45,18,GlobalReef,1,N,HC,SUBM,40,10.5,High Density,NA,2020-09-29,GR
+Green Rock,GR15,09/29/2020,10,13:00:00,45,18,GlobalReef,2,N,HC,ENC,40,7.5,High Density,NA,2020-09-29,GR
+Green Rock,GR15,09/29/2020,10,13:00:00,45,18,GlobalReef,3,N,RK,NA,25,10,High Density,NA,2020-09-29,GR
+Green Rock,GR15,09/29/2020,10,13:00:00,45,18,GlobalReef,4,N,HC,ENC,45,11,High Density,NA,2020-09-29,GR
+Green Rock,GR15,09/29/2020,10,13:00:00,45,18,GlobalReef,5,Y,RK,NA,45,11,High Density,NA,2020-09-29,GR
+Green Rock,GR15,09/29/2020,10,13:00:00,45,18,GlobalReef,6,N,RK,NA,45,11,High Density,NA,2020-09-29,GR
+Green Rock,GR15,09/29/2020,10,13:00:00,45,18,GlobalReef,7,N,RK,FOL,30,10,High Density,NA,2020-09-29,GR
+Green Rock,GR15,09/29/2020,10,13:00:00,45,18,GlobalReef,8,Y,NA,NA,50,10.5,High Density,NA,2020-09-29,GR
+Green Rock,GR15,09/29/2020,10,13:00:00,45,18,GlobalReef,9,N,HC,ENC,55,9,High Density,NA,2020-09-29,GR
+Green Rock,GR16,10/20/2022,10,13:00:00,45,18,GlobalReef,1,N,RK,NA,25,8.5,High Density,NA,2022-10-20,GR
+Green Rock,GR16,10/20/2022,10,13:00:00,45,18,GlobalReef,2,N,HC,FOL,35,12,High Density,NA,2022-10-20,GR
+Green Rock,GR16,10/20/2022,10,13:00:00,45,18,GlobalReef,3,Y,RU,NA,35,12.5,High Density,NA,2022-10-20,GR
+Green Rock,GR16,10/20/2022,10,13:00:00,45,18,GlobalReef,4,N,RK,NA,40,11.5,High Density,NA,2022-10-20,GR
+Green Rock,GR16,10/20/2022,10,13:00:00,45,18,GlobalReef,5,N,RK,NA,40,12,High Density,NA,2022-10-20,GR
+Green Rock,GR16,10/20/2022,10,13:00:00,45,18,GlobalReef,6,N,HC,ENC,35,12.5,High Density,NA,2022-10-20,GR
+Green Rock,GR16,10/20/2022,10,13:00:00,45,18,GlobalReef,7,N,RK,NA,40,10.5,High Density,NA,2022-10-20,GR
+Green Rock,GR16,10/20/2022,10,13:00:00,45,18,GlobalReef,8,N,RK,NA,40,10.5,High Density,NA,2022-10-20,GR
+Green Rock,GR16,10/20/2022,10,13:00:00,45,18,GlobalReef,9,Y,RK,NA,40,11.5,High Density,NA,2022-10-20,GR
+Green Rock,GR16,10/20/2022,10,13:00:00,45,18,GlobalReef,10,N,HC,ENC,45,11.5,High Density,NA,2022-10-20,GR
+Green Rock,GR17,11/22/2022,10,13:00:00,45,7,GlobalReef,1,Y,RK,NA,35,12.5,High Density,NA,2022-11-22,GR
+Green Rock,GR17,11/22/2022,10,13:00:00,45,7,GlobalReef,2,N,HC,ENC,40,12.5,High Density,NA,2022-11-22,GR
+Green Rock,GR17,11/22/2022,10,13:00:00,45,7,GlobalReef,3,Y,HC,SUBM,45,13.4,High Density,NA,2022-11-22,GR
+Green Rock,GR17,11/22/2022,10,13:00:00,45,7,GlobalReef,4,N,HC,ENC,40,12.5,High Density,NA,2022-11-22,GR
+Green Rock,GR17,11/22/2022,10,13:00:00,45,7,GlobalReef,5,N,RK,NA,45,14.1,High Density,NA,2022-11-22,GR
+Green Rock,GR17,11/22/2022,10,13:00:00,45,7,GlobalReef,6,N,RK,NA,40,14.6,High Density,NA,2022-11-22,GR
+Green Rock,GR18,10/04/2023,13,08:00:00,30,12,GlobalReef,1,Y,HC,NA,40,15,High Density,NA,2023-10-04,GR
+Green Rock,GR18,10/04/2023,13,08:00:00,30,12,GlobalReef,2,Y,HC,NA,45,14,High Density,NA,2023-10-04,GR
+Green Rock,GR18,10/04/2023,13,08:00:00,30,12,GlobalReef,3,N,HC,NA,35,13,High Density,NA,2023-10-04,GR
+Green Rock,GR18,10/04/2023,13,08:00:00,30,12,GlobalReef,4,N,HC,NA,40,10,High Density,NA,2023-10-04,GR
+Green Rock,GR18,10/04/2023,13,08:00:00,30,12,GlobalReef,5,Y,HC,NA,40,15,High Density,NA,2023-10-04,GR
+Green Rock,GR19,02/03/2024,12,08:00:00,20,12,GlobalReef,1,N,HC,NA,40,10.2,High Density,NA,2024-02-03,GR
+Green Rock,GR19,02/03/2024,12,08:00:00,20,12,GlobalReef,2,Y,RK,NA,40,11,High Density,NA,2024-02-03,GR
+Green Rock,GR19,02/03/2024,12,08:00:00,20,12,GlobalReef,3,Y,HC,NA,40,10,High Density,NA,2024-02-03,GR
+Green Rock,GR20,02/20/2024,11,08:00:00,20,12,GlobalReef,1,Y,RK,NA,50,8,High Density,NA,2024-02-20,GR
+Green Rock,GR20,02/20/2024,11,08:00:00,20,12,GlobalReef,2,Y,HC,NA,45,10,High Density,NA,2024-02-20,GR
+Green Rock,GR20,02/20/2024,11,08:00:00,20,12,GlobalReef,3,N,HC,NA,50,10,High Density,NA,2024-02-20,GR
+Green Rock,GR20,02/20/2024,11,08:00:00,20,12,GlobalReef,4,Y,HC,NA,40,10,High Density,NA,2024-02-20,GR
+Green Rock,GR20,02/20/2024,11,08:00:00,20,12,GlobalReef,5,N,HC,NA,45,11,High Density,NA,2024-02-20,GR
+Green Rock,GR20,02/20/2024,11,08:00:00,20,12,GlobalReef,6,Y,HC,NA,30,11,High Density,NA,2024-02-20,GR
+Green Rock,GR20,02/20/2024,11,08:00:00,20,12,GlobalReef,7,Y,HC,NA,50,10,High Density,NA,2024-02-20,GR
+Green Rock,GR20,02/20/2024,11,08:00:00,20,12,GlobalReef,8,Y,HC,NA,60,11,High Density,NA,2024-02-20,GR
+Green Rock,GR20,02/20/2024,11,08:00:00,20,12,GlobalReef,9,Y,HC,NA,50,9,High Density,NA,2024-02-20,GR
+Green Rock,GR20,02/20/2024,11,08:00:00,20,12,GlobalReef,10,N,RK,NA,45,8,High Density,NA,2024-02-20,GR
+Green Rock,GR20,02/20/2024,11,08:00:00,20,12,GlobalReef,11,N,RK,NA,45,9,High Density,NA,2024-02-20,GR
+Green Rock,GR21,03/25/2024,10,08:00:00,20,NA,GlobalReef,1,N,HC,NA,40,12,High Density,NA,2024-03-25,GR
+Green Rock,GR21,03/25/2024,10,08:00:00,20,NA,GlobalReef,2,N,HC,NA,40,13,High Density,NA,2024-03-25,GR
+Green Rock,GR21,03/25/2024,10,08:00:00,20,NA,GlobalReef,3,N,RK,NA,40,13,High Density,NA,2024-03-25,GR
+Green Rock,GR21,03/25/2024,10,08:00:00,20,NA,GlobalReef,4,N,HC,NA,40,10,High Density,NA,2024-03-25,GR
+Green Rock,GR21,03/25/2024,10,08:00:00,20,NA,GlobalReef,5,N,HC,NA,40,13,High Density,NA,2024-03-25,GR
+Green Rock,GR22,04/09/2024,10,07:30:00,30,10,GlobalReef,1,Y,SC,NA,46,13,High Density,NA,2024-04-09,GR
+Green Rock,GR22,04/09/2024,10,07:30:00,30,10,GlobalReef,2,N,RK,NA,52,11,High Density,NA,2024-04-09,GR
+Green Rock,GR22,04/09/2024,10,07:30:00,30,10,GlobalReef,3,Y,HC,NA,66,11,High Density,NA,2024-04-09,GR
+Green Rock,GR22,04/09/2024,10,07:30:00,30,10,GlobalReef,4,N,HC,NA,53,8,High Density,NA,2024-04-09,GR
+Green Rock,GR22,04/09/2024,10,07:30:00,30,10,GlobalReef,5,N,RK,NA,40,8,High Density,NA,2024-04-09,GR
+Green Rock,GR22,04/09/2024,10,07:30:00,30,10,GlobalReef,6,N,HC,NA,50,9,High Density,NA,2024-04-09,GR
+Green Rock,GR22,04/09/2024,10,07:30:00,30,10,GlobalReef,7,Y,NA,NA,44,9,High Density,NA,2024-04-09,GR
+Green Rock,GR23,04/16/2024,13,08:00:00,21,12,GlobalReef,1,Y,HC,NA,50,15,High Density,NA,2024-04-16,GR
+Green Rock,GR23,04/16/2024,13,08:00:00,21,12,GlobalReef,2,N,RK,NA,44,11,High Density,NA,2024-04-16,GR
+Green Rock,GR23,04/16/2024,13,08:00:00,21,12,GlobalReef,3,N,RK,NA,46,11,High Density,NA,2024-04-16,GR
+Green Rock,GR23,04/16/2024,13,08:00:00,21,12,GlobalReef,4,N,HC,NA,48,10,High Density,NA,2024-04-16,GR
+Green Rock,GR23,04/16/2024,13,08:00:00,21,12,GlobalReef,5,N,RK,NA,47,12,High Density,NA,2024-04-16,GR
+Green Rock,GR23,04/16/2024,13,08:00:00,21,12,GlobalReef,6,N,RK,NA,55,14,High Density,NA,2024-04-16,GR
+Green Rock,GR23,04/16/2024,13,08:00:00,21,12,GlobalReef,7,N,HC,NA,48,15,High Density,NA,2024-04-16,GR
+Green Rock,GR23,04/16/2024,13,08:00:00,21,12,GlobalReef,8,N,RK,NA,56,11,High Density,NA,2024-04-16,GR
+Green Rock,GR24,06/04/2024,11,08:00:00,23,20,GlobalReef,1,N,HC,NA,40,11,High Density,NA,2024-06-04,GR
+Green Rock,GR24,06/04/2024,11,08:00:00,23,20,GlobalReef,2,Y,HC,NA,48,9,High Density,NA,2024-06-04,GR
+Green Rock,GR24,06/04/2024,11,08:00:00,23,20,GlobalReef,3,N,RK,NA,40,13,High Density,NA,2024-06-04,GR
+Green Rock,GR24,06/04/2024,11,08:00:00,23,20,GlobalReef,4,N,RK,NA,44,11,High Density,NA,2024-06-04,GR
+Green Rock,GR24,06/04/2024,11,08:00:00,23,20,GlobalReef,5,N,RK,NA,50,14,High Density,NA,2024-06-04,GR
+Green Rock,GR24,06/04/2024,11,08:00:00,23,20,GlobalReef,6,N,RK,NA,50,12.8,High Density,NA,2024-06-04,GR
+Green Rock,GR24,06/04/2024,11,08:00:00,23,20,GlobalReef,7,Y,HC,NA,45,13,High Density,NA,2024-06-04,GR
+Green Rock,GR24,06/04/2024,11,08:00:00,23,20,GlobalReef,8,N,RK,NA,50,11,High Density,NA,2024-06-04,GR
+Green Rock,GR25,08/03/2024,11,08:00:00,28,20,GlobalReef,1,N,HC,NA,47,10,High Density,NA,2024-08-03,GR
+Green Rock,GR25,08/03/2024,11,08:00:00,28,20,GlobalReef,2,N,HC,NA,42,8,High Density,NA,2024-08-03,GR
+Green Rock,GR25,08/03/2024,11,08:00:00,28,20,GlobalReef,3,N,HC,NA,38,10,High Density,NA,2024-08-03,GR
+Green Rock,GR25,08/03/2024,11,08:00:00,28,20,GlobalReef,4,Y,HC,NA,46,12,High Density,NA,2024-08-03,GR
+Green Rock,GR25,08/03/2024,11,08:00:00,28,20,GlobalReef,5,N,HC,NA,50,12,High Density,NA,2024-08-03,GR
+Green Rock,GR25,08/03/2024,11,08:00:00,28,20,GlobalReef,6,N,HC,NA,47,11,High Density,NA,2024-08-03,GR
+Green Rock,GR26,08/26/2024,10,08:00:00,35,20,GlobalReef,1,N,HC,NA,52,12,High Density,NA,2024-08-26,GR
+Green Rock,GR26,08/26/2024,10,08:00:00,35,20,GlobalReef,2,N,HC,NA,46,10,High Density,NA,2024-08-26,GR
+Green Rock,GR26,08/26/2024,10,08:00:00,35,20,GlobalReef,3,N,HC,NA,49,9,High Density,NA,2024-08-26,GR
+Green Rock,GR26,08/26/2024,10,08:00:00,35,20,GlobalReef,4,Y,HC,NA,38,9.5,High Density,NA,2024-08-26,GR
+Green Rock,GR26,08/26/2024,10,08:00:00,35,20,GlobalReef,5,N,HC,NA,42,10.6,High Density,NA,2024-08-26,GR
+Green Rock,GR26,08/26/2024,10,08:00:00,35,20,GlobalReef,6,N,HC,NA,30,10,High Density,NA,2024-08-26,GR
+Green Rock,GR26,08/26/2024,10,08:00:00,35,20,GlobalReef,7,Y,HC,NA,52,9.5,High Density,NA,2024-08-26,GR
+Green Rock,GR26,08/26/2024,10,08:00:00,35,20,GlobalReef,8,N,AB,NA,50,12,High Density,NA,2024-08-26,GR
+Green Rock,GR26,08/26/2024,10,08:00:00,35,20,GlobalReef,9,N,RK,NA,53,15,High Density,NA,2024-08-26,GR
+Green Rock,GR26,08/26/2024,10,08:00:00,35,20,GlobalReef,10,N,AB,NA,44,12,High Density,NA,2024-08-26,GR
+Green Rock,GR26,08/26/2024,10,08:00:00,35,20,GlobalReef,11,N,HC,NA,51,12.5,High Density,NA,2024-08-26,GR
+Green Rock,GR26,08/26/2024,10,08:00:00,35,20,GlobalReef,12,N,RK,NA,50,12,High Density,NA,2024-08-26,GR
+Green Rock,GR26,08/26/2024,10,08:00:00,35,20,GlobalReef,13,N,HC,NA,54,11.5,High Density,NA,2024-08-26,GR
+Green Rock,GR26,08/26/2024,10,08:00:00,35,20,GlobalReef,14,N,HC,NA,49,10,High Density,NA,2024-08-26,GR
+Green Rock,GR27,10/16/2024,12,08:00:00,45,12,GlobalReef,1,N,HC,NA,38,13.6,High Density,NA,2024-10-16,GR
+Green Rock,GR27,10/16/2024,12,08:00:00,45,12,GlobalReef,2,N,HC,NA,36,10.6,High Density,NA,2024-10-16,GR
+Green Rock,GR27,10/16/2024,12,08:00:00,45,12,GlobalReef,3,N,RK,NA,36,11.7,High Density,NA,2024-10-16,GR
+Green Rock,GR27,10/16/2024,12,08:00:00,45,12,GlobalReef,4,Y,HC,NA,52,10.3,High Density,NA,2024-10-16,GR
+Green Rock,GR27,10/16/2024,12,08:00:00,45,12,GlobalReef,5,N,HC,NA,41,9.9,High Density,NA,2024-10-16,GR
+Green Rock,GR27,10/16/2024,12,08:00:00,45,12,GlobalReef,6,N,RK,NA,36,11.1,High Density,NA,2024-10-16,GR
+Green Rock,GR27,10/16/2024,12,08:00:00,45,12,GlobalReef,7,N,RK,NA,39,11.2,High Density,NA,2024-10-16,GR
+Green Rock,GR27,10/16/2024,12,08:00:00,45,12,GlobalReef,8,N,RK,NA,41,11.2,High Density,NA,2024-10-16,GR
+Green Rock,GR27,10/16/2024,12,08:00:00,45,12,GlobalReef,9,Y,HC,NA,53,13.4,High Density,NA,2024-10-16,GR
+Green Rock,GR27,10/16/2024,12,08:00:00,45,12,GlobalReef,10,N,HC,NA,45,13.5,High Density,NA,2024-10-16,GR
+Green Rock,GR27,10/16/2024,12,08:00:00,45,12,GlobalReef,11,N,HC,NA,60,16,High Density,NA,2024-10-16,GR
+Green Rock,GR28,10/21/2024,12,08:00:00,45,12,GlobalReef,1,N,CCA,NA,44,12.8,High Density,NA,2024-10-21,GR
+Green Rock,GR28,10/21/2024,12,08:00:00,45,12,GlobalReef,2,Y,HC,NA,43,11.9,High Density,NA,2024-10-21,GR
+Green Rock,GR28,10/21/2024,12,08:00:00,45,12,GlobalReef,3,N,HC,NA,48,12.2,High Density,NA,2024-10-21,GR
+Green Rock,GR28,10/21/2024,12,08:00:00,45,12,GlobalReef,4,N,ALG,NA,11,14.1,High Density,NA,2024-10-21,GR
+Green Rock,GR29,01/29/2025,10,07:30:00,35,10,"Jen, Elise",1,Y,RK,NA,36,10,High Density,NA,2025-01-29,GR
+Green Rock,GR29,01/29/2025,10,07:30:00,35,10,"Jen, Elise",2,Y,HC,NA,37,9.7,High Density,NA,2025-01-29,GR
+Green Rock,GR29,01/29/2025,10,07:30:00,35,10,"Jen, Elise",3,N,RK,NA,45,13,High Density,NA,2025-01-29,GR
+Green Rock,GR29,01/29/2025,10,07:30:00,35,10,"Jen, Elise",4,N,HC,NA,46,11.8,High Density,NA,2025-01-29,GR
+Green Rock,GR29,01/29/2025,10,07:30:00,35,10,"Jen, Elise",5,N,HC,NA,39,10.5,High Density,NA,2025-01-29,GR
+Green Rock,GR29,01/29/2025,10,07:30:00,35,10,"Jen, Elise",6,Y,HC,NA,44,10,High Density,NA,2025-01-29,GR
+Green Rock,GR29,01/29/2025,10,07:30:00,35,10,"Jen, Elise",7,N,RK,NA,49,15,High Density,NA,2025-01-29,GR
+Green Rock,GR29,01/29/2025,10,07:30:00,35,10,"Jen, Elise",8,N,RK,NA,41,14.5,High Density,NA,2025-01-29,GR
+Green Rock,GR29,01/29/2025,10,07:30:00,35,10,"Jen, Elise",9,N,RK,NA,37.5,15.1,High Density,NA,2025-01-29,GR
+Green Rock,GR30,02/19/2025,10,07:30:00,35,10,"Olive, Martin",1,Y,HC,NA,45,9.1,High Density,NA,2025-02-19,GR
+Green Rock,GR30,02/19/2025,10,07:30:00,35,10,"Olive, Martin",2,N,RU,NA,56,10.9,High Density,NA,2025-02-19,GR
+Green Rock,GR30,02/19/2025,10,07:30:00,35,10,"Olive, Martin",3,N,RU,NA,44,12.4,High Density,NA,2025-02-19,GR
+Green Rock,GR30,02/19/2025,10,07:30:00,35,10,"Olive, Martin",4,N,RK,NA,53,12.2,High Density,NA,2025-02-19,GR
+Green Rock,GR31,02/28/2025,10,07:30:00,35,10,"Jen, Camille, Olive",1,N,RK,NA,46,10.1,High Density,NA,2025-02-28,GR
+Green Rock,GR31,02/28/2025,10,07:30:00,35,10,"Jen, Camille, Olive",2,Y,HC,NA,41,10.8,High Density,NA,2025-02-28,GR
+Green Rock,GR31,02/28/2025,10,07:30:00,35,10,"Jen, Camille, Olive",3,Y,HC,NA,36,8.5,High Density,NA,2025-02-28,GR
+Green Rock,GR32,03/19/2025,10.3,07:13:00,30,15,"Olive, Pheobe",1,N,RK,N/A,32,10,High Density,NA,2025-03-19,GR
+Green Rock,GR32,03/19/2025,10.3,07:13:00,30,15,"Olive, Pheobe",2,N,RK,N/A,36,12,High Density,NA,2025-03-19,GR
+Green Rock,GR32,03/19/2025,10.3,07:13:00,30,15,"Olive, Pheobe",3,N,HC,ENC,45,11,High Density,NA,2025-03-19,GR
+Green Rock,GR32,03/19/2025,10.3,07:13:00,30,15,"Olive, Pheobe",4,N,HC,ENC,36,9.5,High Density,NA,2025-03-19,GR
+Green Rock,GR33,03/26/2025,10.1,07:25:00,60,12,"Emma, Tessa",1,Y,RK,NA,43,9.7,High Density,NA,2025-03-26,GR
+Green Rock,GR33,03/26/2025,10.1,07:25:00,60,12,"Emma, Tessa",2,N,HC,SUBM/ENC,45,12.7,High Density,NA,2025-03-26,GR
+Green Rock,GR33,03/26/2025,10.1,07:25:00,60,12,"Emma, Tessa",3,N,HC,SUBM/ENC,46,11.6,High Density,NA,2025-03-26,GR
+Green Rock,GR33,03/26/2025,10.1,07:25:00,60,12,"Emma, Tessa",4,N,RK,NA,40,11.5,High Density,NA,2025-03-26,GR
+Green Rock,GR33,03/26/2025,10.1,07:25:00,60,12,"Emma, Tessa",5,N,HC,SUBM/ENC,48,11.1,High Density,NA,2025-03-26,GR
+Green Rock,GR33,03/26/2025,10.1,07:25:00,60,12,"Emma, Tessa",6,N,HC,FOL/ENC,39,10.9,High Density,NA,2025-03-26,GR
+Green Rock,GR33,03/26/2025,10.1,07:25:00,60,12,"Emma, Tessa",7,N,HC,SUBM,43,11,High Density,NA,2025-03-26,GR
+Green Rock,GR33,03/26/2025,10.1,07:25:00,60,12,"Emma, Tessa",8,N,HC,SUBM,44,9.8,High Density,NA,2025-03-26,GR
+Green Rock,GR33,03/26/2025,10.1,07:25:00,60,12,"Emma, Tessa",9,N,HC,SUBM,49,9.6,High Density,NA,2025-03-26,GR
+Green Rock,GR33,03/26/2025,10.1,07:25:00,60,12,"Emma, Tessa",10,N,RK,NA,48,11.4,High Density,NA,2025-03-26,GR
+Green Rock,GR34,04/22/2025,12,07:27:00,25,18,"Camille, Scarlett",1,N,HC,SUBM,49,8.6,High Density,NA,2025-04-22,GR
+Green Rock,GR34,04/22/2025,12,07:27:00,25,18,"Camille, Scarlett",2,N,HC,SUBM/ENC,44,8.3,High Density,NA,2025-04-22,GR
+Green Rock,GR35,05/21/2025,10.1,09:15:00,60,12,"Tessa, Niamh",1,N,RK,NA,52,12.5,High Density,NA,2025-05-21,GR
+Green Rock,GR35,05/21/2025,10.1,09:15:00,60,12,"Tessa, Niamh",2,N,RK,NA,55,10.5,High Density,NA,2025-05-21,GR
+Green Rock,GR35,05/21/2025,10.1,09:15:00,60,12,"Tessa, Niamh",3,Y,HC,NA,40,10.8,High Density,NA,2025-05-21,GR
+Green Rock,GR35,05/21/2025,10.1,09:15:00,60,12,"Tessa, Niamh",4,Y,HC,SUBM,43,10.2,High Density,NA,2025-05-21,GR
+Green Rock,GR36,06/05/2025,10,07:20:00,65,10,"Miera, Elena",1,Y,HC,SUBM,40,13.2,High Density,NA,2025-06-05,GR
+Green Rock,GR36,06/05/2025,10,07:20:00,65,10,"Miera, Elena",2,Y,HC,SUBM,43,10,High Density,NA,2025-06-05,GR
+Green Rock,GR36,06/05/2025,10,07:20:00,65,10,"Miera, Elena",3,Y,HC,SUBM/MASS,34,9.4,High Density,NA,2025-06-05,GR
+Green Rock,GR36,06/05/2025,10,07:20:00,65,10,"Miera, Elena",4,N,HC,SUBM,40,9.5,High Density,NA,2025-06-05,GR
+Green Rock,GR36,06/05/2025,10,07:20:00,65,10,"Miera, Elena",5,N,RK,NA,40,11.3,High Density,NA,2025-06-05,GR
+Green Rock,GR36,06/05/2025,10,07:20:00,65,10,"Miera, Elena",6,N,RK,NA,44,13.3,High Density,NA,2025-06-05,GR
+Green Rock,GR36,06/05/2025,10,07:20:00,65,10,"Miera, Elena",7,Y,HC,CAE,49,16.6,High Density,NA,2025-06-05,GR
+Green Rock,GR36,06/05/2025,10,07:20:00,65,10,"Miera, Elena",8,N,HC,SUBM,42,13.3,High Density,NA,2025-06-05,GR
+Green Rock,GR36,06/05/2025,10,07:20:00,65,10,"Miera, Elena",9,N,HC,DEAD CORAL,50,10.1,High Density,NA,2025-06-05,GR
+Green Rock,GR36,06/05/2025,10,07:20:00,65,10,"Miera, Elena",10,N,HC,SUBM,41,9.1,High Density,NA,2025-06-05,GR
+Green Rock,GR36,06/05/2025,10,07:20:00,65,10,"Miera, Elena",11,N,HC,MASS,41,11.3,High Density,NA,2025-06-05,GR
+Green Rock,GR37,09/16/25,11.2,07:37:00,50,13,"Ruby, Lily",1,N,RK,NA,29,11.8,High Density,NA,2025-09-16,GR
+Green Rock,GR37,09/16/25,11.2,07:37:00,50,13,"Ruby, Lily",2,Y,HC,ENC,38,9.6,High Density,NA,2025-09-16,GR
+Green Rock,GR37,09/16/25,11.2,07:37:00,50,13,"Ruby, Lily",3,Y,RK,NA,45,13.1,High Density,NA,2025-09-16,GR
+Green Rock,GR38,09/16/25,7.5,07:37:00,50,13,"Scar, Mathys",4,N,HC,ARB,27,8,High Density,NA,2025-09-16,GR
+Green Rock,GR38,09/16/25,7.5,07:37:00,50,13,"Scar, Mathys",5,N,RB,NA,40,10,High Density,NA,2025-09-16,GR
+Green Rock,GR38,09/16/25,7.5,07:37:00,50,13,"Scar, Mathys",6,N,HC,ENC,54,10.2,High Density,NA,2025-09-16,GR
+Green Rock,GR38,09/16/25,7.5,07:37:00,50,13,"Scar, Mathys",7,Y,RB,NA,42,7.7,High Density,NA,2025-09-16,GR
+Green Rock,GR38,09/16/25,7.5,07:37:00,50,13,"Scar, Mathys",8,Y,HC,ENC,50,8.3,High Density,NA,2025-09-16,GR
+Green Rock,GR38,09/16/25,7.5,07:37:00,50,13,"Scar, Mathys",9,N,RB,NA,50,8.3,High Density,NA,2025-09-16,GR
+Green Rock,GR38,09/16/25,7.5,07:37:00,50,13,"Scar, Mathys",10,Y,RB,NA,46,9.3,High Density,NA,2025-09-16,GR
+Green Rock,GR38,09/16/25,7.5,07:37:00,50,13,"Scar, Mathys",11,N,HC,SUBM,46,9.3,High Density,NA,2025-09-16,GR
+Green Rock,GR38,09/16/25,7.5,07:37:00,50,13,"Scar, Mathys",12,Y,HC,SUBM,41,7.7,High Density,NA,2025-09-16,GR
+Green Rock,GR38,09/16/25,7.5,07:37:00,50,13,"Scar, Mathys",13,Y,HC,ENC,44,9.3,High Density,NA,2025-09-16,GR
+Green Rock,GR38,09/16/25,7.5,07:37:00,50,13,"Scar, Mathys",14,Y,HC,SUBM,42,10.5,High Density,NA,2025-09-16,GR
+Green Rock,GR38,09/16/25,7.5,07:37:00,50,13,"Scar, Mathys",15,Y,HC,ENC,48,11.2,High Density,NA,2025-09-16,GR
+Green Rock,GR38,09/16/25,7.5,07:37:00,50,13,"Scar, Mathys",16,N,RK,NA,48,11,High Density,NA,2025-09-16,GR
+Green Rock,GR39,09/16/25,9.8,07:37:00,50,13,"Allie, Jake, Gav",1,N,RK,NA,27,11,High Density,NA,2025-09-16,GR
+Green Rock,GR39,09/16/25,9.8,07:37:00,50,13,"Allie, Jake, Gav",2,N,HC,NA,48,9.3,High Density,NA,2025-09-16,GR
+Green Rock,GR39,09/16/25,9.8,07:37:00,50,13,"Allie, Jake, Gav",3,N,HC,NA,43,9.2,High Density,NA,2025-09-16,GR
+Green Rock,GR39,09/16/25,9.8,07:37:00,50,13,"Allie, Jake, Gav",4,N,HC,NA,48,9.1,High Density,NA,2025-09-16,GR
+Green Rock,GR39,09/16/25,9.8,07:37:00,50,13,"Allie, Jake, Gav",5,Y,HC,NA,44,7.2,High Density,NA,2025-09-16,GR
+Green Rock,GR39,09/16/25,9.8,07:37:00,50,13,"Allie, Jake, Gav",6,N,HC,NA,46,9.3,High Density,NA,2025-09-16,GR
+Green Rock,GR39,09/16/25,9.8,07:37:00,50,13,"Allie, Jake, Gav",7,N,HC,NA,47,10.2,High Density,NA,2025-09-16,GR
+Green Rock,GR39,09/16/25,9.8,07:37:00,50,13,"Allie, Jake, Gav",8,N,HC,NA,43,10,High Density,NA,2025-09-16,GR
+Green Rock,GR39,09/16/25,9.8,07:37:00,50,13,"Allie, Jake, Gav",9,Y,HC,NA,47,10,High Density,NA,2025-09-16,GR
+Green Rock,GR39,09/16/25,9.8,07:37:00,50,13,"Allie, Jake, Gav",10,N,HC,ENC,47,12.1,High Density,NA,2025-09-16,GR
+Green Rock,GR39,09/16/25,9.8,07:37:00,50,13,"Allie, Jake, Gav",11,N,SA,NA,46,10.4,High Density,NA,2025-09-16,GR
+Green Rock,GR40,10/21/2025,12.7,07:20:00,22,10,"Agathe, Allie",1,N,HC,SM,43,9.3,High Density,NA,2025-10-21,GR
+Green Rock,GR40,10/21/2025,12.7,07:20:00,22,10,"Agathe, Allie",2,N,RK/SA,NA,44,14.9,High Density,NA,2025-10-21,GR
+Green Rock,GR40,10/21/2025,12.7,07:20:00,22,10,"Agathe, Allie",3,Y,HC,MA,47,14.7,High Density,NA,2025-10-21,GR
+Green Rock,GR41,01/19/2026,12,07:40:00,25,6,"Harri, Jess",1,N,HC,CAE,43,12,High Density,NA,2026-01-19,GR
+Green Rock,GR41,01/19/2026,12,07:40:00,25,6,"Harri, Jess",2,N,HC,TB,31,13.7,High Density,NA,2026-01-19,GR
+Green Rock,GR41,01/19/2026,12,07:40:00,25,6,"Harri, Jess",3,N,HC,SUB,40,11.4,High Density,NA,2026-01-19,GR
+Green Rock,GR41,01/19/2026,12,07:40:00,25,6,"Harri, Jess",4,N,HC,ENC,42,9.7,High Density,NA,2026-01-19,GR
+Green Rock,GR41,01/19/2026,12,07:40:00,25,6,"Harri, Jess",5,N,HC,ENC,35,11.1,High Density,NA,2026-01-19,GR
+Green Rock,GR41,01/19/2026,12,07:40:00,25,6,"Harri, Jess",6,N,HC,MA,40,12.4,High Density,NA,2026-01-19,GR
+Green Rock,GR42,02/10/2026,10,09:20:00,30,10,"Lowri, Kassia",1,Y,HC,ENC,49,9.7,High Density,NA,2026-02-10,GR
+Green Rock,GR42,02/10/2026,10,09:20:00,30,10,"Lowri, Kassia",2,Y,HC,SM,50,11.9,High Density,NA,2026-02-10,GR
+Green Rock,GR42,02/10/2026,10,09:20:00,30,10,"Lowri, Kassia",3,Y,HC,ENC,50,12,High Density,NA,2026-02-10,GR
+Green Rock,GR42,02/10/2026,10,09:20:00,30,10,"Lowri, Kassia",4,Y,SA,NA,28,9,High Density,NA,2026-02-10,GR
+Green Rock,GR42,02/10/2026,10,09:20:00,30,10,"Lowri, Kassia",5,Y,HC,SUB,34,11,High Density,NA,2026-02-10,GR
+Green Rock,GR42,02/10/2026,10,09:20:00,30,10,"Lowri, Kassia",6,N,HC,SOL,50,10.8,High Density,NA,2026-02-10,GR
+Green Rock,GR42,02/10/2026,10,09:20:00,30,10,"Lowri, Kassia",7,Y,HC,ENC,48,8.1,High Density,NA,2026-02-10,GR
+Green Rock,GR42,02/10/2026,10,09:20:00,30,10,"Lowri, Kassia",8,Y,HC,ENC/MASS,47,8.9,High Density,NA,2026-02-10,GR
+Green Rock,GR42,02/10/2026,10,09:20:00,30,10,"Lowri, Kassia",9,Y,HC,ENC,52,6.9,High Density,NA,2026-02-10,GR
+Green Rock,GR42,02/10/2026,10,09:20:00,30,10,"Lowri, Kassia",10,Y,HC,SUB,39,6.1,High Density,NA,2026-02-10,GR
+Green Rock,GR42,02/10/2026,10,09:20:00,30,10,"Lowri, Kassia",11,Y,HC,ENC,49,7.9,High Density,NA,2026-02-10,GR
+Green Rock,GR43,03/19/2026,10.4,07:29:00,30,6,"Beth, Lewis",1,N,RK,NA,45,10.4,High Density,MAYBE,2026-03-19,GR
+Green Rock,GR43,03/19/2026,10.4,07:29:00,30,6,"Beth, Lewis",2,N,RB,NA,55,12.6,High Density,MAYBE,2026-03-19,GR
+Green Rock,GR43,03/19/2026,10.4,07:29:00,30,6,"Beth, Lewis",3,Y,HC,TB,45,10.4,High Density,MAYBE,2026-03-19,GR
+Green Rock,GR43,03/19/2026,10.4,07:29:00,30,6,"Beth, Lewis",4,N,HC,TB,60,9.9,High Density,MAYBE,2026-03-19,GR
+Green Rock,GR44,04/15/2026,9.5,07:09:00,25,20,"Lucy, Max",1,N,HC,SMA,32,11.7,High Density,MAYBE,2026-04-15,GR
+Green Rock,GR44,04/15/2026,9.5,07:09:00,25,20,"Lucy, Max",2,N,RK,N/A,37,10.6,High Density,MAYBE,2026-04-15,GR
+Green Rock,GR45,05/22/2026,10,07:20:00,30,5,Lotte,1,N,RK,NA,49,10.4,High Density,MAYBE,2026-05-22,GR
+Green Rock,GR45,05/22/2026,10,07:20:00,30,5,Lotte,2,N,RK,NA,53,15.6,High Density,MAYBE,2026-05-22,GR
+Green Rock,GR46,06/09/2026,10,07:18:00,31,9,"Bridget, Isabella",1,N,HC,SMA,38,10.7,High Density,MAYBE,2026-06-09,GR
+Green Rock,GR46,06/09/2026,10,07:18:00,31,9,"Bridget, Isabella",2,N,RK,NA,36,11,High Density,MAYBE,2026-06-09,GR
+Red Rock,RR1,04/01/2023,12,10:00:00,25,12,GlobalReef,1,N,HC,ENC,40,12,High Density,N,2023-04-01,RR
+Red Rock,RR1,04/01/2023,12,10:00:00,25,12,GlobalReef,2,N,RK,NA,30,11,High Density,NA,2023-04-01,RR
+Red Rock,RR1,04/01/2023,12,10:00:00,25,12,GlobalReef,3,N,HC,ENC,40,11,High Density,NA,2023-04-01,RR
+Red Rock,RR1,04/01/2023,12,10:00:00,25,12,GlobalReef,4,Y,HC,FOL,50,7,High Density,NA,2023-04-01,RR
+Red Rock,RR1,04/01/2023,12,10:00:00,25,12,GlobalReef,5,N,HC,CAE,50,9,High Density,NA,2023-04-01,RR
+Red Rock,RR2,05/03/2023,11,09:00:00,20,12,GlobalReef,1,N,HC,ENC,40,13,High Density,NA,2023-05-03,RR
+Red Rock,RR2,05/03/2023,11,09:00:00,20,12,GlobalReef,2,Y,HC,LAM,50,10,High Density,NA,2023-05-03,RR
+Red Rock,RR2,05/03/2023,11,09:00:00,20,12,GlobalReef,3,Y,HC,LAM,50,10,High Density,NA,2023-05-03,RR
+Red Rock,RR2,05/03/2023,11,09:00:00,20,12,GlobalReef,4,N,HC,SOL,40,12,High Density,NA,2023-05-03,RR
+Red Rock,RR2,05/03/2023,11,09:00:00,20,12,GlobalReef,5,N,HC,FOL,45,11,High Density,NA,2023-05-03,RR
+Red Rock,RR2,05/03/2023,11,09:00:00,20,12,GlobalReef,6,N,RU,NA,40,13,High Density,NA,2023-05-03,RR
+Red Rock,RR2,05/03/2023,11,09:00:00,20,12,GlobalReef,7,Y,HC,ENC,45,8,High Density,NA,2023-05-03,RR
+Red Rock,RR2,05/03/2023,11,09:00:00,20,12,GlobalReef,8,N,HC,ENC,40,11,High Density,NA,2023-05-03,RR
+Red Rock,RR2,05/03/2023,11,09:00:00,20,12,GlobalReef,9,N,HC,ENC,40,8,High Density,NA,2023-05-03,RR
+Red Rock,RR2,05/03/2023,11,09:00:00,20,12,GlobalReef,10,N,HC,ENC,40,11,High Density,NA,2023-05-03,RR
+Red Rock,RR4,09/30/2023,12,10:00:00,40,12,GlobalReef,1,N,HC,NA,50,12,High Density,NA,2023-09-30,RR
+Red Rock,RR4,09/30/2023,12,10:00:00,40,12,GlobalReef,2,N,RU,NA,40,14,High Density,NA,2023-09-30,RR
+Red Rock,RR4,09/30/2023,12,10:00:00,40,12,GlobalReef,3,N,HC,NA,35,12,High Density,NA,2023-09-30,RR
+Red Rock,RR4,09/30/2023,12,10:00:00,40,12,GlobalReef,4,N,HC,NA,35,11,High Density,NA,2023-09-30,RR
+Red Rock,RR4,09/30/2023,12,10:00:00,40,12,GlobalReef,5,N,HC,NA,41,9,High Density,NA,2023-09-30,RR
+Red Rock,RR3,10/01/2023,NA,13:30:00,24,12,GlobalReef,1,N,HC,SOL,42,10,High Density,NA,2023-10-01,RR
+Red Rock,RR3,10/01/2023,NA,13:30:00,24,12,GlobalReef,2,N,HC,SUBM,51,9,High Density,NA,2023-10-01,RR
+Red Rock,RR3,10/01/2023,NA,13:30:00,24,12,GlobalReef,3,N,RK,NA,35,13,High Density,NA,2023-10-01,RR
+Red Rock,RR5,10/04/2023,11,10:00:00,35,NA,GlobalReef,1,N,HC,NA,45,11,High Density,NA,2023-10-04,RR
+Red Rock,RR5,10/04/2023,11,10:00:00,35,NA,GlobalReef,2,N,RU,NA,35,14,High Density,NA,2023-10-04,RR
+Red Rock,RR5,10/04/2023,11,10:00:00,35,NA,GlobalReef,3,Y,HC,NA,35,14,High Density,NA,2023-10-04,RR
+Red Rock,RR6,01/31/2024,12,10:00:00,22,12,GlobalReef,1,N,HC,NA,45,8,High Density,NA,2024-01-31,RR
+Red Rock,RR6,01/31/2024,12,10:00:00,22,12,GlobalReef,2,N,HC,NA,40,8,High Density,NA,2024-01-31,RR
+Red Rock,RR6,01/31/2024,12,10:00:00,22,12,GlobalReef,3,N,HC,NA,45,11,High Density,NA,2024-01-31,RR
+Red Rock,RR6,01/31/2024,12,10:00:00,22,12,GlobalReef,4,N,HC,NA,35,13,High Density,NA,2024-01-31,RR
+Red Rock,RR6,01/31/2024,12,10:00:00,22,12,GlobalReef,5,N,RK,NA,50,12.5,High Density,NA,2024-01-31,RR
+Red Rock,RR6,01/31/2024,12,10:00:00,22,12,GlobalReef,6,N,HC,NA,50,12,High Density,NA,2024-01-31,RR
+Red Rock,RR7,03/24/2024,11,08:00:00,25,NA,GlobalReef,1,N,HC,NA,43,12,High Density,NA,2024-03-24,RR
+Red Rock,RR7,03/24/2024,11,08:00:00,25,NA,GlobalReef,2,N,HC,NA,58,13,High Density,NA,2024-03-24,RR
+Red Rock,RR7,03/24/2024,11,08:00:00,25,NA,GlobalReef,3,N,RK,NA,54,12,High Density,NA,2024-03-24,RR
+Red Rock,RR8,04/06/2024,12,08:00:00,22,10,GlobalReef,1,N,HC,NA,58,10,High Density,NA,2024-04-06,RR
+Red Rock,RR8,04/06/2024,12,08:00:00,22,10,GlobalReef,2,Y,RK,NA,52,15,High Density,NA,2024-04-06,RR
+Red Rock,RR9,05/21/2024,11,10:00:00,22,10,GlobalReef,1,Y,HC,NA,45,10,High Density,NA,2024-05-21,RR
+Red Rock,RR9,05/21/2024,11,10:00:00,22,10,GlobalReef,2,N,RK,NA,50,12,High Density,NA,2024-05-21,RR
+Red Rock,RR9,05/21/2024,11,10:00:00,22,10,GlobalReef,3,N,RK,NA,45,12,High Density,NA,2024-05-21,RR
+Red Rock,RR9,05/21/2024,11,10:00:00,22,10,GlobalReef,4,N,RK,NA,40,11,High Density,NA,2024-05-21,RR
+Red Rock,RR9,05/21/2024,11,10:00:00,22,10,GlobalReef,5,Y,HC,NA,40,15,High Density,NA,2024-05-21,RR
+Red Rock,RR9,05/21/2024,11,10:00:00,22,10,GlobalReef,6,N,HC,NA,45,13,High Density,NA,2024-05-21,RR
+Red Rock,RR10,05/25/2024,12,08:00:00,21,15,GlobalReef,1,Y,RK,NA,40,13,High Density,NA,2024-05-25,RR
+Red Rock,RR10,05/25/2024,12,08:00:00,21,15,GlobalReef,2,N,HC,NA,45,12,High Density,NA,2024-05-25,RR
+Red Rock,RR10,05/25/2024,12,08:00:00,21,15,GlobalReef,3,Y,HC,NA,46,10,High Density,NA,2024-05-25,RR
+Red Rock,RR10,05/25/2024,12,08:00:00,21,15,GlobalReef,4,Y,HC,NA,44,9,High Density,NA,2024-05-25,RR
+Red Rock,RR10,05/25/2024,12,08:00:00,21,15,GlobalReef,5,N,HC,NA,52,11,High Density,NA,2024-05-25,RR
+Red Rock,RR10,05/25/2024,12,08:00:00,21,15,GlobalReef,6,N,RK,NA,50,13,High Density,NA,2024-05-25,RR
+Red Rock,RR10,05/25/2024,12,08:00:00,21,15,GlobalReef,7,Y,HC,NA,60,8,High Density,NA,2024-05-25,RR
+Red Rock,RR10,05/25/2024,12,08:00:00,21,15,GlobalReef,8,Y,HC,NA,62,15,High Density,NA,2024-05-25,RR
+Red Rock,RR11,07/04/2024,10,10:00:00,21,10,GlobalReef,1,N,RK,NA,40.5,15,High Density,NA,2024-07-04,RR
+Red Rock,RR11,07/04/2024,10,10:00:00,21,10,GlobalReef,2,N,RU,NA,37,11,High Density,NA,2024-07-04,RR
+Red Rock,RR11,07/04/2024,10,10:00:00,21,10,GlobalReef,3,N,RK,NA,50,10.5,High Density,NA,2024-07-04,RR
+Red Rock,RR11,07/04/2024,10,10:00:00,21,10,GlobalReef,4,N,HC,NA,44,9,High Density,NA,2024-07-04,RR
+Red Rock,RR11,07/04/2024,10,10:00:00,21,10,GlobalReef,5,N,RK,NA,52,10,High Density,NA,2024-07-04,RR
+Red Rock,RR11,07/04/2024,10,10:00:00,21,10,GlobalReef,6,N,HC,NA,34,11,High Density,NA,2024-07-04,RR
+Red Rock,RR12,08/14/2024,13,14:00:00,32,20,GlobalReef,1,N,RB,NA,43,14,High Density,NA,2024-08-14,RR
+Red Rock,RR12,08/14/2024,13,14:00:00,32,20,GlobalReef,2,N,RK,NA,42,14,High Density,NA,2024-08-14,RR
+Red Rock,RR12,08/14/2024,13,14:00:00,32,20,GlobalReef,3,N,HC,NA,43,15,High Density,NA,2024-08-14,RR
+Red Rock,RR12,08/14/2024,13,14:00:00,32,20,GlobalReef,4,N,HC,NA,38,10,High Density,NA,2024-08-14,RR
+Red Rock,RR12,08/14/2024,13,14:00:00,32,20,GlobalReef,5,N,RK,NA,40,13,High Density,NA,2024-08-14,RR
+Red Rock,RR12,08/14/2024,13,14:00:00,32,20,GlobalReef,6,N,RK,NA,45,13,High Density,NA,2024-08-14,RR
+Red Rock,RR12,08/14/2024,13,14:00:00,32,20,GlobalReef,7,N,RU,NA,47,12,High Density,NA,2024-08-14,RR
+Red Rock,RR12,08/14/2024,13,14:00:00,32,20,GlobalReef,8,NA,NA,NA,39,11,High Density,NA,2024-08-14,RR
+Red Rock,RR13,08/25/2024,11,08:00:00,27,15,GlobalReef,1,Y,RK,NA,44,11,High Density,NA,2024-08-25,RR
+Red Rock,RR13,08/25/2024,11,08:00:00,27,15,GlobalReef,2,Y,RK,NA,42,13,High Density,NA,2024-08-25,RR
+Red Rock,RR13,08/25/2024,11,08:00:00,27,15,GlobalReef,3,Y,RK,NA,50,8,High Density,NA,2024-08-25,RR
+Red Rock,RR13,08/25/2024,11,08:00:00,27,15,GlobalReef,4,N,RK,NA,40,7,High Density,NA,2024-08-25,RR
+Red Rock,RR13,08/25/2024,11,08:00:00,27,15,GlobalReef,5,N,HC,NA,54,7,High Density,NA,2024-08-25,RR
+Red Rock,RR13,08/25/2024,11,08:00:00,27,15,GlobalReef,6,N,HC,NA,38,11,High Density,NA,2024-08-25,RR
+Red Rock,RR13,08/25/2024,11,08:00:00,27,15,GlobalReef,7,Y,HC,NA,37,10,High Density,NA,2024-08-25,RR
+Red Rock,RR13,08/25/2024,11,08:00:00,27,15,GlobalReef,8,N,HC,NA,64,10,High Density,NA,2024-08-25,RR
+Red Rock,RR14,09/04/2024,11,08:00:00,27,8,GlobalReef,1,N,RK,NA,40,11.7,High Density,NA,2024-09-04,RR
+Red Rock,RR14,09/04/2024,11,08:00:00,27,8,GlobalReef,2,N,RK,NA,48,9.2,High Density,NA,2024-09-04,RR
+Red Rock,RR14,09/04/2024,11,08:00:00,27,8,GlobalReef,3,N,HC,NA,46,7.8,High Density,NA,2024-09-04,RR
+Red Rock,RR14,09/04/2024,11,08:00:00,27,8,GlobalReef,4,N,HC,NA,43,11,High Density,NA,2024-09-04,RR
+Red Rock,RR14,09/04/2024,11,08:00:00,27,8,GlobalReef,5,N,HC,NA,45,10,High Density,NA,2024-09-04,RR
+Red Rock,RR14,09/04/2024,11,08:00:00,27,8,GlobalReef,6,N,RK,NA,36,11,High Density,NA,2024-09-04,RR
+Red Rock,RR14,09/04/2024,11,08:00:00,27,8,GlobalReef,7,Y,RK,NA,50,11.8,High Density,NA,2024-09-04,RR
+Red Rock,RR15,09/12/2024,10,09:00:00,27,10,GlobalReef,1,N,RK,NA,35,10,High Density,NA,2024-09-12,RR
+Red Rock,RR15,09/12/2024,10,09:00:00,27,10,GlobalReef,2,N,RK,NA,48,11,High Density,NA,2024-09-12,RR
+Red Rock,RR15,09/12/2024,10,09:00:00,27,10,GlobalReef,3,N,RK,NA,38,11.6,High Density,NA,2024-09-12,RR
+Red Rock,RR15,09/12/2024,10,09:00:00,27,10,GlobalReef,4,N,RK,NA,34,11.5,High Density,NA,2024-09-12,RR
+Red Rock,RR15,09/12/2024,10,09:00:00,27,10,GlobalReef,5,N,HC,NA,45,11.4,High Density,NA,2024-09-12,RR
+Red Rock,RR15,09/12/2024,10,09:00:00,27,10,GlobalReef,6,Y,HC/ROCK,NA,44,12.7,High Density,NA,2024-09-12,RR
+Red Rock,RR16,10/21/2024,12,09:30:00,30,6,GlobalReef,1,N,HC,NA,48,12.2,High Density,NA,2024-10-21,RR
+Red Rock,RR16,10/21/2024,12,09:30:00,30,6,GlobalReef,2,N,HC,ARB,49,9.5,High Density,NA,2024-10-21,RR
+Red Rock,RR17,01/29/2025,9.2,09:30:00,30,5,"Olive, Martin",1,Y,HC,NA,41,10.3,High Density,NA,2025-01-29,RR
+Red Rock,RR17,01/29/2025,9.2,09:30:00,30,5,"Olive, Martin",2,Y,HC,NA,41,11.5,High Density,NA,2025-01-29,RR
+Red Rock,RR17,01/29/2025,9.2,09:30:00,30,5,"Olive, Martin",3,Y,HC,NA,39,10.7,High Density,NA,2025-01-29,RR
+Red Rock,RR17,01/29/2025,9.2,09:30:00,30,5,"Olive, Martin",4,N,HC/ROCK,NA,33,9,High Density,NA,2025-01-29,RR
+Red Rock,RR18,02/12/2025,8.6,07:21:00,NA,10,"Bjarne, Ben, Georgia",1,N,HC,NA,45,9.1,High Density,NA,2025-02-12,RR
+Red Rock,RR18,02/12/2025,8.6,07:21:00,NA,10,"Bjarne, Ben, Georgia",2,N,HC,NA,46,10.5,High Density,NA,2025-02-12,RR
+Red Rock,RR18,02/12/2025,8.6,07:21:00,NA,10,"Bjarne, Ben, Georgia",3,Y,AB,NA,49,11.5,High Density,NA,2025-02-12,RR
+Red Rock,RR18,02/12/2025,8.6,07:21:00,NA,10,"Bjarne, Ben, Georgia",4,N,HC,NA,46,11.1,High Density,NA,2025-02-12,RR
+Red Rock,RR18,02/12/2025,8.6,07:21:00,NA,10,"Bjarne, Ben, Georgia",5,N,HC,NA,47,10.2,High Density,NA,2025-02-12,RR
+Red Rock,RR19,04/08/2025,10,07:16:00,NA,12,"Camille, Eugenie",1,Y,HC,SUBM,47,11.7,High Density,NA,2025-04-08,RR
+Red Rock,RR19,04/08/2025,10,07:16:00,NA,12,"Camille, Eugenie",2,Y,HC,LAM,54,10.4,High Density,NA,2025-04-08,RR
+Red Rock,RR19,04/08/2025,10,07:16:00,NA,12,"Camille, Eugenie",3,N,HC,LAM,42,9.5,High Density,NA,2025-04-08,RR
+Red Rock,RR19,04/08/2025,10,07:16:00,NA,12,"Camille, Eugenie",4,N,RK,NA,36,8.4,High Density,NA,2025-04-08,RR
+Red Rock,RR19,04/08/2025,10,07:16:00,NA,12,"Camille, Eugenie",5,Y,HC,FOL,53,8.8,High Density,NA,2025-04-08,RR
+Red Rock,RR20,05/21/2025,12,07:15:00,67,15,"Tessa, Niamh",1,N,RK,NA,44,15.6,High Density,NA,2025-05-21,RR
+Red Rock,RR20,05/21/2025,12,07:15:00,67,15,"Tessa, Niamh",2,N,HC,SUBM,46,11.3,High Density,NA,2025-05-21,RR
+Red Rock,RR20,05/21/2025,12,07:15:00,67,15,"Tessa, Niamh",3,N,HC,ENC,49,11.5,High Density,NA,2025-05-21,RR
+Red Rock,RR20,05/21/2025,12,07:15:00,67,15,"Tessa, Niamh",4,N,RK,NA,53,13.4,High Density,NA,2025-05-21,RR
+Red Rock,RR20,05/21/2025,12,07:15:00,67,15,"Tessa, Niamh",5,N,HC,ENC,58,13.2,High Density,NA,2025-05-21,RR
+Red Rock,RR20,05/21/2025,12,07:15:00,67,15,"Tessa, Niamh",6,Y,RK,NA,47,11.9,High Density,NA,2025-05-21,RR
+Red Rock,RR20,05/21/2025,12,07:15:00,67,15,"Tessa, Niamh",7,N,HC,ENC,46,14,High Density,NA,2025-05-21,RR
+Red Rock,RR20,05/21/2025,12,07:15:00,67,15,"Tessa, Niamh",8,N,RK,NA,36,14.4,High Density,NA,2025-05-21,RR
+Red Rock,RR21,05/26/2025,11.7,07:10:00,54,7,"Jess F, James, Flo",1,N,HC,SUBM,50,10.4,High Density,NA,2025-05-26,RR
+Red Rock,RR21,05/26/2025,11.7,07:10:00,54,7,"Jess F, James, Flo",2,Y,RK,NA,40,9.4,High Density,NA,2025-05-26,RR
+Red Rock,RR21,05/26/2025,11.7,07:10:00,54,7,"Jess F, James, Flo",3,N,RK,NA,46,10.5,High Density,NA,2025-05-26,RR
+Red Rock,RR21,05/26/2025,11.7,07:10:00,54,7,"Jess F, James, Flo",4,N,HC,ENC,58,10.6,High Density,NA,2025-05-26,RR
+Red Rock,RR21,05/26/2025,11.7,07:10:00,54,7,"Jess F, James, Flo",5,N,RK,NA,46,14,High Density,NA,2025-05-26,RR
+Red Rock,RR21,05/26/2025,11.7,07:10:00,54,7,"Jess F, James, Flo",6,Y,HC,MASS,49,11.3,High Density,NA,2025-05-26,RR
+Red Rock,RR22,06/05/2025,10.2,09:20:00,50,10,"Flo, Jess F",1,N,HC,ENC,44,12.3,High Density,NA,2025-06-05,RR
+Red Rock,RR22,06/05/2025,10.2,09:20:00,50,10,"Flo, Jess F",2,Y,HC,SOL/SUBM,49,12.4,High Density,NA,2025-06-05,RR
+Red Rock,RR22,06/05/2025,10.2,09:20:00,50,10,"Flo, Jess F",3,Y,HC,ENC,43,9.8,High Density,NA,2025-06-05,RR
+Red Rock,RR22,06/05/2025,10.2,09:20:00,50,10,"Flo, Jess F",4,N,HC,ENC,35,17.2,High Density,NA,2025-06-05,RR
+Red Rock,RR22,06/05/2025,10.2,09:20:00,50,10,"Flo, Jess F",5,Y,HC,SUBM,47,16.6,High Density,NA,2025-06-05,RR
+Red Rock,RR22,06/05/2025,10.2,09:20:00,50,10,"Flo, Jess F",6,Y,HC,ENC,48,12.4,High Density,NA,2025-06-05,RR
+Red Rock,RR22,06/05/2025,10.2,09:20:00,50,10,"Flo, Jess F",7,N,HC,SUBM,41,11.8,High Density,NA,2025-06-05,RR
+Red Rock,RR22,06/05/2025,10.2,09:20:00,50,10,"Flo, Jess F",8,Y,RK,NA,42,12.9,High Density,NA,2025-06-05,RR
+Red Rock,RR22,06/05/2025,10.2,09:20:00,50,10,"Flo, Jess F",9,N,RK,SPONGE,26,13.7,High Density,NA,2025-06-05,RR
+Red Rock,RR22,06/05/2025,10.2,09:20:00,50,10,"Flo, Jess F",10,N,HC,LAM,32,11.9,High Density,NA,2025-06-05,RR
+Red Rock,RR22,06/05/2025,10.2,09:20:00,50,10,"Flo, Jess F",11,N,HC,CAE,44,10.2,High Density,NA,2025-06-05,RR
+Red Rock,RR23,06/11/2025,10,15:11:00,55,12,"Elena, Mirea",1,N,RB,NA,46,11.7,High Density,NA,2025-06-11,RR
+Red Rock,RR23,06/11/2025,10,15:11:00,55,12,"Elena, Mirea",2,Y,RB,NA,40,9.5,High Density,NA,2025-06-11,RR
+Red Rock,RR23,06/11/2025,10,15:11:00,55,12,"Elena, Mirea",3,Y,RK,NA,56,12.4,High Density,NA,2025-06-11,RR
+Red Rock,RR23,06/11/2025,10,15:11:00,55,12,"Elena, Mirea",4,Y,HC,MASS,36,11.6,High Density,NA,2025-06-11,RR
+Red Rock,RR23,06/11/2025,10,15:11:00,55,12,"Elena, Mirea",5,Y,HC,MASS,56,10.9,High Density,NA,2025-06-11,RR
+Red Rock,RR24,06/25/2025,12,10:00:00,29,8,"Jess F, Elena, Mirea",1,N,RK,NA,38,10.4,High Density,NA,2025-06-25,RR
+Red Rock,RR24,06/25/2025,12,10:00:00,29,8,"Jess F, Elena, Mirea",2,Y,HC,SUBM,35.6,8.8,High Density,NA,2025-06-25,RR
+Red Rock,RR24,06/25/2025,12,10:00:00,29,8,"Jess F, Elena, Mirea",3,N,HC,FOL,43,9.9,High Density,NA,2025-06-25,RR
+Red Rock,RR24,06/25/2025,12,10:00:00,29,8,"Jess F, Elena, Mirea",4,N,HC,TAB,44,9.3,High Density,NA,2025-06-25,RR
+Red Rock,RR24,06/25/2025,12,10:00:00,29,8,"Jess F, Elena, Mirea",5,N,HC,EN,32,6.6,High Density,NA,2025-06-25,RR
+Red Rock,RR24,06/25/2025,12,10:00:00,29,8,"Jess F, Elena, Mirea",6,N,RK,NA,42,7.1,High Density,NA,2025-06-25,RR
+Red Rock,RR24,06/25/2025,12,10:00:00,29,8,"Jess F, Elena, Mirea",7,N,HC,EN,37,10.4,High Density,NA,2025-06-25,RR
+Red Rock,RR24,06/25/2025,12,10:00:00,29,8,"Jess F, Elena, Mirea",8,N,HC,SOL,35,9.5,High Density,NA,2025-06-25,RR
+Red Rock,RR25,09/16/25,11.9,07:37:00,50,13,"Thomas, Simone",1,Y,RK,NA,42,16.6,High Density,NA,2025-09-16,RR
+Red Rock,RR25,09/16/25,11.9,07:37:00,50,13,"Thomas, Simone",2,N,SA,NA,35,14.7,High Density,NA,2025-09-16,RR
+Red Rock,RR25,09/16/25,11.9,07:37:00,50,13,"Thomas, Simone",3,N,SA,NA,48,15.4,High Density,NA,2025-09-16,RR
+Red Rock,RR25,09/16/25,11.9,07:37:00,50,13,"Thomas, Simone",4,N,SA,NA,26,15.2,High Density,NA,2025-09-16,RR
+Red Rock,RR25,09/16/25,11.9,07:37:00,50,13,"Thomas, Simone",5,Y,RK,NA,36,12.6,High Density,NA,2025-09-16,RR
+Red Rock,RR26,09/16/25,11.9,07:37:00,50,13,"Liam, Agathe",1,Y,HC,ENC,41,14,High Density,NA,2025-09-16,RR
+Red Rock,RR26,09/16/25,11.9,07:37:00,50,13,"Liam, Agathe",2,N,SA,NA,28,10.5,High Density,NA,2025-09-16,RR
+Red Rock,RR26,09/16/25,11.9,07:37:00,50,13,"Liam, Agathe",3,N,RK,NA,39,8,High Density,NA,2025-09-16,RR
+Red Rock,RR27,10/07/2025,11.9,08:00:00,25,15,"Liam, Mathys",1,N,RK,NA,41,13.5,High Density,NA,2025-10-07,RR
+Red Rock,RR27,10/07/2025,11.9,08:00:00,25,15,"Liam, Mathys",2,N,HC,SUBM,44,13.8,High Density,NA,2025-10-07,RR
+Red Rock,RR27,10/07/2025,11.9,08:00:00,25,15,"Liam, Mathys",3,N,HC,ENC,34,14.4,High Density,NA,2025-10-07,RR
+Red Rock,RR27,10/07/2025,11.9,08:00:00,25,15,"Liam, Mathys",4,N,HC,"SOL, MASS",42,12.4,High Density,NA,2025-10-07,RR
+Red Rock,RR27,10/07/2025,11.9,08:00:00,25,15,"Liam, Mathys",5,N,RK,NA,42,14.1,High Density,NA,2025-10-07,RR
+Red Rock,RR27,10/07/2025,11.9,08:00:00,25,15,"Liam, Mathys",6,N,RK/HC,MASS,52,13.5,High Density,NA,2025-10-07,RR
+Red Rock,RR27,10/07/2025,11.9,08:00:00,25,15,"Liam, Mathys",7,N,RK/HC,ENC,42,14.2,High Density,NA,2025-10-07,RR
+Red Rock,RR28,01/19/2026,10,09:50:00,30,7,"Lauriane, Kassia",1,N,HC,FO,45,5.1,High Density,NA,2026-01-19,RR
+Red Rock,RR28,01/19/2026,10,09:50:00,30,7,"Lauriane, Kassia",2,N,HC,MA,54,12.1,High Density,NA,2026-01-19,RR
+Red Rock,RR28,01/19/2026,10,09:50:00,30,7,"Lauriane, Kassia",3,N,HC,FO,51,10,High Density,NA,2026-01-19,RR
+Red Rock,RR28,01/19/2026,10,09:50:00,30,7,"Lauriane, Kassia",4,N,HC,FO,49,7.8,High Density,NA,2026-01-19,RR
+Red Rock,RR28,01/19/2026,10,09:50:00,30,7,"Lauriane, Kassia",5,N,HC,FO,51,6.8,High Density,NA,2026-01-19,RR
+Red Rock,RR28,01/19/2026,10,09:50:00,30,7,"Lauriane, Kassia",6,N,HC,FO,46,8,High Density,NA,2026-01-19,RR
+Red Rock,RR28,01/19/2026,10,09:50:00,30,7,"Lauriane, Kassia",7,N,SP,NA,52,8.4,High Density,NA,2026-01-19,RR
+Red Rock,RR28,01/19/2026,10,09:50:00,30,7,"Lauriane, Kassia",8,N,HC,LM,54,12.3,High Density,NA,2026-01-19,RR
+Red Rock,RR28,01/19/2026,10,09:50:00,30,7,"Lauriane, Kassia",9,N,HC,SUBM,48,11.5,High Density,NA,2026-01-19,RR
+Red Rock,RR29,02/10/2026,9.4,07:19:00,25,8,"Callum, Lewis",1,N,RK,NA,58,12.3,High Density,NA,2026-02-10,RR
+Red Rock,RR29,02/10/2026,9.4,07:19:00,25,8,"Callum, Lewis",2,N,RB,NA,38,14.4,High Density,NA,2026-02-10,RR
+Red Rock,RR29,02/10/2026,9.4,07:19:00,25,8,"Callum, Lewis",3,Y,RK,NA,42,10.6,High Density,NA,2026-02-10,RR
+Red Rock,RR29,02/10/2026,9.4,07:19:00,25,8,"Callum, Lewis",4,Y,RK,NA,34,9.5,High Density,NA,2026-02-10,RR
+Red Rock,RR29,02/10/2026,9.4,07:19:00,25,8,"Callum, Lewis",5,N,RK,NA,52,8.2,High Density,NA,2026-02-10,RR
+Red Rock,RR29,02/10/2026,9.4,07:19:00,25,8,"Callum, Lewis",6,N,RK,NA,38,8.5,High Density,NA,2026-02-10,RR
+Red Rock,RR29,02/10/2026,9.4,07:19:00,25,8,"Callum, Lewis",7,Y,RK,NA,36,8.2,High Density,NA,2026-02-10,RR
+Red Rock,RR30,03/02/2026,12,09:00:00,35,12,"Beth, Lewis",1,N,RB,NA,50,14,High Density,NA,2026-03-02,RR
+Red Rock,RR30,03/02/2026,12,09:00:00,35,12,"Beth, Lewis",2,N,RK,NA,50,14.7,High Density,NA,2026-03-02,RR
+Red Rock,RR30,03/02/2026,12,09:00:00,35,12,"Beth, Lewis",3,N,RK,NA,45,16.4,High Density,NA,2026-03-02,RR
+Red Rock,RR30,03/02/2026,12,09:00:00,35,12,"Beth, Lewis",4,N,RB,NA,45,17.3,High Density,NA,2026-03-02,RR
+Red Rock,RR30,03/02/2026,12,09:00:00,35,12,"Beth, Lewis",5,Y,RB,NA,50,15.9,High Density,NA,2026-03-02,RR
+Red Rock,RR30,03/02/2026,12,09:00:00,35,12,"Beth, Lewis",6,N,RK,NA,45,17.8,High Density,NA,2026-03-02,RR
+Red Rock,RR30,04/15/2026,9.8,09:13:00,22,20,"Lucy, Max",1,N,RK,N/A,42,11.7,High Density,NA,2026-04-15,RR
+Red Rock,RR30,04/15/2026,9.8,09:13:00,22,20,"Lucy, Max",2,N,RB,N/A,38,11.5,High Density,NA,2026-04-15,RR
+Red Rock,RR30,04/15/2026,9.8,09:13:00,22,20,"Lucy, Max",3,Y,HC,SMA,44,9.6,High Density,NA,2026-04-15,RR
+Red Rock,RR30,04/15/2026,9.8,09:13:00,22,20,"Lucy, Max",4,N,RK,N/A,43,11.5,High Density,NA,2026-04-15,RR
+Red Rock,RR30,04/15/2026,9.8,09:13:00,22,20,"Lucy, Max",5,N,RK,N/A,57,9.9,High Density,NA,2026-04-15,RR
+Red Rock,RR30,04/15/2026,9.8,09:13:00,22,20,"Lucy, Max",6,N,RK,N/A,45,9.5,High Density,NA,2026-04-15,RR
+Red Rock,RR31,05/22/2026,10,09:30:00,25,7,"Bridget, Sammy",1,N,HC,SMA,35,9.7,High Density,NA,2026-05-22,RR
+Red Rock,RR31,05/22/2026,10,09:30:00,25,7,"Bridget, Sammy",2,Y,HC,SMA,45,9.3,High Density,NA,2026-05-22,RR
+Red Rock,RR31,05/22/2026,10,09:30:00,25,7,"Bridget, Sammy",3,N,HC,CAE,47,8.1,High Density,NA,2026-05-22,RR
+Red Rock,RR31,05/22/2026,10,09:30:00,25,7,"Bridget, Sammy",4,N,HC,SMA,50,7.8,High Density,NA,2026-05-22,RR
+Red Rock,RR32,06/09/2026,16,09:21:00,30,8,"Isabella, Hannah, Lotte",1,N,HC,ENC,52,16,High Density,NA,2026-06-09,RR
+Red Rock,RR32,06/09/2026,16,09:21:00,30,8,"Isabella, Hannah, Lotte",2,N,RB,NA,48,12.2,High Density,NA,2026-06-09,RR
+Red Rock,RR32,06/09/2026,16,09:21:00,30,8,"Isabella, Hannah, Lotte",3,N,HC,FOL,43,9.2,High Density,NA,2026-06-09,RR
+Red Rock,RR32,06/09/2026,16,09:21:00,30,8,"Isabella, Hannah, Lotte",4,N,RK,NA,38,7.8,High Density,NA,2026-06-09,RR
+Red Rock,RR32,06/09/2026,16,09:21:00,30,8,"Isabella, Hannah, Lotte",5,N,RK,NA,36,10.2,High Density,NA,2026-06-09,RR
+Red Rock,RR32,06/09/2026,16,09:21:00,30,8,"Isabella, Hannah, Lotte",6,Y,HC,ENC,27,8.7,High Density,NA,2026-06-09,RR
+Red Rock,RR32,06/09/2026,16,09:21:00,30,8,"Isabella, Hannah, Lotte",7,N,HC,ENC,68,13.3,High Density,NA,2026-06-09,RR
+Red Rock,RR32,06/09/2026,16,09:21:00,30,8,"Isabella, Hannah, Lotte",NA,NA,NA,NA,NA,NA,High Density,NA,2026-06-09,RR
+Shark Island,SI13,08/07/2025,12.6,07:36:00,25,20,"Amira, Artur, Hanwei",1,Y,HC,ENC,50,15.3,Control,NA,2025-08-07,SI
+Shark Island,SI13,08/07/2025,12.6,07:36:00,25,20,"Amira, Artur, Hanwei",2,Y,HC,TAB,40,13.7,Control,NA,2025-08-07,SI
+Shark Island,SI13,08/07/2025,12.6,07:36:00,25,20,"Amira, Artur, Hanwei",3,Y,HC,ARB,8,16,Control,NA,2025-08-07,SI
+Shark Island,SI13,08/07/2025,12.6,07:36:00,25,20,"Amira, Artur, Hanwei",4,Y,HC,ENC,10,16,Control,NA,2025-08-07,SI
+Shark Island,SI14,09/24/25,12.4,09:49:00,20,15,"Maddie, Gav",1,N,HC,ENC,44,14.3,Control,NA,2025-09-24,SI
+Shark Island,SI14,09/24/25,12.4,09:49:00,20,15,"Maddie, Gav",2,N,RK,NA,41,13.4,Control,NA,2025-09-24,SI
+Shark Island,SI14,09/24/25,12.4,09:49:00,20,15,"Maddie, Gav",3,N,HC,FOL,49,16.2,Control,NA,2025-09-24,SI
+Shark Island,SI15,10/2/2025,10.8,09:22:00,47,15,"Liam, Mathys",1,Y,RB,NA,42,16.3,Control,NA,2025-10-02,SI
+Shark Island,SI15,10/2/2025,10.8,09:22:00,47,15,"Liam, Mathys",2,Y,HC,ENC,42,10.2,Control,NA,2025-10-02,SI
+Shark Island,SI16,02/25/2026,14,10:00:00,30,3,"Jasmine, Jess",1,N,HC,SUB,42,15,Control,NA,2026-02-25,SI
+Shark Island,SI16,02/25/2026,14,10:00:00,30,3,"Jasmine, Jess",2,Y,RK,NA,35,15,Control,NA,2026-02-25,SI
+Shark Island,SI16,02/25/2026,14,10:00:00,30,3,"Jasmine, Jess",3,N,HC,SUB,50,14,Control,NA,2026-02-25,SI
+Shark Island,SI17,02/25/2026,10,10:00:00,30,3,"Ruby, Vic",1,N,HC,ENC,53,10,Control,NA,2026-02-25,SI
+Shark Island,SI18,03/26/2026,10,09:44:00,22,4,"Beth, Bea",0,NA,NA,NA,NA,NA,Control,NA,2026-03-26,SI
+Shark Island,SI19,04/16/2026,9.8,09:51:00,30,17,"Callum, Lewis",0,NA,NA,NA,NA,NA,Control,NA,2026-04-16,SI
+Shark Island,SI1,02/05/2025,11,NA,NA,NA,GlobalReef,0,NA,NA,NA,NA,NA,Control,NA,2025-02-05,SI
+Shark Island,SI2,03/21/2025,10,09:02:00,30,18,"Elise, Camille",0,NA,NA,NA,NA,NA,Control,NA,2025-03-21,SI
+Shark Island,SI3,03/25/2025,16,09:13:00,25,9,"Scar, Tessa",1,N,HC,ENC,32,16.5,Control,NA,2025-03-25,SI
+Shark Island,SI3,03/25/2025,16,09:13:00,25,9,"Scar, Tessa",2,N,HC,SUBM,40,17,Control,NA,2025-03-25,SI
+Shark Island,SI4,03/25/2025,11.3,09:13:00,25,9,"Emma, Lucca, Renzo",1,N,RK,N/A,42,14.4,Control,NA,2025-03-25,SI
+Shark Island,SI5,04/02/2025,11.9,09:07:00,55,12,"Emma, Tessa, Renzo",0,NA,NA,NA,NA,NA,Control,NA,2025-04-02,SI
+Shark Island,SI6,04/07/2025,11,08:43:00,NA,NA,"Camille, Ben",0,NA,NA,NA,NA,NA,Control,NA,2025-04-07,SI
+Shark Island,SI7,04/07/2025,11,09:36:00,NA,NA,"Camille, Ben",0,NA,NA,NA,NA,NA,Control,NA,2025-04-07,SI
+Shark Island,SI8,05/06/2025,8,07:40:00,NA,10,"Camille, Bjarne",0,NA,NA,NA,NA,NA,Control,NA,2025-05-06,SI
+Shark Island,SI9,05/06/2025,8,09:30:00,NA,10,"Camille, Bjarne",0,NA,NA,NA,NA,NA,Control,NA,2025-05-06,SI
+Shark Island,SI10,05/29/2025,12,15:45:00,25,8,"Jess F, James, Flo",1,Y,RK,NA,50,15.2,Control,NA,2025-05-29,SI
+Shark Island,SI10,05/29/2025,12,15:45:00,25,8,"Jess F, James, Flo",2,Y,HC,SUBM/ENC,44,12.8,Control,NA,2025-05-29,SI
+Shark Island,SI11,05/29/2025,12,15:45:00,25,8,"Miera, Elena, Emma J",0,NA,NA,NA,NA,NA,Control,NA,2025-05-29,SI
+Shark Island,SI12,06/18/2025,15.3,07:00:00,44,10,"Ben, Elena, Tessa",1,N,HC,NA,43,12.8,Control,NA,2025-06-18,SI
+Shark Island,SI20,05/28/2026,12.4,09:52:00,30,2,"Lewis, Elena",0,NA,NA,NA,NA,NA,Control,NA,2026-05-28,SI
+Tanote Bay,TB1,06/24/2025,10,12:10:00,50,8,"Jess F, Jen",1,Y,HC,SOLI,35,10.8,Control,NA,2025-06-24,TB
+Tanote Bay,TB2,08/11/2025,8.3,13:20:00,22,10,"Teo, Mario",1,N,HC,ENC,32,8.7,Control,NA,2025-08-11,TB
+Tanote Bay,TB3,09/01/25,9,13:12:00,15,15,"Maddie, Mario",0,NA,NA,NA,NA,NA,Control,NA,2025-09-01,TB
+Tanote Bay,TB4,09/30/25,9.1,15:27:00,20,8,"Jake, Thomas",1,N,RK,NA,44,10.6,Control,NA,2025-09-30,TB
+Tanote Bay,TB5,09/30/25,8.5,15:27:00,20,8,"Nicole, Mariana",1,N,HC,MASS,28,10.5,Control,NA,2025-09-30,TB
+Tanote Bay,TB6,02/10/2026,9.5,13:01:00,30,15,"Beth, Jess",0,NA,NA,NA,NA,NA,Control,NA,2026-02-10,TB
+Tanote Bay,TB7,04/20/2026,8,13:04:00,25,15,"Pip, Lucy H",1,N,RK,N/A,62,8.5,Control,NA,2026-04-20,TB
+Tanote Bay,TB8,05/12/2026,8,13:06:00,25,2,"Kim, Scarlett",0,NA,NA,NA,NA,NA,Control,NA,2026-05-12,TB
+Twins,TW1,09/11/2024,NA,13:00:00,NA,15,GlobalReef,1,N,RK,NA,32,8,High Density,NA,2024-09-11,TW
+Twins,TW1,09/11/2024,NA,13:00:00,NA,15,GlobalReef,2,N,RK,NA,53,9.2,High Density,NA,2024-09-11,TW
+Twins,TW1,09/11/2024,NA,13:00:00,NA,15,GlobalReef,3,N,RK,NA,40,9.5,High Density,NA,2024-09-11,TW
+Twins,TW1,09/11/2024,NA,13:00:00,NA,15,GlobalReef,4,N,RK,NA,30,11.8,High Density,NA,2024-09-11,TW
+Twins,TW1,09/11/2024,NA,13:00:00,NA,15,GlobalReef,5,N,RK,NA,39,11.8,High Density,NA,2024-09-11,TW
+Twins,TW1,09/11/2024,NA,13:00:00,NA,15,GlobalReef,6,N,RK,NA,36,6.7,High Density,NA,2024-09-11,TW
+Twins,TW1,09/11/2024,NA,13:00:00,NA,15,GlobalReef,7,N,HC,NA,50,12,High Density,NA,2024-09-11,TW
+Twins,TW1,09/11/2024,NA,13:00:00,NA,15,GlobalReef,8,N,HC,NA,38,11,High Density,NA,2024-09-11,TW
+Twins,TW1,09/11/2024,NA,13:00:00,NA,15,GlobalReef,9,N,RK,NA,47,9,High Density,NA,2024-09-11,TW
+Twins,TW1,09/11/2024,NA,13:00:00,NA,15,GlobalReef,10,N,HC,NA,44,12.4,High Density,NA,2024-09-11,TW
+Twins,TW1,09/11/2024,NA,13:00:00,NA,15,GlobalReef,11,N,RK,NA,40,12.7,High Density,NA,2024-09-11,TW
+Twins,TW1,09/11/2024,NA,13:00:00,NA,15,GlobalReef,12,N,RK,NA,42,12.7,High Density,NA,2024-09-11,TW
+Twins,TW1,09/11/2024,NA,13:00:00,NA,15,GlobalReef,13,N,HC,NA,37,9.1,High Density,NA,2024-09-11,TW
+Twins,TW1,09/11/2024,NA,13:00:00,NA,15,GlobalReef,14,N,RK,NA,39,11.2,High Density,NA,2024-09-11,TW
+Twins,TW1,09/11/2024,NA,13:00:00,NA,15,GlobalReef,15,Y,HC,NA,46,10.1,High Density,NA,2024-09-11,TW
+Twins,TW2,01/28/2025,8,13:00:00,25,15,GlobalReef,1,Y,HC,NA,21,9,High Density,NA,2025-01-28,TW
+Twins,TW2,01/28/2025,8,13:00:00,25,15,GlobalReef,2,Y,RB,NA,20,9,High Density,NA,2025-01-28,TW
+Twins,TW2,01/28/2025,8,13:00:00,25,15,GlobalReef,3,N,HC,NA,36,9,High Density,NA,2025-01-28,TW
+Twins,TW2,01/28/2025,8,13:00:00,25,15,GlobalReef,4,N,HC,NA,41,7,High Density,NA,2025-01-28,TW
+Twins,TW2,01/28/2025,8,13:00:00,25,15,GlobalReef,5,Y,HC,NA,36,5,High Density,NA,2025-01-28,TW
+Twins,TW2,01/28/2025,8,13:00:00,25,15,GlobalReef,6,Y,HC,NA,39,8,High Density,NA,2025-01-28,TW
+Twins,TW3,02/04/2025,6.6,09:30:00,56,15,"Keisha, Max",1,N,HC,TAB,46,6.2,High Density,NA,2025-02-04,TW
+Twins,TW3,02/04/2025,6.6,09:30:00,56,15,"Keisha, Max",2,N,HC,SUBM,41,5,High Density,NA,2025-02-04,TW
+Twins,TW3,02/04/2025,6.6,09:30:00,56,15,"Keisha, Max",3,N,HC,SUBM,33,6,High Density,NA,2025-02-04,TW
+Twins,TW3,02/04/2025,6.6,09:30:00,56,15,"Keisha, Max",4,N,HC,FOL,39,6,High Density,NA,2025-02-04,TW
+Twins,TW3,02/04/2025,6.6,09:30:00,56,15,"Keisha, Max",5,N,HC,SUBM,32,6.1,High Density,NA,2025-02-04,TW
+Twins,TW4,02/10/2025,7.8,14:43:00,51,18,"Ben, Keisha",1,N,HC,TAB,30,7.2,High Density,NA,2025-02-10,TW
+Twins,TW5,02/12/2025,7.3,10:00:00,58,20,"Keisha, Martin",1,Y,HC,FOL,44,6.2,High Density,NA,2025-02-12,TW
+Twins,TW5,02/12/2025,7.3,10:00:00,58,20,"Keisha, Martin",2,Y,HC,SUBM,50,7.7,High Density,NA,2025-02-12,TW
+Twins,TW5,02/12/2025,7.3,10:00:00,58,20,"Keisha, Martin",3,Y,RK,NA,30,8,High Density,NA,2025-02-12,TW
+Twins,TW5,02/12/2025,7.3,10:00:00,58,20,"Keisha, Martin",4,Y,HC,CAE,37,7,High Density,NA,2025-02-12,TW
+Twins,TW5,02/12/2025,7.3,10:00:00,58,20,"Keisha, Martin",5,Y,HC,SUBM,39,6,High Density,NA,2025-02-12,TW
+Twins,TW5,02/12/2025,7.3,10:00:00,58,20,"Keisha, Martin",6,Y,HC,MASS,45,6.4,High Density,NA,2025-02-12,TW
+Twins,TW5,02/12/2025,7.3,10:00:00,58,20,"Keisha, Martin",7,Y,HC,TAB,53,7.8,High Density,NA,2025-02-12,TW
+Twins,TW5,02/12/2025,7.3,10:00:00,58,20,"Keisha, Martin",8,Y,HC,SUBM,48,7.3,High Density,NA,2025-02-12,TW
+Twins,TW5,02/12/2025,7.3,10:00:00,58,20,"Keisha, Martin",9,Y,HC,SUBM,34,6.4,High Density,NA,2025-02-12,TW
+Twins,TW6,03/04/2025,8,13:00:00,25,8,"Scarlett, Martin",1,N,RU,NA,43,11.4,High Density,NA,2025-03-04,TW
+Twins,TW6,03/04/2025,8,13:00:00,25,8,"Scarlett, Martin",2,N,HC,SUBM,47,7.8,High Density,NA,2025-03-04,TW
+Twins,TW6,03/04/2025,8,13:00:00,25,8,"Scarlett, Martin",3,Y,HC,TAB,39,7.1,High Density,NA,2025-03-04,TW
+Twins,TW7,03/24/2025,8.1,12:55:00,58,16,"Scar, Lucca, Emma",1,N,HC,SUBM,47,10.1,High Density,NA,2025-03-24,TW
+Twins,TW7,03/24/2025,8.1,12:55:00,58,16,"Scar, Lucca, Emma",2,N,HC,SUBM,38,7.4,High Density,NA,2025-03-24,TW
+Twins,TW8,03/24/2025,8,14:59:00,25,15,"Scar, Renzo, Niamh",1,Y,HC,SUBM,37,6.8,High Density,NA,2025-03-24,TW
+Twins,TW8,03/24/2025,8,14:59:00,25,15,"Scar, Renzo, Niamh",2,Y,HC,SUBM,46,7.5,High Density,NA,2025-03-24,TW
+Twins,TW8,03/24/2025,8,14:59:00,25,15,"Scar, Renzo, Niamh",3,Y,HC,TAB,44,5.5,High Density,NA,2025-03-24,TW
+Twins,TW8,04/01/2025,9.2,09:30:00,57,11,"Niamh, Tessa",1,N,RK,NA,48,5.1,High Density,NA,2025-04-01,TW
+Twins,TW8,04/01/2025,9.2,09:30:00,57,11,"Niamh, Tessa",2,Y,HC,SOLI,47,9.3,High Density,NA,2025-04-01,TW
+Twins,TW8,04/01/2025,9.2,09:30:00,57,11,"Niamh, Tessa",3,N,RK,NA,50,5.1,High Density,NA,2025-04-01,TW
+Twins,TW9,05/12/2025,8,13:00:00,58,20,"Bjarne, Tessa",1,N,HC,SUBM,48,8.9,High Density,NA,2025-05-12,TW
+Twins,TW9,05/12/2025,8,13:00:00,58,20,"Bjarne, Tessa",2,Y,RK,NA,46,6.3,High Density,NA,2025-05-12,TW
+Twins,TW9,05/12/2025,8,13:00:00,58,20,"Bjarne, Tessa",3,N,HC,TAB,43,6.2,High Density,NA,2025-05-12,TW
+Twins,TW9,05/12/2025,8,13:00:00,58,20,"Bjarne, Tessa",4,N,RK,NA,53,7.4,High Density,NA,2025-05-12,TW
+Twins,TW9,05/12/2025,8,13:00:00,58,20,"Bjarne, Tessa",5,N,HC,SUBM,48,7.6,High Density,NA,2025-05-12,TW
+Twins,TW9,05/12/2025,8,13:00:00,58,20,"Bjarne, Tessa",6,N,RK,NA,48,7.2,High Density,NA,2025-05-12,TW
+Twins,TW9,05/12/2025,8,13:00:00,58,20,"Bjarne, Tessa",7,N,HC,SUBM,43,8.5,High Density,NA,2025-05-12,TW
+Twins,TW9,05/12/2025,8,13:00:00,58,20,"Bjarne, Tessa",8,N,RK,NA,46,9.6,High Density,NA,2025-05-12,TW
+Twins,TW9,05/12/2025,8,13:00:00,58,20,"Bjarne, Tessa",9,N,HC,SUBM,56,7,High Density,NA,2025-05-12,TW
+Twins,TW9,05/12/2025,8,13:00:00,58,20,"Bjarne, Tessa",10,N,RK,NA,43,9.1,High Density,NA,2025-05-12,TW
+Twins,TW10,06/16/2025,8,13:00:00,40,20,"Jen, Jess F",1,N,RK,NA,43,7.5,High Density,NA,2025-06-16,TW
+Twins,TW10,06/16/2025,8,13:00:00,40,20,"Jen, Jess F",2,N,HC,NA,43,7.3,High Density,Y,2025-06-16,TW
+Twins,TW10,06/16/2025,8,13:00:00,40,20,"Jen, Jess F",3,N,HC,NA,45,10.4,High Density,Y,2025-06-16,TW
+Twins,TW10,06/16/2025,8,13:00:00,40,20,"Jen, Jess F",4,N,HC,NA,48,6.5,High Density,Y,2025-06-16,TW
+Twins,TW10,06/16/2025,8,13:00:00,40,20,"Jen, Jess F",5,Y,HC,NA,46,7.1,High Density,Y,2025-06-16,TW
+Twins,TW10,06/16/2025,8,13:00:00,40,20,"Jen, Jess F",6,N,HC,NA,41,8.7,High Density,Y,2025-06-16,TW
+Twins,TW11,06/26/2025,7,12:56:00,25,6,"Mirea, Elena",1,Y,RU,NA,54,10,High Density,Y,2025-06-26,TW
+Twins,TW11,06/26/2025,7,12:56:00,25,6,"Mirea, Elena",2,Y,HC,CB/SOL,52,10.6,High Density,Y,2025-06-26,TW
+Twins,TW11,06/26/2025,7,12:56:00,25,6,"Mirea, Elena",3,Y,HC,SUBM,42,7.8,High Density,Y,2025-06-26,TW
+Twins,TW11,06/26/2025,7,12:56:00,25,6,"Mirea, Elena",4,Y,HC,SUBM,44,7.8,High Density,Y,2025-06-26,TW
+Twins,TW11,06/26/2025,7,12:56:00,25,6,"Mirea, Elena",5,Y,HC,SOL,39,9.1,High Density,Y,2025-06-26,TW
+Twins,TW11,06/26/2025,7,12:56:00,25,6,"Mirea, Elena",6,Y,HC,CB,41,10.4,High Density,Y,2025-06-26,TW
+Twins,TW11,06/26/2025,7,12:56:00,25,6,"Mirea, Elena",7,N,HC,TAB,49,8.9,High Density,Y,2025-06-26,TW
+Twins,TW11,06/26/2025,7,12:56:00,25,6,"Mirea, Elena",8,Y,HC,CB,40,11.1,High Density,Y,2025-06-26,TW
+Twins,TW11,06/26/2025,7,12:56:00,25,6,"Mirea, Elena",9,N,HC,SUBM,31,9.8,High Density,Y,2025-06-26,TW
+Twins,TW12,08/06/2025,9,09:19:00,33,20,"Maia, Mario",1,N,HC,ENC,52,7.4,High Density,NA,2025-08-06,TW
+Twins,TW12,08/06/2025,9,09:19:00,33,20,"Maia, Mario",2,N,HC,ENC,32,7.7,High Density,NA,2025-08-06,TW
+Twins,TW12,08/06/2025,9,09:19:00,33,20,"Maia, Mario",3,Y,HC,SUBM,50,10.7,High Density,NA,2025-08-06,TW
+Twins,TW12,08/06/2025,9,09:19:00,33,20,"Maia, Mario",4,Y,RK,NA,54,7.5,High Density,NA,2025-08-06,TW
+Twins,TW12,08/06/2025,9,09:19:00,33,20,"Maia, Mario",5,N,HC,SUBM,56,9.4,High Density,NA,2025-08-06,TW
+Twins,TW12,08/06/2025,9,09:19:00,33,20,"Maia, Mario",6,N,HC,ENC,52,9.4,High Density,NA,2025-08-06,TW
+Twins,TW12,08/06/2025,9,09:19:00,33,20,"Maia, Mario",7,Y,HC,MASS,40,5.4,High Density,NA,2025-08-06,TW
+Twins,TW12,08/06/2025,9,09:19:00,33,20,"Maia, Mario",8,N,HC,ENC,48,8.5,High Density,NA,2025-08-06,TW
+Twins,TW12,08/06/2025,9,09:19:00,33,20,"Maia, Mario",9,Y,HC,SUBM,58,8.5,High Density,NA,2025-08-06,TW
+Twins,TW12,08/06/2025,9,09:19:00,33,20,"Maia, Mario",10,N,RK,NA,62,8.5,High Density,NA,2025-08-06,TW
+Twins,TW12,08/06/2025,9,09:19:00,33,20,"Maia, Mario",11,N,RK,NA,38,9.6,High Density,NA,2025-08-06,TW
+Twins,TW13,08/14/2025,8.9,13:10:00,30,15,"Tom, Hannah",1,N,RK,NA,37,10,High Density,NA,2025-08-14,TW
+Twins,TW13,08/14/2025,8.9,13:10:00,30,15,"Tom, Hannah",2,Y,HC,ENC,45,10.9,High Density,NA,2025-08-14,TW
+Twins,TW13,08/14/2025,8.9,13:10:00,30,15,"Tom, Hannah",3,N,RK,NA,42,11.4,High Density,NA,2025-08-14,TW
+Twins,TW13,08/14/2025,8.9,13:10:00,30,15,"Tom, Hannah",4,N,HC,SUBM,51,11.9,High Density,NA,2025-08-14,TW
+Twins,TW13,08/14/2025,8.9,13:10:00,30,15,"Tom, Hannah",5,N,HC,ARB,56,9.3,High Density,NA,2025-08-14,TW
+Twins,TW13,08/14/2025,8.9,13:10:00,30,15,"Tom, Hannah",6,Y,SA,NA,45,11.4,High Density,NA,2025-08-14,TW
+Twins,TW13,08/14/2025,8.9,13:10:00,30,15,"Tom, Hannah",7,Y,RK,NA,40,8.2,High Density,NA,2025-08-14,TW
+Twins,TW13,08/14/2025,8.9,13:10:00,30,15,"Tom, Hannah",8,N,RK,NA,30,11,High Density,NA,2025-08-14,TW
+Twins,TW14,09/04/25,9.4,13:02:00,21,10,"Maddie, Mario",1,N,HC,CB,42,11,High Density,NA,2025-09-04,TW
+Twins,TW14,09/04/25,9.4,13:02:00,21,10,"Maddie, Mario",2,N,HC,SUBM,43,9.6,High Density,NA,2025-09-04,TW
+Twins,TW14,09/04/25,9.4,13:02:00,21,10,"Maddie, Mario",3,N,HC,SUBM,38,7.5,High Density,NA,2025-09-04,TW
+Twins,TW14,09/04/25,9.4,13:02:00,21,10,"Maddie, Mario",4,N,HC,FOL,44,11.2,High Density,NA,2025-09-04,TW
+Twins,TW14,09/04/25,9.4,13:02:00,21,10,"Maddie, Mario",5,N,HC,TAB,40,9.5,High Density,NA,2025-09-04,TW
+Twins,TW14,09/04/25,9.4,13:02:00,21,10,"Maddie, Mario",6,N,HC,SUBM,45,11.8,High Density,NA,2025-09-04,TW
+Twins,TW14,09/04/25,9.4,13:02:00,21,10,"Maddie, Mario",7,N,HC,ENC,43,10,High Density,NA,2025-09-04,TW
+Twins,TW14,09/04/25,9.4,13:02:00,21,10,"Maddie, Mario",8,N,HC,ENC,32,7.7,High Density,NA,2025-09-04,TW
+Twins,TW14,09/04/25,9.4,13:02:00,21,10,"Maddie, Mario",9,N,HC,CAE,45,11,High Density,NA,2025-09-04,TW
+Twins,TW15,10/07/2025,8,13:15:00,25,12,"Marianna, Lilly",1,N,HC,ENC,42,8.1,High Density,NA,2025-10-07,TW
+Twins,TW15,10/07/2025,8,13:15:00,25,12,"Marianna, Lilly",2,N,HC,ENC,42,9.7,High Density,NA,2025-10-07,TW
+Twins,TW15,10/07/2025,8,13:15:00,25,12,"Marianna, Lilly",3,N,SA,NA,47,9.6,High Density,NA,2025-10-07,TW
+Twins,TW6,02/09/2026,9.2,13:12:00,35,10,"Victoria, Michael",1,N,RK,NA,48,9.5,High Density,NA,2026-02-09,TW
+Twins,TW6,02/09/2026,9.2,13:12:00,35,10,"Victoria, Michael",2,N,"SA, RK",NA,40,10.4,High Density,NA,2026-02-09,TW
+Twins,TW7,02/09/2026,11,13:12:00,35,10,"Jasmine, Ruby",1,Y,RK,NA,40,10.5,High Density,NA,2026-02-09,TW
+Twins,TW8,02/24/2026,8,14:06:00,30,10,"Louis, Jackson",1,N,HC,SUB,54,10.4,High Density,NA,2026-02-24,TW
+Twins,TW8,02/24/2026,8,14:06:00,30,10,"Louis, Jackson",2,Y,HC,ARB,43,9.3,High Density,NA,2026-02-24,TW
+Twins,TW8,02/24/2026,8,14:06:00,30,10,"Louis, Jackson",3,N,HC,FOL,52,8.9,High Density,NA,2026-02-24,TW
+Twins,TW9,03/16/2026,8.7,14:00:00,35,15,"Bjarne, Callum",1,Y,HC,SMA,56,8.8,High Density,NA,2026-03-16,TW
+Twins,TW9,03/16/2026,8.7,14:00:00,35,15,"Bjarne, Callum",2,N,RK,NA,42,10.1,High Density,NA,2026-03-16,TW
+Twins,TW9,03/16/2026,8.7,14:00:00,35,15,"Bjarne, Callum",3,Y,HC,SMA,43,8.5,High Density,NA,2026-03-16,TW
+Twins,TW9,03/16/2026,8.7,14:00:00,35,15,"Bjarne, Callum",4,N,HC,SMA,49,6.2,High Density,NA,2026-03-16,TW
+Twins,TW9,03/16/2026,8.7,14:00:00,35,15,"Bjarne, Callum",5,N,RK,NA,28,9.2,High Density,NA,2026-03-16,TW
+Twins,TW9,03/16/2026,8.7,14:00:00,35,15,"Bjarne, Callum",6,N,RK,NA,55,10.1,High Density,NA,2026-03-16,TW
+Twins,TW9,03/16/2026,8.7,14:00:00,35,15,"Bjarne, Callum",7,N,RB,NA,49,11.3,High Density,NA,2026-03-16,TW
+Twins,TW9,03/16/2026,8.7,14:00:00,35,15,"Bjarne, Callum",8,N,HC,SMA,26,10.3,High Density,NA,2026-03-16,TW
+Twins,TW10,04/21/2026,8.1,13:01:00,34,8,"Scarlett, Lyra",1,N,HC,TB,51,10.2,High Density,NA,2026-04-21,TW
+Twins,TW11,05/11/2026,10,13:06:00,25,6,"Kim, Michael",0,NA,NA,NA,NA,NA,High Density,NA,2026-05-11,TW
+Twins,TW12,06/08/2026,8.5,13:19:00,30,15,"Kloe, Isabella, Ell",1,N,RK,NA,45,8.1,High Density,NA,2026-06-08,TW
+Twins,TW12,06/08/2026,8.5,13:19:00,30,15,"Kloe, Isabella, Ell",2,Y,RK,NA,23,6.1,High Density,NA,2026-06-08,TW
+Twins,TW12,06/08/2026,8.5,13:19:00,30,15,"Kloe, Isabella, Ell",3,N,RK,NA,38,6.8,High Density,NA,2026-06-08,TW
+Twins,TW12,06/08/2026,8.5,13:19:00,30,15,"Kloe, Isabella, Ell",4,N,RK,NA,36,7.7,High Density,NA,2026-06-08,TW
+Twins,TW12,06/08/2026,8.5,13:19:00,30,15,"Kloe, Isabella, Ell",5,N,RK,NA,39,8.9,High Density,NA,2026-06-08,TW
+Twins,TW12,06/08/2026,8.5,13:19:00,30,15,"Kloe, Isabella, Ell",6,N,RK,NA,36,8.1,High Density,NA,2026-06-08,TW
+Twins,TW12,06/08/2026,8.5,13:19:00,30,15,"Kloe, Isabella, Ell",7,N,RK,NA,46,6.3,High Density,NA,2026-06-08,TW
+Twins,TW12,06/08/2026,8.5,13:19:00,30,15,"Kloe, Isabella, Ell",8,N,HC,SMA,38,9.6,High Density,NA,2026-06-08,TW
+Twins,TW12,06/08/2026,8.5,13:19:00,30,15,"Kloe, Isabella, Ell",9,N,SA,NA,49,10.6,High Density,NA,2026-06-08,TW
+Twins,TW12,06/08/2026,8.5,13:19:00,30,15,"Kloe, Isabella, Ell",10,Y,HC,ENC,52,7.6,High Density,NA,2026-06-08,TW

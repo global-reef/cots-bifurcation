@@ -117,7 +117,7 @@ cots_indiv %>%
 cots_survey <- cots_indiv %>%
   group_by(site, site_code, site_type, survey_id, date) %>%
   summarise(
-    cots_count = n(),
+    cots_count = sum(specimen > 0, na.rm = TRUE),
     mean_size_cm = mean(size_cm, na.rm = TRUE),
     mean_depth_m = mean(depth_m, na.rm = TRUE),
     avg_survey_depth_m = first(avg_depth_m),
@@ -132,11 +132,6 @@ cots_survey <- cots_indiv %>%
 
 str(cots_survey)
 summary(cots_survey$cots_ha)
-
-# Check for duplicated specimen numbers within survey
-cots_indiv %>%
-  count(site_code, survey_id, date, specimen) %>%
-  filter(n > 1, !is.na(specimen))
 
 ### 05. CLEAN SUBSTRATE ####
 #### 5A. Clean CPCe Point Data #######
@@ -303,25 +298,37 @@ multobs_daily <- tibble(
 
 summary(multobs_daily$temp_multobs_c)
 
-
-
 #### 6C. Prepare thetao temperature data, 2022-2026 ####
 #### variable: thetao
-#### source file: copernicus_thetao.nc - https://doi.org/10.48670/moi-00016
-#### note: this file is already a 1-cell Koh Tao extraction
+#### source file: copernicus_thetao.nc # https://doi.org/10.48670/moi-00016
+#### depth: 0.494025 m
+#### note: exact Koh Tao point is land-masked in model grid, so use 10 km buffer mean
 
-thetao_dates <- as.Date(terra::time(tao_nc))
+thetao_depths <- terra::depth(tao_nc)
+thetao_surface_depth <- thetao_depths[which.min(abs(thetao_depths))]
+
+thetao_surface <- tao_nc[[thetao_depths == thetao_surface_depth]]
+thetao_dates <- as.Date(terra::time(thetao_surface))
 
 range(thetao_dates)
-terra::depth(tao_nc)
+terra::nlyr(thetao_surface)
+terra::depth(thetao_surface)[1:10]
+
+kny_buffer <- terra::buffer(kny_point, width = 10000)
+
+thetao_extract <- terra::extract(
+  thetao_surface,
+  kny_buffer,
+  fun = mean,
+  na.rm = TRUE
+)
 
 thetao_daily <- tibble(
   date = thetao_dates,
-  temp_thetao_c = as.numeric(terra::values(tao_nc))
+  temp_thetao_c = as.numeric(thetao_extract[1, -1])
 )
 
 summary(thetao_daily$temp_thetao_c)
-
 
 #### 6D. Combine temperature sources ####
 #### Use MULTIOBS through 2024-12-31
@@ -347,6 +354,25 @@ summary(temp_daily$temp_c)
 
 temp_daily %>%
   count(temp_source)
+
+# check overlap for 2022-2024 to check for bias correction 
+temp_daily %>%
+  filter(
+    date >= as.Date("2022-06-01"),
+    date <= as.Date("2024-12-31")
+  ) %>%
+  summarise(
+    n_overlap = n(),
+    mean_multobs = mean(temp_multobs_c, na.rm = TRUE),
+    mean_thetao = mean(temp_thetao_c, na.rm = TRUE),
+    mean_difference = mean(temp_thetao_c - temp_multobs_c, na.rm = TRUE),
+    sd_difference = sd(temp_thetao_c - temp_multobs_c, na.rm = TRUE)
+  )
+
+# MULTIOBS and thetao overlap from 2022-06-01 to 2024-12-31.
+# thetao was slightly warmer than MULTIOBS during overlap
+# mean difference = 0.158°C, SD = 0.328°C.
+# Difference is small, so no bias correction applied.
 
 
 #### 6E. Join temperature to CoTS survey table ####
@@ -382,9 +408,10 @@ cots_survey %>%
   arrange(date)
 
 
-#### 6G. Save temperature table ####
-
-write_csv(
-  temp_daily,
-  file.path(data_processed_dir, paste0(analysis_date, "_temp_daily.csv"))
-)
+#### 6G. Save cleaned data ####
+write_csv(cots_indiv, file.path(data_processed_dir, paste0(analysis_date, "_cots_indiv.csv")))
+write_csv(cots_survey, file.path(data_processed_dir, paste0(analysis_date, "_cots_survey.csv")))
+write_csv(substrate, file.path(data_processed_dir, paste0(analysis_date, "_substrate_point.csv")))
+write_csv(substrate_transect, file.path(data_processed_dir, paste0(analysis_date, "_substrate_transect.csv")))
+write_csv(substrate_wide, file.path(data_processed_dir, paste0(analysis_date, "_substrate_wide.csv")))
+write_csv(temp_daily, file.path(data_processed_dir, paste0(analysis_date, "_temp_daily.csv")))
