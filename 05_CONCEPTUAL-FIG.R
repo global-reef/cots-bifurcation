@@ -195,7 +195,7 @@ p_concept <- ggplot() +
     breaks = NULL
   ) +
   labs(
-    x = "Simulation time",
+    x = "Simulation time (years)",
     y = expression("CoTS density (individuals ha"^-1*")"),
     colour = NULL
   ) +
@@ -216,3 +216,4 @@ save_plot(
   width = 7,
   height = 5
 )
+

@@ -568,7 +568,8 @@ p_trajectory_summary <- ggplot(
 ) +
   geom_line(
     alpha = 0.10,
-    linewidth = 0.35
+    linewidth = 0.35,
+    key_glyph = draw_key_rect
   ) +
   geom_hline(
     data = trajectory_refs,
@@ -592,13 +593,28 @@ p_trajectory_summary <- ggplot(
     alpha = 0.85
   ) +
   facet_wrap(~ site_code, scales = "free_y") +
-  scale_colour_manual(values = trajectory_basin_cols, drop = FALSE) +
+  scale_colour_manual(
+    values = trajectory_basin_cols,
+    drop = FALSE,
+    guide = guide_legend(
+      override.aes = list(
+        alpha = 1,
+        linewidth = 6
+      )
+    )
+  ) +
   labs(
     x = "Simulation time (years)",
     y = expression("Simulated CoTS density (individuals ha"^-1*")"),
     colour = NULL
   ) +
-  theme_clean
+  theme_clean +
+  theme(
+    legend.position = "bottom",
+    legend.direction = "horizontal",
+    legend.key.width = unit(1.2, "cm"),
+    legend.key.height = unit(0.45, "cm")
+  )
 
 save_plot(
   p_trajectory_summary,
@@ -606,6 +622,7 @@ save_plot(
   width = 9,
   height = 6
 )
+
 p_trajectory_summary
 
 ######### 13. Plot S5: Final Simulation Outcomes by Site #######
