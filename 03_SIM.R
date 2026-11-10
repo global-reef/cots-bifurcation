@@ -174,10 +174,11 @@ sample_parameter_set <- function(site_i) {
   )
   
   # raw implied upper equilibrium from coral cover relationship
-  KC_raw_i <- KT_i / HC_i
+  KC_i <- KT_i / HC_i
   
-  # constrain KC so it cannot be lower than observed starting density
-  KC_i <- max(KC_raw_i, N0_i * KC_buffer)
+  # reject ecologically invalid combinations where the implied upper equilibrium
+  # is less than 10% above the observed starting density
+  if (KT_i <= KE_i || KC_i <= KT_i || KC_i < N0_i * KC_buffer) return(NULL)
   
   tibble(
     site_code = site_i,
@@ -185,10 +186,8 @@ sample_parameter_set <- function(site_i) {
     HC_prop = HC_i,
     KE = KE_i,
     KT = KT_i,
-    KC_raw = KC_raw_i,
     KC = KC_i,
-    scale = scale_i,
-    KC_constrained = KC_i > KC_raw_i
+    scale = scale_i
   )
 }
 n_sims_per_site <- 2000
@@ -201,16 +200,20 @@ sites_to_simulate <- cots_starting_density %>%
 
 params <- map_dfr(sites_to_simulate, function(site_i) {
   
-  map_dfr(seq_len(n_sims_per_site), function(i) {
-    sample_parameter_set(site_i)
-  })
+  valid_params <- tibble()
+  
+  while (nrow(valid_params) < n_sims_per_site) {
+    
+    new_draw <- sample_parameter_set(site_i)
+    
+    if (!is.null(new_draw)) {
+      valid_params <- bind_rows(valid_params, new_draw)
+    }
+  }
+  
+  valid_params
   
 }) %>%
-  filter(
-    KT > KE,
-    KC > KT,
-    KC >= N0
-  ) %>%
   mutate(
     sim_id = row_number(),
     site_code = factor(site_code, levels = site_code_order),
@@ -237,9 +240,7 @@ param_summary <- params %>%
     min_KT = min(KT, na.rm = TRUE),
     median_KT = median(KT, na.rm = TRUE),
     max_KT = max(KT, na.rm = TRUE),
-    median_KC_raw = median(KC_raw, na.rm = TRUE),
     median_KC = median(KC, na.rm = TRUE),
-    prop_KC_constrained = mean(KC_constrained, na.rm = TRUE),
     median_scale = median(scale, na.rm = TRUE),
     .groups = "drop"
   )
@@ -342,10 +343,10 @@ sim_results <- params %>%
       HC_prop = p$HC_prop,
       KE = p$KE,
       KT = p$KT,
-      KC_raw = p$KC_raw,
+      # KC_raw = p$KC_raw,
       KC = p$KC,
       scale = p$scale,
-      KC_constrained = p$KC_constrained,
+      # KC_constrained = p$KC_constrained,
       basin_start = p$basin_start
     )
   }) %>%
@@ -549,11 +550,6 @@ trajectory_labels <- trajectory_refs %>%
     sim_year = max(trajectory_plot_sample$sim_year, na.rm = TRUE)
   )
 
-trajectory_basin_cols <- c(
-  "Started below KT" = "#95B971",
-  "Started above KT" = "#FF9683"
-)
-
 save_table(trajectory_plot_sample, "S13_sampled_individual_trajectories.csv")
 save_table(trajectory_refs, "S14_trajectory_reference_values.csv")
 
@@ -616,14 +612,14 @@ p_trajectory_summary <- ggplot(
     legend.key.height = unit(0.45, "cm")
   )
 
+p_trajectory_summary
+
 save_plot(
   p_trajectory_summary,
   "S4_monte_carlo_individual_trajectories.png",
   width = 9,
   height = 6
 )
-
-p_trajectory_summary
 
 ######### 13. Plot S5: Final Simulation Outcomes by Site #######
 

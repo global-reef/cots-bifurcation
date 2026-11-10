@@ -1,0 +1,11 @@
+site_code,basin_start,n,prop_sims
+GR,Endemic,951,0.4755
+GR,Outbreak basin,1049,0.5245
+RR,Endemic,1186,0.593
+RR,Outbreak basin,814,0.407
+TW,Endemic,1195,0.5975
+TW,Outbreak basin,805,0.4025
+AL,Endemic,2000,1
+SI,Endemic,1984,0.992
+SI,Outbreak basin,16,0.008
+TB,Endemic,2000,1

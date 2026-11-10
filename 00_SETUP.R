@@ -2,7 +2,7 @@
 
 ######### 0. Set Analysis Date & Create Project Folders #######
 
-analysis_date <- "2026.06.17"  # Update for each analysis run
+analysis_date <- "2026.08.07"  # Update for each analysis run
 
 output_dir <- file.path(getwd(), paste0("Analysis_", analysis_date))
 
@@ -27,22 +27,20 @@ for (dir in project_dirs) {
 
 ######### 1. Load Packages #######
 suppressPackageStartupMessages({
-library(dplyr);
-library(tidyr);
-library(ggplot2);
-library(readr);
-library(stringr);
-library(purrr);
-library(tibble);
+library(tidyverse);
 library(lubridate);
 library(here);
 library(terra);
-library(janitor)
+library(janitor);
+library(patchwork)
 })
 
 # call citations with:
 citation(package="base")
 
+pkgs <- c("tidyverse", "lubridate", "here", "terra", "janitor", "patchwork")
+
+lapply(pkgs, citation)
 ######### 2. Custom Theme & Colour Palettes & Forced Orders  #######
 
 theme_clean <- theme_minimal(base_family = "Arial") +
@@ -55,6 +53,9 @@ theme_clean <- theme_minimal(base_family = "Arial") +
     plot.background = element_rect(fill = "white", colour = NA),
     panel.grid = element_blank()
   )
+
+
+
 
 # CoTS / outbreak palette
 outcome_cols <- c(
@@ -88,6 +89,56 @@ density_class_cols <- c(
   "40+" = "#9E2F3D"
 )
 
+concept_cols <- c(
+  "Endemic basin" = "#95B971",
+  "Outbreak basin" = "#FF9683",
+  "Threshold" = "#9E2F3D",
+  "Reference" = "grey35"
+)
+
+# accessible palette 
+outcome_cols <- c(
+  "Endemic equilibrium"        = "#aee3c0",
+  "Endemic basin"              = "#6dd3ad",
+  "Outbreak basin"             = "#3d5296",
+  "Upper outbreak equilibrium" = "#231526"
+)
+
+basin_cols <- c(
+  "Endemic"        = "#6dd3ad",
+  "Threshold"      = "#366da0",
+  "Outbreak basin" = "#403974"
+)
+
+site_type_cols <- c(
+  "Control"      = "#aee3c0", 
+  "High Density" = "#3d5296"
+)
+
+threshold_cols <- c(
+  "15 CoTS ha-1 \n Green Fins (2021)" = "#231526"
+)
+
+density_class_cols <- c(
+  "Below 10"  = "#aee3c0",
+  "10 to <15" = "#6dd3ad",
+  "15 to <30" = "#35a1ab",
+  "30 to <40" = "#3d5296",
+  "40+"       = "#231526"
+)
+
+concept_cols <- c(
+  "Endemic basin"  = "#6dd3ad",
+  "Outbreak basin" = "#403974",
+  "Threshold"      = "#231526",
+  "Reference"      = "grey45"
+)
+
+trajectory_basin_cols <- c(
+  "Started below KT" = "#aee3c0", 
+  "Started above KT" = "#3d5296"
+)
+
 # Site Orders 
 site_code_order <- c("GR", "RR", "TW", "AL", "SI", "TB")
 
@@ -109,7 +160,7 @@ key_substrates <- c("HC", "TUR", "MAC", "AB", "OB")
 
 
 ######### 3. Helpers #######
-save_plot <- function(plot, filename, width = 7, height = 5, dpi = 300) {
+save_plot <- function(plot, filename, width = 7, height = 5, dpi = 600) {
   ggsave(
     filename = file.path(output_dir, "figures", filename),
     plot = plot,

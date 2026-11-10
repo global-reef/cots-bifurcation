@@ -260,6 +260,91 @@ p_hc_site <- ggplot(substrate_wide, aes(x = site_code, y = HC, fill = site_type)
 
 save_plot(p_hc_site, "E3_hard_coral_cover_by_site.png", width = 7, height = 5)
 
+####### + plot E1/E3 Combined: Empirical Model Inputs #######
+
+p_cots_site <- ggplot(cots_survey, aes(x = site_code, y = cots_ha)) +
+  geom_boxplot(
+    aes(fill = site_type),
+    alpha = 0.75,
+    outlier.shape = NA
+  ) +
+  geom_jitter(
+    aes(colour = site_type),
+    width = 0.15,
+    height = 0,
+    size = 2,
+    alpha = 0.7,
+    show.legend = FALSE
+  ) +
+  geom_hline(
+    yintercept = 15,
+    linetype = "dashed",
+    linewidth = 0.6,
+    colour = threshold_cols[["15 CoTS ha-1 \n Green Fins (2021)"]]
+  ) +
+  annotate(
+    "text",
+    x = Inf,
+    y = 15,
+    label = expression("15 CoTS ha"^-1),
+    hjust = 1.05,
+    vjust = -0.6,
+    size = 3.5,
+    colour = threshold_cols[["15 CoTS ha-1 \n Green Fins (2021)"]]
+  ) +
+  scale_fill_manual(values = site_type_cols, drop = FALSE) +
+  scale_colour_manual(values = site_type_cols, drop = FALSE) +
+  labs(
+    x = "Site",
+    y = expression("CoTS density (individuals ha"^-1*")"),
+    fill = NULL
+  ) +
+  theme_clean +
+  theme(
+    legend.position = "bottom"
+  )
+
+p_hc_site <- ggplot(substrate_wide, aes(x = site_code, y = HC)) +
+  geom_boxplot(
+    aes(fill = site_type),
+    alpha = 0.75,
+    outlier.shape = NA
+  ) +
+  geom_jitter(
+    aes(colour = site_type),
+    width = 0.15,
+    height = 0,
+    size = 2,
+    alpha = 0.7,
+    show.legend = FALSE
+  ) +
+  scale_fill_manual(values = site_type_cols, drop = FALSE) +
+  scale_colour_manual(values = site_type_cols, drop = FALSE) +
+  labs(
+    x = "Site",
+    y = "Hard coral cover (%)",
+    fill = NULL
+  ) +
+  theme_clean +
+  theme(
+    legend.position = "bottom"
+  )
+
+p_empirical_inputs <- p_cots_site + p_hc_site +
+  plot_layout(ncol = 2, guides = "collect") +
+  plot_annotation(tag_levels = "A") &
+  theme(
+    legend.position = "bottom",
+    legend.box = "horizontal"
+  )
+
+save_plot(
+  p_empirical_inputs,
+  "E1_E3_empirical_model_inputs.png",
+  width = 10,
+  height = 5
+)
+ 
 
 ######### 9. Plot E4: Focal Substrate Cover by Site #######
 

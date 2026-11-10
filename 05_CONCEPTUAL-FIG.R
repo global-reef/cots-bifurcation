@@ -1,12 +1,5 @@
 ######### Conceptual Figure: Bifurcation Pathways #######
 
-concept_cols <- c(
-  "Endemic basin" = "#95B971",
-  "Outbreak basin" = "#FF9683",
-  "Threshold" = "#9E2F3D",
-  "Reference" = "grey35"
-)
-
 KE_y <- 8
 KT_y <- 15
 KC_y <- 38

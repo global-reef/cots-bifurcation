@@ -1,0 +1,21 @@
+site_code,outcome,n,prop
+GR,Endemic equilibrium,265,0.1325
+GR,Endemic basin,686,0.343
+GR,Outbreak basin,628,0.314
+GR,Upper outbreak equilibrium,421,0.2105
+RR,Endemic equilibrium,249,0.1245
+RR,Endemic basin,937,0.4685
+RR,Outbreak basin,572,0.286
+RR,Upper outbreak equilibrium,242,0.121
+TW,Endemic equilibrium,479,0.2395
+TW,Endemic basin,716,0.358
+TW,Outbreak basin,486,0.243
+TW,Upper outbreak equilibrium,319,0.1595
+AL,Endemic equilibrium,1021,0.5105
+AL,Endemic basin,979,0.4895
+SI,Endemic equilibrium,1010,0.505
+SI,Endemic basin,974,0.487
+SI,Outbreak basin,14,0.007
+SI,Upper outbreak equilibrium,2,0.001
+TB,Endemic equilibrium,1337,0.6685
+TB,Endemic basin,663,0.3315
